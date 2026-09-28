@@ -1,0 +1,5001 @@
+patient_id,age,gender,country,medical_condition
+P00001,56,Female,Australia,High Cholesterol
+P00002,69,Female,Japan,Arthritis
+P00003,46,Female,Japan,Heart Disease
+P00004,32,Female,Japan,High Cholesterol
+P00005,60,Female,India,Respiratory Infection
+P00006,25,Male,United States,Respiratory Infection
+P00007,78,Male,United Kingdom,Asthma
+P00008,38,Female,Canada,None
+P00009,56,Male,Singapore,Migraine
+P00010,75,Female,Japan,Migraine
+P00011,36,Male,Singapore,Arthritis
+P00012,40,Male,Germany,None
+P00013,28,Female,India,Asthma
+P00014,28,Female,Japan,Hypertension
+P00015,41,Female,Germany,Gastritis
+P00016,70,Female,Canada,High Cholesterol
+P00017,53,Male,Canada,None
+P00018,57,Male,United Kingdom,Gastritis
+P00019,41,Female,France,Hypertension
+P00020,20,Female,United Kingdom,Heart Disease
+P00021,39,Male,United States,Asthma
+P00022,70,Female,Singapore,Gastritis
+P00023,19,Male,Brazil,Asthma
+P00024,41,Male,Canada,Asthma
+P00025,61,Male,Brazil,None
+P00026,47,Female,India,Respiratory Infection
+P00027,55,Female,Australia,Diabetes
+P00028,19,Male,Japan,Arthritis
+P00029,77,Female,India,Migraine
+P00030,38,Male,Canada,Asthma
+P00031,50,Male,Germany,None
+P00032,29,Male,Singapore,None
+P00033,75,Male,Brazil,Gastritis
+P00034,39,Male,United Kingdom,Gastritis
+P00035,78,Female,Australia,High Cholesterol
+P00036,61,Female,France,Asthma
+P00037,42,Female,India,Diabetes
+P00038,66,Male,France,Arthritis
+P00039,44,Male,Brazil,Arthritis
+P00040,76,Male,Brazil,Heart Disease
+P00041,80,Male,Japan,Heart Disease
+P00042,59,Female,Germany,High Cholesterol
+P00043,45,Male,Germany,Migraine
+P00044,77,Female,United States,Heart Disease
+P00045,33,Female,United Kingdom,Hypertension
+P00046,32,Male,Canada,High Cholesterol
+P00047,79,Female,Canada,Arthritis
+P00048,79,Female,Brazil,Arthritis
+P00049,64,Female,India,Diabetes
+P00050,79,Male,Singapore,None
+P00051,68,Male,Canada,Hypertension
+P00052,61,Male,Canada,Migraine
+P00053,72,Male,India,Gastritis
+P00054,69,Male,United Kingdom,High Cholesterol
+P00055,74,Female,Australia,Heart Disease
+P00056,20,Male,Germany,Respiratory Infection
+P00057,54,Female,Japan,Diabetes
+P00058,68,Female,Japan,Arthritis
+P00059,24,Male,Japan,Respiratory Infection
+P00060,38,Male,India,High Cholesterol
+P00061,26,Female,Japan,Asthma
+P00062,56,Female,Brazil,Migraine
+P00063,35,Female,United States,Asthma
+P00064,21,Male,India,High Cholesterol
+P00065,42,Male,India,Asthma
+P00066,77,Male,Germany,Migraine
+P00067,31,Male,Japan,None
+P00068,67,Female,France,High Cholesterol
+P00069,75,Female,Australia,Respiratory Infection
+P00070,26,Female,United States,Asthma
+P00071,43,Female,India,Migraine
+P00072,70,Female,United States,Heart Disease
+P00073,19,Male,India,Gastritis
+P00074,37,Male,United Kingdom,Migraine
+P00075,45,Female,Germany,Diabetes
+P00076,64,Male,Brazil,Gastritis
+P00077,77,Female,United Kingdom,Heart Disease
+P00078,24,Female,Singapore,Hypertension
+P00079,61,Male,Japan,Respiratory Infection
+P00080,78,Female,Singapore,Arthritis
+P00081,25,Female,Australia,Heart Disease
+P00082,64,Female,France,None
+P00083,52,Female,Brazil,Gastritis
+P00084,31,Female,United Kingdom,None
+P00085,34,Male,United States,Gastritis
+P00086,53,Male,United States,Diabetes
+P00087,67,Female,Australia,Hypertension
+P00088,57,Female,India,Arthritis
+P00089,21,Male,United States,Diabetes
+P00090,19,Male,Japan,Heart Disease
+P00091,79,Female,France,None
+P00092,23,Female,Germany,Gastritis
+P00093,71,Female,Japan,Heart Disease
+P00094,59,Female,France,Migraine
+P00095,21,Male,Australia,Hypertension
+P00096,71,Male,Japan,Respiratory Infection
+P00097,46,Female,Germany,Migraine
+P00098,80,Male,Germany,None
+P00099,35,Male,Canada,Hypertension
+P00100,43,Male,India,Hypertension
+P00101,61,Female,Australia,Heart Disease
+P00102,51,Female,Japan,Migraine
+P00103,27,Male,Brazil,Heart Disease
+P00104,79,Male,Brazil,Heart Disease
+P00105,53,Female,Australia,Heart Disease
+P00106,31,Female,Japan,None
+P00107,48,Male,United Kingdom,Gastritis
+P00108,65,Male,United Kingdom,Gastritis
+P00109,32,Male,India,None
+P00110,25,Female,Japan,Arthritis
+P00111,31,Male,Germany,Respiratory Infection
+P00112,40,Male,United States,Diabetes
+P00113,77,Female,Brazil,Respiratory Infection
+P00114,74,Female,Japan,None
+P00115,79,Male,Japan,Asthma
+P00116,57,Female,United States,Diabetes
+P00117,38,Male,United States,Arthritis
+P00118,33,Female,France,High Cholesterol
+P00119,62,Male,Canada,Diabetes
+P00120,35,Female,India,Hypertension
+P00121,64,Male,Brazil,None
+P00122,70,Female,United States,High Cholesterol
+P00123,41,Female,United Kingdom,Respiratory Infection
+P00124,43,Female,Australia,High Cholesterol
+P00125,42,Female,United Kingdom,None
+P00126,77,Female,France,Respiratory Infection
+P00127,77,Male,France,None
+P00128,77,Male,United States,Migraine
+P00129,62,Female,France,Asthma
+P00130,58,Male,Germany,Arthritis
+P00131,46,Female,Singapore,Arthritis
+P00132,32,Female,Japan,Hypertension
+P00133,62,Male,Japan,Asthma
+P00134,18,Female,United States,Asthma
+P00135,42,Male,France,Hypertension
+P00136,24,Female,Australia,Respiratory Infection
+P00137,26,Male,Germany,Hypertension
+P00138,41,Male,India,Respiratory Infection
+P00139,18,Female,France,Hypertension
+P00140,61,Female,Germany,Diabetes
+P00141,25,Female,Canada,Diabetes
+P00142,41,Female,India,Migraine
+P00143,80,Male,Japan,Gastritis
+P00144,28,Female,Canada,Hypertension
+P00145,68,Male,United States,Asthma
+P00146,34,Female,Brazil,Diabetes
+P00147,25,Female,United States,Heart Disease
+P00148,52,Female,Australia,Respiratory Infection
+P00149,52,Female,Germany,Diabetes
+P00150,50,Male,Brazil,Diabetes
+P00151,76,Female,India,None
+P00152,22,Male,India,Respiratory Infection
+P00153,59,Female,Canada,Arthritis
+P00154,56,Male,Australia,High Cholesterol
+P00155,75,Female,Japan,Respiratory Infection
+P00156,58,Female,France,Migraine
+P00157,45,Male,France,None
+P00158,24,Male,Brazil,Respiratory Infection
+P00159,26,Female,Australia,Respiratory Infection
+P00160,25,Male,Australia,Gastritis
+P00161,29,Male,India,None
+P00162,51,Male,Japan,Respiratory Infection
+P00163,50,Male,Germany,High Cholesterol
+P00164,65,Female,Japan,High Cholesterol
+P00165,72,Female,United Kingdom,Heart Disease
+P00166,40,Male,Australia,None
+P00167,79,Male,United States,Arthritis
+P00168,41,Male,Singapore,Respiratory Infection
+P00169,54,Male,Australia,Gastritis
+P00170,52,Male,Brazil,Gastritis
+P00171,61,Male,United States,Asthma
+P00172,57,Male,Brazil,Arthritis
+P00173,39,Female,Canada,Gastritis
+P00174,44,Male,Singapore,High Cholesterol
+P00175,52,Female,Singapore,Asthma
+P00176,18,Female,India,Hypertension
+P00177,52,Female,Australia,Gastritis
+P00178,54,Female,India,Migraine
+P00179,64,Female,France,None
+P00180,31,Female,Brazil,Gastritis
+P00181,20,Female,United Kingdom,Diabetes
+P00182,18,Female,United Kingdom,Arthritis
+P00183,22,Female,France,Diabetes
+P00184,43,Female,Canada,Heart Disease
+P00185,72,Male,United Kingdom,Gastritis
+P00186,80,Male,Brazil,Hypertension
+P00187,31,Male,United Kingdom,Diabetes
+P00188,56,Female,France,Diabetes
+P00189,44,Female,United States,Arthritis
+P00190,26,Female,India,Asthma
+P00191,32,Female,Germany,Hypertension
+P00192,32,Male,Brazil,Diabetes
+P00193,43,Male,India,Respiratory Infection
+P00194,59,Female,Singapore,Hypertension
+P00195,77,Female,Japan,Respiratory Infection
+P00196,30,Female,United Kingdom,Gastritis
+P00197,68,Male,United Kingdom,Diabetes
+P00198,80,Female,Canada,Diabetes
+P00199,49,Female,India,High Cholesterol
+P00200,56,Female,Japan,High Cholesterol
+P00201,66,Female,United Kingdom,Arthritis
+P00202,69,Female,Singapore,None
+P00203,78,Male,Canada,None
+P00204,49,Female,India,Asthma
+P00205,21,Female,Canada,Arthritis
+P00206,47,Female,India,None
+P00207,54,Female,Australia,Arthritis
+P00208,40,Male,Australia,Diabetes
+P00209,56,Male,France,High Cholesterol
+P00210,62,Female,Brazil,High Cholesterol
+P00211,32,Male,Canada,High Cholesterol
+P00212,60,Female,France,None
+P00213,46,Male,Canada,Hypertension
+P00214,53,Female,United Kingdom,Migraine
+P00215,30,Female,Germany,Diabetes
+P00216,49,Female,Canada,Gastritis
+P00217,24,Male,United Kingdom,Arthritis
+P00218,76,Female,Japan,High Cholesterol
+P00219,68,Female,Australia,High Cholesterol
+P00220,39,Male,France,High Cholesterol
+P00221,45,Female,Germany,Diabetes
+P00222,19,Female,Singapore,High Cholesterol
+P00223,59,Female,Australia,Asthma
+P00224,62,Male,France,Arthritis
+P00225,79,Male,Germany,Diabetes
+P00226,74,Male,Singapore,Arthritis
+P00227,70,Male,United States,Respiratory Infection
+P00228,23,Male,United Kingdom,Heart Disease
+P00229,45,Female,United States,Asthma
+P00230,45,Male,United Kingdom,Hypertension
+P00231,61,Female,India,Hypertension
+P00232,61,Female,Brazil,Migraine
+P00233,37,Female,Germany,Asthma
+P00234,47,Female,United States,Arthritis
+P00235,79,Female,Brazil,Hypertension
+P00236,28,Female,Germany,Heart Disease
+P00237,75,Male,France,Hypertension
+P00238,72,Male,India,High Cholesterol
+P00239,45,Female,France,Migraine
+P00240,42,Female,United Kingdom,Diabetes
+P00241,56,Male,Brazil,Gastritis
+P00242,79,Female,Germany,Gastritis
+P00243,50,Female,Canada,Hypertension
+P00244,18,Male,Brazil,Arthritis
+P00245,74,Female,Japan,Arthritis
+P00246,44,Male,Singapore,High Cholesterol
+P00247,79,Male,United States,Hypertension
+P00248,74,Female,Germany,Hypertension
+P00249,69,Male,Australia,Gastritis
+P00250,30,Female,Australia,Respiratory Infection
+P00251,58,Male,Singapore,Hypertension
+P00252,20,Male,United Kingdom,Diabetes
+P00253,56,Female,Brazil,Migraine
+P00254,23,Male,Brazil,Migraine
+P00255,25,Male,Australia,Diabetes
+P00256,44,Male,Brazil,Respiratory Infection
+P00257,26,Female,Singapore,Arthritis
+P00258,79,Male,Brazil,Gastritis
+P00259,54,Male,United Kingdom,Migraine
+P00260,50,Male,United States,Asthma
+P00261,68,Male,Japan,Heart Disease
+P00262,59,Female,United States,Gastritis
+P00263,61,Female,Japan,Respiratory Infection
+P00264,41,Male,Canada,Asthma
+P00265,32,Female,United States,Hypertension
+P00266,76,Male,Singapore,Diabetes
+P00267,71,Female,India,Hypertension
+P00268,49,Female,Canada,High Cholesterol
+P00269,49,Male,Japan,None
+P00270,41,Female,Japan,Diabetes
+P00271,58,Female,Canada,Asthma
+P00272,69,Male,Japan,Heart Disease
+P00273,66,Male,Germany,None
+P00274,79,Male,India,High Cholesterol
+P00275,66,Female,Singapore,Arthritis
+P00276,75,Female,Germany,High Cholesterol
+P00277,69,Female,Japan,None
+P00278,29,Female,United States,Migraine
+P00279,79,Female,Germany,Gastritis
+P00280,56,Female,United States,Respiratory Infection
+P00281,19,Female,Canada,Hypertension
+P00282,20,Male,Brazil,Arthritis
+P00283,66,Female,France,Respiratory Infection
+P00284,54,Female,Japan,High Cholesterol
+P00285,66,Male,France,Heart Disease
+P00286,73,Female,India,Hypertension
+P00287,34,Male,United States,Arthritis
+P00288,76,Male,Germany,Respiratory Infection
+P00289,66,Female,France,Hypertension
+P00290,19,Male,United Kingdom,Hypertension
+P00291,19,Male,Japan,Arthritis
+P00292,45,Male,France,Asthma
+P00293,71,Female,Germany,Gastritis
+P00294,40,Male,Germany,Asthma
+P00295,54,Female,India,Hypertension
+P00296,49,Male,Australia,None
+P00297,50,Female,Singapore,Diabetes
+P00298,18,Female,United Kingdom,None
+P00299,36,Male,France,Arthritis
+P00300,79,Male,Singapore,Hypertension
+P00301,19,Male,United Kingdom,Hypertension
+P00302,70,Female,Australia,Heart Disease
+P00303,61,Male,France,Gastritis
+P00304,43,Male,United Kingdom,Heart Disease
+P00305,49,Male,Singapore,Arthritis
+P00306,23,Male,United States,Migraine
+P00307,49,Male,Germany,Asthma
+P00308,72,Female,Brazil,Heart Disease
+P00309,21,Female,Canada,Arthritis
+P00310,72,Male,Japan,Asthma
+P00311,28,Female,Brazil,Arthritis
+P00312,73,Male,France,Migraine
+P00313,76,Female,France,Gastritis
+P00314,34,Female,United Kingdom,Gastritis
+P00315,80,Female,Germany,Arthritis
+P00316,55,Female,Australia,Heart Disease
+P00317,41,Male,India,Gastritis
+P00318,22,Female,United Kingdom,Diabetes
+P00319,69,Female,India,Heart Disease
+P00320,51,Male,Canada,Respiratory Infection
+P00321,23,Female,Singapore,High Cholesterol
+P00322,39,Male,United Kingdom,Arthritis
+P00323,28,Female,Canada,Arthritis
+P00324,80,Male,Japan,Arthritis
+P00325,65,Male,United Kingdom,Migraine
+P00326,33,Female,Germany,Arthritis
+P00327,50,Female,Germany,Gastritis
+P00328,26,Male,France,Gastritis
+P00329,77,Male,Japan,High Cholesterol
+P00330,76,Female,France,High Cholesterol
+P00331,23,Male,India,None
+P00332,33,Male,Brazil,Heart Disease
+P00333,46,Female,Australia,Gastritis
+P00334,20,Female,Japan,Gastritis
+P00335,37,Male,Singapore,Migraine
+P00336,77,Female,Australia,Gastritis
+P00337,76,Female,Australia,Gastritis
+P00338,53,Female,United States,None
+P00339,36,Female,United Kingdom,Diabetes
+P00340,43,Male,Singapore,None
+P00341,20,Male,Japan,Diabetes
+P00342,80,Male,France,None
+P00343,36,Female,India,Gastritis
+P00344,37,Male,United Kingdom,None
+P00345,49,Female,United States,Gastritis
+P00346,24,Male,India,Gastritis
+P00347,69,Male,Japan,High Cholesterol
+P00348,58,Female,Brazil,Hypertension
+P00349,50,Male,Australia,Diabetes
+P00350,57,Male,United States,Respiratory Infection
+P00351,56,Female,India,Heart Disease
+P00352,35,Male,France,Heart Disease
+P00353,57,Female,United States,None
+P00354,18,Female,India,Hypertension
+P00355,28,Male,United States,Migraine
+P00356,45,Female,France,Respiratory Infection
+P00357,74,Male,France,Heart Disease
+P00358,42,Male,Singapore,Asthma
+P00359,67,Male,Germany,Arthritis
+P00360,40,Male,Australia,Asthma
+P00361,48,Female,United Kingdom,Migraine
+P00362,47,Male,United Kingdom,Respiratory Infection
+P00363,59,Female,Japan,Heart Disease
+P00364,52,Female,Canada,None
+P00365,24,Female,Japan,Arthritis
+P00366,77,Male,Canada,Diabetes
+P00367,33,Male,United States,Heart Disease
+P00368,43,Female,Canada,Heart Disease
+P00369,65,Male,Germany,Migraine
+P00370,74,Male,Germany,Heart Disease
+P00371,69,Male,Australia,Respiratory Infection
+P00372,77,Male,India,Hypertension
+P00373,66,Female,United Kingdom,Respiratory Infection
+P00374,19,Male,Australia,Diabetes
+P00375,18,Male,Germany,Hypertension
+P00376,65,Male,India,Heart Disease
+P00377,79,Female,Japan,Heart Disease
+P00378,29,Female,United Kingdom,Arthritis
+P00379,22,Male,Singapore,Heart Disease
+P00380,54,Female,United Kingdom,Gastritis
+P00381,49,Female,United States,Diabetes
+P00382,76,Female,Brazil,High Cholesterol
+P00383,72,Female,United Kingdom,None
+P00384,26,Male,Germany,Arthritis
+P00385,58,Male,United States,Asthma
+P00386,52,Male,France,Hypertension
+P00387,36,Male,Canada,High Cholesterol
+P00388,65,Female,Japan,None
+P00389,33,Male,Singapore,Heart Disease
+P00390,20,Male,Japan,Respiratory Infection
+P00391,37,Female,France,Gastritis
+P00392,41,Female,Brazil,Hypertension
+P00393,71,Male,United Kingdom,Hypertension
+P00394,73,Male,Australia,Hypertension
+P00395,50,Male,United States,Diabetes
+P00396,41,Female,Singapore,Hypertension
+P00397,69,Male,France,Arthritis
+P00398,28,Male,Brazil,None
+P00399,66,Male,Japan,Respiratory Infection
+P00400,25,Male,France,Arthritis
+P00401,53,Female,Singapore,Arthritis
+P00402,55,Male,Singapore,Gastritis
+P00403,57,Male,Brazil,Respiratory Infection
+P00404,37,Female,Japan,Gastritis
+P00405,79,Female,Germany,Hypertension
+P00406,52,Male,Singapore,Hypertension
+P00407,65,Female,United States,Arthritis
+P00408,79,Female,United States,Arthritis
+P00409,42,Female,Canada,Hypertension
+P00410,52,Male,Japan,Migraine
+P00411,42,Female,France,None
+P00412,46,Male,United States,Diabetes
+P00413,35,Male,Brazil,High Cholesterol
+P00414,63,Male,France,Heart Disease
+P00415,35,Male,Japan,Asthma
+P00416,19,Female,Brazil,Respiratory Infection
+P00417,71,Male,United Kingdom,Gastritis
+P00418,52,Male,India,Respiratory Infection
+P00419,33,Female,United States,Hypertension
+P00420,78,Male,United States,High Cholesterol
+P00421,58,Male,Canada,Asthma
+P00422,53,Male,Germany,Arthritis
+P00423,50,Male,Canada,Arthritis
+P00424,21,Male,Japan,Gastritis
+P00425,50,Female,Canada,None
+P00426,31,Male,Germany,Heart Disease
+P00427,38,Male,Germany,None
+P00428,65,Female,Singapore,High Cholesterol
+P00429,37,Female,Singapore,None
+P00430,73,Male,India,Gastritis
+P00431,25,Female,Brazil,Asthma
+P00432,24,Male,United Kingdom,Asthma
+P00433,20,Male,Germany,Asthma
+P00434,34,Male,United Kingdom,Arthritis
+P00435,50,Male,United States,Migraine
+P00436,65,Female,Australia,High Cholesterol
+P00437,29,Male,India,Heart Disease
+P00438,76,Female,Japan,High Cholesterol
+P00439,68,Male,France,High Cholesterol
+P00440,39,Female,United Kingdom,None
+P00441,72,Female,Canada,Diabetes
+P00442,39,Female,Germany,High Cholesterol
+P00443,63,Male,United Kingdom,Gastritis
+P00444,47,Female,France,Diabetes
+P00445,55,Male,Germany,Migraine
+P00446,55,Female,Japan,Gastritis
+P00447,62,Female,Australia,High Cholesterol
+P00448,68,Female,Canada,Respiratory Infection
+P00449,71,Male,United Kingdom,Arthritis
+P00450,25,Male,Singapore,None
+P00451,44,Male,India,Hypertension
+P00452,44,Male,United Kingdom,Heart Disease
+P00453,51,Female,United Kingdom,Heart Disease
+P00454,38,Female,France,Gastritis
+P00455,47,Female,France,Heart Disease
+P00456,50,Male,India,Diabetes
+P00457,45,Female,United Kingdom,Asthma
+P00458,64,Female,Brazil,Respiratory Infection
+P00459,50,Female,Japan,Hypertension
+P00460,22,Female,France,Heart Disease
+P00461,77,Male,France,Heart Disease
+P00462,78,Female,Brazil,Gastritis
+P00463,65,Male,Germany,High Cholesterol
+P00464,36,Male,United Kingdom,Arthritis
+P00465,21,Male,India,None
+P00466,52,Female,France,None
+P00467,66,Female,India,None
+P00468,34,Female,India,None
+P00469,61,Female,Japan,Migraine
+P00470,45,Male,Singapore,Hypertension
+P00471,47,Male,France,High Cholesterol
+P00472,46,Male,Canada,Arthritis
+P00473,63,Male,Germany,Arthritis
+P00474,70,Male,India,Gastritis
+P00475,23,Male,France,Respiratory Infection
+P00476,52,Male,Germany,Heart Disease
+P00477,77,Female,Canada,Heart Disease
+P00478,58,Male,France,High Cholesterol
+P00479,54,Female,United Kingdom,Migraine
+P00480,41,Female,India,Diabetes
+P00481,46,Male,Canada,Asthma
+P00482,66,Male,United Kingdom,High Cholesterol
+P00483,63,Male,India,Diabetes
+P00484,70,Male,United States,Asthma
+P00485,48,Female,Australia,Arthritis
+P00486,52,Male,Brazil,Migraine
+P00487,77,Male,India,High Cholesterol
+P00488,50,Male,Canada,None
+P00489,69,Female,Canada,Arthritis
+P00490,80,Female,Australia,Diabetes
+P00491,78,Female,France,High Cholesterol
+P00492,38,Male,Brazil,High Cholesterol
+P00493,49,Female,Germany,Gastritis
+P00494,40,Female,India,Hypertension
+P00495,50,Female,France,Arthritis
+P00496,20,Female,United Kingdom,High Cholesterol
+P00497,35,Male,Germany,Heart Disease
+P00498,42,Female,Brazil,Heart Disease
+P00499,59,Female,France,Hypertension
+P00500,48,Male,Singapore,High Cholesterol
+P00501,71,Male,Germany,None
+P00502,75,Female,Japan,Hypertension
+P00503,20,Male,Japan,Hypertension
+P00504,57,Female,India,Diabetes
+P00505,63,Female,India,Diabetes
+P00506,41,Female,India,Respiratory Infection
+P00507,67,Male,Brazil,Arthritis
+P00508,49,Female,Singapore,Asthma
+P00509,64,Male,France,Hypertension
+P00510,39,Male,United Kingdom,Diabetes
+P00511,40,Male,United States,Migraine
+P00512,19,Female,Canada,Respiratory Infection
+P00513,80,Male,United Kingdom,High Cholesterol
+P00514,44,Female,France,Arthritis
+P00515,59,Female,Singapore,High Cholesterol
+P00516,19,Female,Brazil,Respiratory Infection
+P00517,43,Female,Germany,Gastritis
+P00518,34,Male,United Kingdom,Heart Disease
+P00519,57,Female,Germany,Arthritis
+P00520,50,Male,United States,Heart Disease
+P00521,26,Female,France,Migraine
+P00522,60,Male,Singapore,High Cholesterol
+P00523,71,Male,France,Gastritis
+P00524,65,Female,Canada,Migraine
+P00525,56,Male,Brazil,Asthma
+P00526,46,Male,Canada,High Cholesterol
+P00527,59,Female,France,Respiratory Infection
+P00528,72,Female,Canada,Gastritis
+P00529,43,Female,Australia,Arthritis
+P00530,52,Male,France,Gastritis
+P00531,67,Female,Singapore,High Cholesterol
+P00532,42,Male,United Kingdom,Diabetes
+P00533,41,Female,Singapore,Migraine
+P00534,30,Female,Australia,Gastritis
+P00535,77,Male,United Kingdom,Heart Disease
+P00536,75,Male,Australia,Migraine
+P00537,24,Male,United Kingdom,Heart Disease
+P00538,74,Male,Singapore,Gastritis
+P00539,53,Male,France,Diabetes
+P00540,62,Male,India,Migraine
+P00541,37,Female,Japan,Respiratory Infection
+P00542,18,Male,Japan,Migraine
+P00543,25,Female,Australia,Arthritis
+P00544,63,Male,Japan,Gastritis
+P00545,33,Female,Singapore,Asthma
+P00546,31,Female,Germany,High Cholesterol
+P00547,29,Male,Australia,Hypertension
+P00548,68,Male,United Kingdom,None
+P00549,40,Female,Brazil,Asthma
+P00550,32,Male,Canada,Heart Disease
+P00551,45,Female,Singapore,Respiratory Infection
+P00552,51,Female,United Kingdom,Respiratory Infection
+P00553,19,Female,Germany,None
+P00554,49,Male,Brazil,Diabetes
+P00555,40,Female,Japan,Arthritis
+P00556,80,Female,Germany,High Cholesterol
+P00557,39,Female,Australia,Asthma
+P00558,68,Male,United States,Hypertension
+P00559,42,Female,United States,Migraine
+P00560,75,Male,Japan,None
+P00561,80,Female,United States,Diabetes
+P00562,79,Male,United States,Respiratory Infection
+P00563,78,Female,United Kingdom,Hypertension
+P00564,39,Male,United Kingdom,Respiratory Infection
+P00565,75,Female,Canada,Gastritis
+P00566,75,Female,France,None
+P00567,39,Female,Japan,Diabetes
+P00568,66,Male,United States,Migraine
+P00569,69,Male,Canada,Heart Disease
+P00570,59,Female,Japan,Diabetes
+P00571,23,Male,United States,High Cholesterol
+P00572,32,Female,Singapore,Migraine
+P00573,71,Female,India,Asthma
+P00574,60,Female,Singapore,Diabetes
+P00575,77,Male,Brazil,Migraine
+P00576,54,Female,Japan,Asthma
+P00577,50,Female,France,Diabetes
+P00578,25,Male,Brazil,Hypertension
+P00579,70,Female,Canada,Heart Disease
+P00580,77,Male,Canada,Hypertension
+P00581,61,Male,United States,High Cholesterol
+P00582,61,Male,Brazil,Migraine
+P00583,22,Male,United States,Asthma
+P00584,56,Female,Japan,Gastritis
+P00585,21,Male,Canada,Diabetes
+P00586,23,Male,India,Gastritis
+P00587,62,Male,Canada,Diabetes
+P00588,49,Female,United Kingdom,High Cholesterol
+P00589,69,Female,Germany,Gastritis
+P00590,47,Male,France,Asthma
+P00591,64,Male,Brazil,Arthritis
+P00592,52,Female,United States,Hypertension
+P00593,72,Male,Germany,Asthma
+P00594,57,Male,Germany,Respiratory Infection
+P00595,69,Male,Singapore,None
+P00596,33,Female,Australia,High Cholesterol
+P00597,30,Male,Singapore,Heart Disease
+P00598,67,Male,Singapore,Diabetes
+P00599,77,Male,France,Asthma
+P00600,59,Female,United Kingdom,Gastritis
+P00601,47,Male,Canada,None
+P00602,36,Female,Singapore,Arthritis
+P00603,34,Male,Japan,Respiratory Infection
+P00604,73,Male,Canada,Gastritis
+P00605,80,Female,United Kingdom,Hypertension
+P00606,36,Male,United States,Arthritis
+P00607,45,Female,Australia,None
+P00608,75,Female,Canada,Migraine
+P00609,72,Female,Brazil,Migraine
+P00610,43,Male,France,None
+P00611,54,Female,Germany,Migraine
+P00612,43,Male,United States,High Cholesterol
+P00613,70,Female,United Kingdom,Asthma
+P00614,79,Female,Singapore,Diabetes
+P00615,40,Female,Japan,Asthma
+P00616,80,Male,Japan,Respiratory Infection
+P00617,26,Female,Australia,Asthma
+P00618,29,Male,United Kingdom,Asthma
+P00619,70,Female,United States,Hypertension
+P00620,18,Male,Brazil,Diabetes
+P00621,75,Male,Germany,Asthma
+P00622,75,Female,Singapore,Diabetes
+P00623,18,Female,France,Heart Disease
+P00624,64,Male,India,Migraine
+P00625,51,Female,India,Gastritis
+P00626,49,Male,Singapore,Hypertension
+P00627,79,Male,United States,Migraine
+P00628,71,Male,Singapore,Diabetes
+P00629,65,Male,United Kingdom,Migraine
+P00630,42,Male,India,Asthma
+P00631,57,Female,Australia,Gastritis
+P00632,62,Male,United Kingdom,Asthma
+P00633,70,Male,India,Respiratory Infection
+P00634,18,Female,Brazil,Asthma
+P00635,33,Male,Germany,Gastritis
+P00636,78,Male,Japan,Arthritis
+P00637,56,Female,United Kingdom,Heart Disease
+P00638,80,Female,Japan,Diabetes
+P00639,22,Female,Japan,Heart Disease
+P00640,39,Female,India,Respiratory Infection
+P00641,46,Female,United Kingdom,Heart Disease
+P00642,72,Male,Germany,Migraine
+P00643,20,Female,Brazil,None
+P00644,29,Male,Canada,Hypertension
+P00645,43,Female,Australia,Gastritis
+P00646,33,Male,Japan,Hypertension
+P00647,68,Female,Germany,Gastritis
+P00648,54,Male,France,Diabetes
+P00649,39,Female,France,Heart Disease
+P00650,74,Male,Canada,Diabetes
+P00651,46,Female,Canada,Asthma
+P00652,31,Female,Canada,Asthma
+P00653,45,Male,Australia,Hypertension
+P00654,22,Female,Australia,High Cholesterol
+P00655,64,Female,Brazil,High Cholesterol
+P00656,66,Female,Japan,None
+P00657,47,Male,United States,High Cholesterol
+P00658,63,Male,France,Respiratory Infection
+P00659,79,Male,India,Migraine
+P00660,69,Male,India,Migraine
+P00661,22,Female,Canada,Asthma
+P00662,29,Male,Singapore,High Cholesterol
+P00663,33,Female,France,None
+P00664,43,Male,United States,Gastritis
+P00665,43,Male,United States,Asthma
+P00666,65,Female,India,Diabetes
+P00667,38,Female,Singapore,High Cholesterol
+P00668,56,Male,United States,Asthma
+P00669,53,Male,France,High Cholesterol
+P00670,50,Male,Japan,Respiratory Infection
+P00671,79,Male,Germany,None
+P00672,47,Male,Singapore,Hypertension
+P00673,54,Male,United States,Arthritis
+P00674,40,Male,Singapore,None
+P00675,75,Female,Singapore,High Cholesterol
+P00676,27,Male,Japan,Diabetes
+P00677,71,Male,France,Diabetes
+P00678,22,Male,India,Hypertension
+P00679,53,Female,Japan,Heart Disease
+P00680,51,Female,United States,Diabetes
+P00681,69,Female,Canada,Asthma
+P00682,48,Female,Japan,Diabetes
+P00683,27,Male,Canada,Arthritis
+P00684,75,Female,United Kingdom,Hypertension
+P00685,36,Male,India,Asthma
+P00686,75,Male,France,High Cholesterol
+P00687,49,Female,Germany,None
+P00688,18,Female,Singapore,Hypertension
+P00689,73,Male,Canada,Arthritis
+P00690,22,Female,Germany,Migraine
+P00691,62,Female,Germany,Arthritis
+P00692,21,Male,Canada,Gastritis
+P00693,33,Male,Germany,Gastritis
+P00694,41,Male,Singapore,Migraine
+P00695,33,Male,Brazil,Respiratory Infection
+P00696,72,Male,United Kingdom,Diabetes
+P00697,19,Male,Canada,None
+P00698,66,Male,Singapore,Heart Disease
+P00699,45,Female,India,Heart Disease
+P00700,49,Female,Canada,None
+P00701,44,Female,Singapore,Arthritis
+P00702,37,Male,Singapore,Migraine
+P00703,41,Female,Japan,Migraine
+P00704,29,Female,Brazil,High Cholesterol
+P00705,67,Female,Canada,Hypertension
+P00706,52,Male,France,Asthma
+P00707,77,Female,Singapore,Gastritis
+P00708,50,Male,United Kingdom,Heart Disease
+P00709,50,Male,Japan,Diabetes
+P00710,78,Female,Singapore,Asthma
+P00711,68,Female,Canada,Arthritis
+P00712,60,Male,United States,High Cholesterol
+P00713,54,Female,Singapore,Asthma
+P00714,29,Female,Australia,High Cholesterol
+P00715,20,Male,United States,Heart Disease
+P00716,18,Female,Singapore,Heart Disease
+P00717,50,Male,Germany,Diabetes
+P00718,57,Female,Singapore,Migraine
+P00719,27,Male,India,Arthritis
+P00720,60,Male,Germany,Respiratory Infection
+P00721,61,Female,Canada,None
+P00722,46,Female,United Kingdom,Diabetes
+P00723,30,Female,United States,Heart Disease
+P00724,29,Female,France,Hypertension
+P00725,48,Female,Japan,Migraine
+P00726,63,Female,United Kingdom,None
+P00727,19,Female,Germany,Hypertension
+P00728,78,Female,Japan,Diabetes
+P00729,68,Male,United States,Asthma
+P00730,67,Female,France,Respiratory Infection
+P00731,52,Male,Australia,High Cholesterol
+P00732,40,Female,Australia,None
+P00733,34,Female,France,None
+P00734,43,Female,Japan,Diabetes
+P00735,25,Female,Canada,None
+P00736,46,Female,Japan,High Cholesterol
+P00737,43,Male,Singapore,High Cholesterol
+P00738,27,Female,Japan,Hypertension
+P00739,43,Male,Canada,Asthma
+P00740,79,Male,United Kingdom,High Cholesterol
+P00741,51,Male,United States,Respiratory Infection
+P00742,68,Female,Japan,None
+P00743,58,Male,United States,Hypertension
+P00744,24,Female,Germany,Heart Disease
+P00745,21,Male,Australia,Hypertension
+P00746,75,Male,Australia,Respiratory Infection
+P00747,70,Male,Canada,Migraine
+P00748,67,Male,Germany,Hypertension
+P00749,62,Female,Australia,Heart Disease
+P00750,28,Male,Canada,High Cholesterol
+P00751,46,Male,Japan,Gastritis
+P00752,73,Male,Germany,Gastritis
+P00753,53,Male,Singapore,Gastritis
+P00754,42,Male,Singapore,Migraine
+P00755,38,Male,Singapore,Heart Disease
+P00756,78,Female,United Kingdom,Respiratory Infection
+P00757,74,Female,Singapore,Diabetes
+P00758,53,Female,Germany,Gastritis
+P00759,27,Female,India,Diabetes
+P00760,54,Male,Australia,Migraine
+P00761,26,Male,Singapore,Diabetes
+P00762,41,Female,Germany,None
+P00763,52,Male,Brazil,Migraine
+P00764,66,Female,Japan,Diabetes
+P00765,52,Male,United Kingdom,Hypertension
+P00766,65,Male,United States,Gastritis
+P00767,53,Male,Canada,Asthma
+P00768,35,Female,Brazil,Arthritis
+P00769,66,Female,Brazil,Migraine
+P00770,56,Female,United Kingdom,High Cholesterol
+P00771,49,Male,Canada,Arthritis
+P00772,41,Male,United Kingdom,Respiratory Infection
+P00773,40,Male,Singapore,Migraine
+P00774,79,Male,United States,Migraine
+P00775,49,Female,Canada,Diabetes
+P00776,54,Male,Germany,Migraine
+P00777,29,Female,Australia,Gastritis
+P00778,66,Female,United Kingdom,Heart Disease
+P00779,72,Male,United States,Heart Disease
+P00780,30,Female,Japan,Respiratory Infection
+P00781,40,Male,India,None
+P00782,42,Male,Japan,Asthma
+P00783,52,Male,India,None
+P00784,58,Female,France,Gastritis
+P00785,47,Male,Germany,Gastritis
+P00786,34,Female,France,Hypertension
+P00787,66,Male,United Kingdom,Heart Disease
+P00788,79,Male,United Kingdom,Arthritis
+P00789,37,Female,India,High Cholesterol
+P00790,65,Female,Canada,Migraine
+P00791,42,Male,United States,Asthma
+P00792,39,Male,Singapore,High Cholesterol
+P00793,30,Female,Brazil,None
+P00794,76,Male,United Kingdom,High Cholesterol
+P00795,36,Female,France,Hypertension
+P00796,66,Male,France,Asthma
+P00797,53,Male,Japan,Asthma
+P00798,29,Male,Germany,Hypertension
+P00799,78,Male,India,Gastritis
+P00800,58,Female,Brazil,Hypertension
+P00801,36,Male,India,Gastritis
+P00802,29,Female,United Kingdom,Arthritis
+P00803,26,Female,Australia,Respiratory Infection
+P00804,24,Female,Brazil,Gastritis
+P00805,45,Female,Japan,High Cholesterol
+P00806,31,Male,France,Gastritis
+P00807,48,Male,Japan,Respiratory Infection
+P00808,69,Female,United Kingdom,None
+P00809,36,Male,Australia,Migraine
+P00810,75,Female,Singapore,Hypertension
+P00811,64,Male,Brazil,Migraine
+P00812,33,Female,India,Hypertension
+P00813,70,Female,Brazil,Arthritis
+P00814,22,Female,France,Heart Disease
+P00815,52,Female,India,High Cholesterol
+P00816,29,Female,Singapore,High Cholesterol
+P00817,42,Female,Singapore,None
+P00818,69,Female,Germany,Heart Disease
+P00819,76,Male,India,Heart Disease
+P00820,38,Male,United States,Hypertension
+P00821,53,Male,Australia,High Cholesterol
+P00822,70,Female,United States,High Cholesterol
+P00823,40,Male,Singapore,Heart Disease
+P00824,33,Female,India,Hypertension
+P00825,74,Female,Germany,Gastritis
+P00826,56,Female,Brazil,Gastritis
+P00827,62,Female,Brazil,Respiratory Infection
+P00828,70,Male,Brazil,Diabetes
+P00829,59,Male,Germany,Asthma
+P00830,75,Female,United Kingdom,Arthritis
+P00831,56,Male,India,Hypertension
+P00832,31,Male,United States,Gastritis
+P00833,48,Female,Australia,None
+P00834,75,Female,Singapore,Asthma
+P00835,22,Male,Australia,Asthma
+P00836,52,Female,Singapore,Asthma
+P00837,40,Female,India,Heart Disease
+P00838,46,Male,India,Respiratory Infection
+P00839,60,Female,Japan,None
+P00840,28,Female,United States,Diabetes
+P00841,35,Female,France,None
+P00842,64,Female,Singapore,None
+P00843,29,Male,Canada,Hypertension
+P00844,26,Male,France,Respiratory Infection
+P00845,27,Male,Brazil,Migraine
+P00846,75,Male,Australia,Respiratory Infection
+P00847,61,Male,India,Migraine
+P00848,34,Female,Canada,Diabetes
+P00849,78,Female,Singapore,Hypertension
+P00850,55,Female,United Kingdom,Heart Disease
+P00851,24,Female,Singapore,Asthma
+P00852,63,Female,Australia,Hypertension
+P00853,30,Male,Singapore,Heart Disease
+P00854,57,Male,Singapore,Hypertension
+P00855,59,Male,Germany,Heart Disease
+P00856,26,Female,United States,Hypertension
+P00857,67,Male,France,Respiratory Infection
+P00858,44,Female,United Kingdom,Respiratory Infection
+P00859,75,Male,India,Respiratory Infection
+P00860,19,Female,Singapore,Asthma
+P00861,22,Female,United Kingdom,Arthritis
+P00862,46,Female,Japan,High Cholesterol
+P00863,54,Female,Singapore,Migraine
+P00864,55,Female,Germany,Respiratory Infection
+P00865,36,Female,Germany,Arthritis
+P00866,25,Female,Canada,Migraine
+P00867,65,Female,Brazil,Hypertension
+P00868,62,Female,Australia,Diabetes
+P00869,18,Male,France,Heart Disease
+P00870,39,Male,Japan,Arthritis
+P00871,69,Female,Australia,None
+P00872,34,Male,Australia,Gastritis
+P00873,80,Male,Canada,Arthritis
+P00874,24,Female,Germany,Respiratory Infection
+P00875,42,Female,United States,Respiratory Infection
+P00876,62,Female,United Kingdom,Arthritis
+P00877,21,Male,India,Heart Disease
+P00878,53,Male,United States,Migraine
+P00879,23,Male,United States,Hypertension
+P00880,77,Male,Brazil,Gastritis
+P00881,48,Male,Brazil,Hypertension
+P00882,36,Male,United States,Asthma
+P00883,78,Female,Germany,Heart Disease
+P00884,61,Female,Australia,Respiratory Infection
+P00885,71,Male,United Kingdom,Asthma
+P00886,56,Male,Australia,Hypertension
+P00887,44,Male,Australia,Hypertension
+P00888,27,Male,Australia,Gastritis
+P00889,43,Female,United Kingdom,High Cholesterol
+P00890,36,Male,United Kingdom,Hypertension
+P00891,56,Male,Canada,Migraine
+P00892,79,Male,France,Migraine
+P00893,20,Male,United States,Arthritis
+P00894,62,Female,Singapore,Gastritis
+P00895,30,Female,Canada,Gastritis
+P00896,67,Female,Canada,Respiratory Infection
+P00897,45,Male,India,Hypertension
+P00898,79,Female,Singapore,High Cholesterol
+P00899,75,Female,Brazil,None
+P00900,37,Female,India,Asthma
+P00901,45,Male,Brazil,Gastritis
+P00902,25,Male,France,Arthritis
+P00903,78,Female,Japan,Arthritis
+P00904,80,Female,Brazil,Hypertension
+P00905,58,Male,Australia,Hypertension
+P00906,56,Male,Brazil,None
+P00907,18,Male,Singapore,Diabetes
+P00908,20,Female,United Kingdom,Diabetes
+P00909,30,Male,Singapore,Hypertension
+P00910,45,Female,France,Heart Disease
+P00911,79,Male,Canada,Migraine
+P00912,74,Female,Australia,Migraine
+P00913,80,Female,Japan,None
+P00914,77,Male,France,None
+P00915,66,Female,Canada,Respiratory Infection
+P00916,42,Male,Germany,High Cholesterol
+P00917,73,Female,Singapore,Arthritis
+P00918,50,Female,France,Migraine
+P00919,55,Male,Singapore,Heart Disease
+P00920,70,Female,Japan,Hypertension
+P00921,23,Female,Canada,Gastritis
+P00922,75,Male,Singapore,Heart Disease
+P00923,61,Female,United Kingdom,Respiratory Infection
+P00924,62,Female,Brazil,Heart Disease
+P00925,49,Female,India,Gastritis
+P00926,62,Male,Japan,Asthma
+P00927,78,Male,India,Diabetes
+P00928,64,Male,United States,Asthma
+P00929,38,Female,Brazil,Arthritis
+P00930,33,Male,Japan,Arthritis
+P00931,71,Female,France,Migraine
+P00932,38,Male,United Kingdom,Gastritis
+P00933,28,Female,France,Arthritis
+P00934,77,Male,Germany,None
+P00935,54,Male,United States,Migraine
+P00936,53,Male,United Kingdom,Respiratory Infection
+P00937,52,Male,Singapore,Migraine
+P00938,36,Female,Singapore,Asthma
+P00939,37,Female,Australia,Hypertension
+P00940,74,Female,Singapore,None
+P00941,35,Female,Canada,None
+P00942,64,Female,United States,High Cholesterol
+P00943,58,Female,Canada,None
+P00944,66,Female,Brazil,None
+P00945,31,Female,Australia,Asthma
+P00946,32,Male,Australia,Heart Disease
+P00947,48,Female,Singapore,None
+P00948,18,Male,United Kingdom,Hypertension
+P00949,70,Female,Brazil,Diabetes
+P00950,71,Female,Germany,Asthma
+P00951,71,Male,United States,Asthma
+P00952,20,Male,United States,Heart Disease
+P00953,33,Female,Japan,High Cholesterol
+P00954,40,Female,France,Heart Disease
+P00955,74,Male,Singapore,Migraine
+P00956,28,Female,Japan,Diabetes
+P00957,29,Female,Germany,Arthritis
+P00958,27,Male,Australia,Respiratory Infection
+P00959,49,Female,India,Arthritis
+P00960,33,Female,Germany,High Cholesterol
+P00961,25,Male,Germany,High Cholesterol
+P00962,55,Female,United Kingdom,None
+P00963,29,Female,United Kingdom,Heart Disease
+P00964,41,Male,United Kingdom,Migraine
+P00965,45,Male,United Kingdom,None
+P00966,70,Male,France,Gastritis
+P00967,25,Female,Singapore,Migraine
+P00968,75,Female,United States,High Cholesterol
+P00969,45,Female,Singapore,High Cholesterol
+P00970,53,Female,Singapore,Asthma
+P00971,43,Female,United States,Gastritis
+P00972,25,Male,United Kingdom,None
+P00973,75,Male,Singapore,High Cholesterol
+P00974,77,Male,France,Gastritis
+P00975,67,Male,United Kingdom,Diabetes
+P00976,45,Female,France,Respiratory Infection
+P00977,45,Female,Japan,Heart Disease
+P00978,54,Male,Singapore,High Cholesterol
+P00979,58,Female,Canada,Diabetes
+P00980,53,Female,France,Migraine
+P00981,44,Male,Japan,Heart Disease
+P00982,71,Male,Brazil,Gastritis
+P00983,80,Male,Brazil,Heart Disease
+P00984,34,Male,Japan,Arthritis
+P00985,26,Female,Australia,Asthma
+P00986,50,Male,Australia,Gastritis
+P00987,70,Male,United Kingdom,Diabetes
+P00988,37,Male,Australia,High Cholesterol
+P00989,30,Female,Brazil,Gastritis
+P00990,45,Male,Australia,Hypertension
+P00991,65,Male,Canada,Arthritis
+P00992,46,Male,Brazil,Diabetes
+P00993,30,Male,France,Migraine
+P00994,63,Male,Germany,Hypertension
+P00995,52,Female,Australia,Gastritis
+P00996,78,Male,Australia,Asthma
+P00997,23,Male,Singapore,Hypertension
+P00998,35,Female,United States,Heart Disease
+P00999,68,Male,Canada,Gastritis
+P01000,22,Male,Brazil,Diabetes
+P01001,64,Male,Brazil,Gastritis
+P01002,42,Female,India,Asthma
+P01003,19,Male,United States,Respiratory Infection
+P01004,27,Female,Australia,Heart Disease
+P01005,73,Female,Japan,High Cholesterol
+P01006,47,Male,Singapore,Gastritis
+P01007,67,Female,France,Asthma
+P01008,76,Male,Singapore,Hypertension
+P01009,62,Male,Australia,Hypertension
+P01010,22,Female,India,Diabetes
+P01011,72,Female,Germany,Heart Disease
+P01012,73,Female,Brazil,Hypertension
+P01013,50,Male,France,High Cholesterol
+P01014,71,Male,United States,Respiratory Infection
+P01015,18,Female,Australia,Respiratory Infection
+P01016,35,Male,Canada,Diabetes
+P01017,49,Male,Japan,Gastritis
+P01018,64,Male,Singapore,Hypertension
+P01019,66,Male,India,Asthma
+P01020,28,Female,Germany,Migraine
+P01021,38,Male,United Kingdom,Respiratory Infection
+P01022,43,Female,Japan,None
+P01023,80,Male,Australia,Diabetes
+P01024,42,Female,Germany,Gastritis
+P01025,39,Male,Japan,Arthritis
+P01026,76,Male,Japan,Diabetes
+P01027,44,Male,Brazil,Asthma
+P01028,66,Male,Japan,Migraine
+P01029,30,Female,Canada,None
+P01030,50,Female,Germany,Respiratory Infection
+P01031,51,Female,Australia,Heart Disease
+P01032,58,Male,Australia,None
+P01033,52,Male,Canada,Respiratory Infection
+P01034,80,Male,United States,Arthritis
+P01035,18,Female,Germany,Arthritis
+P01036,38,Female,Japan,Respiratory Infection
+P01037,65,Female,India,Heart Disease
+P01038,72,Male,France,Diabetes
+P01039,23,Male,Germany,Heart Disease
+P01040,45,Male,United Kingdom,Hypertension
+P01041,34,Female,India,Respiratory Infection
+P01042,22,Female,Canada,Respiratory Infection
+P01043,48,Female,Japan,Heart Disease
+P01044,22,Female,United States,High Cholesterol
+P01045,55,Male,United Kingdom,High Cholesterol
+P01046,20,Female,United States,Asthma
+P01047,70,Male,United States,High Cholesterol
+P01048,40,Female,Singapore,Arthritis
+P01049,54,Male,Brazil,Hypertension
+P01050,70,Male,United Kingdom,Respiratory Infection
+P01051,54,Female,France,None
+P01052,27,Female,Brazil,Arthritis
+P01053,27,Female,United Kingdom,Asthma
+P01054,36,Male,United States,Migraine
+P01055,34,Female,Brazil,Hypertension
+P01056,38,Male,United Kingdom,High Cholesterol
+P01057,31,Female,France,Gastritis
+P01058,26,Male,India,Diabetes
+P01059,63,Female,Germany,None
+P01060,18,Female,Japan,Respiratory Infection
+P01061,68,Female,United Kingdom,Migraine
+P01062,62,Male,France,Diabetes
+P01063,30,Male,Germany,Heart Disease
+P01064,21,Female,Brazil,Heart Disease
+P01065,79,Male,United Kingdom,Hypertension
+P01066,18,Female,United Kingdom,Hypertension
+P01067,66,Male,Canada,Hypertension
+P01068,57,Male,United Kingdom,Arthritis
+P01069,49,Female,Japan,Arthritis
+P01070,51,Female,Canada,Heart Disease
+P01071,45,Female,Germany,Hypertension
+P01072,48,Female,Brazil,None
+P01073,25,Male,Brazil,Asthma
+P01074,56,Female,Australia,Hypertension
+P01075,43,Male,Australia,Respiratory Infection
+P01076,75,Female,Germany,None
+P01077,51,Female,Singapore,Respiratory Infection
+P01078,71,Male,France,Gastritis
+P01079,71,Female,Singapore,Heart Disease
+P01080,20,Female,France,Hypertension
+P01081,76,Male,Canada,High Cholesterol
+P01082,67,Female,Germany,Diabetes
+P01083,29,Male,France,Hypertension
+P01084,18,Male,Australia,Asthma
+P01085,71,Male,Australia,Gastritis
+P01086,61,Male,United States,Hypertension
+P01087,22,Female,France,Diabetes
+P01088,47,Female,Germany,Diabetes
+P01089,47,Female,India,Arthritis
+P01090,76,Female,Canada,Asthma
+P01091,74,Male,United Kingdom,Asthma
+P01092,34,Male,United Kingdom,None
+P01093,65,Male,France,High Cholesterol
+P01094,80,Male,Singapore,Asthma
+P01095,64,Female,Canada,Gastritis
+P01096,40,Male,Brazil,High Cholesterol
+P01097,32,Male,Japan,Arthritis
+P01098,54,Male,United Kingdom,Asthma
+P01099,38,Female,Australia,Arthritis
+P01100,31,Female,Canada,Diabetes
+P01101,19,Female,Singapore,Hypertension
+P01102,28,Female,Germany,Asthma
+P01103,68,Female,Singapore,Diabetes
+P01104,56,Female,Canada,Hypertension
+P01105,55,Male,Brazil,Hypertension
+P01106,77,Female,United Kingdom,Diabetes
+P01107,51,Female,Australia,Respiratory Infection
+P01108,55,Female,India,High Cholesterol
+P01109,67,Female,Germany,Respiratory Infection
+P01110,51,Male,Australia,Heart Disease
+P01111,35,Female,Brazil,Migraine
+P01112,47,Female,Japan,Hypertension
+P01113,32,Male,Brazil,None
+P01114,44,Female,Brazil,High Cholesterol
+P01115,68,Male,United Kingdom,Hypertension
+P01116,80,Female,Canada,Gastritis
+P01117,51,Female,Canada,None
+P01118,69,Male,Australia,Heart Disease
+P01119,74,Female,Japan,Heart Disease
+P01120,55,Male,Japan,Gastritis
+P01121,50,Female,Singapore,Diabetes
+P01122,41,Male,India,High Cholesterol
+P01123,32,Female,Brazil,Arthritis
+P01124,77,Male,India,High Cholesterol
+P01125,47,Female,United States,None
+P01126,72,Male,France,Respiratory Infection
+P01127,59,Female,Brazil,Arthritis
+P01128,68,Female,India,Heart Disease
+P01129,34,Female,United Kingdom,Heart Disease
+P01130,22,Female,France,Diabetes
+P01131,46,Female,Japan,Migraine
+P01132,21,Male,Brazil,High Cholesterol
+P01133,27,Male,Brazil,Diabetes
+P01134,73,Male,Japan,None
+P01135,34,Female,Singapore,Arthritis
+P01136,27,Female,United Kingdom,Gastritis
+P01137,34,Male,Brazil,Hypertension
+P01138,77,Female,India,Respiratory Infection
+P01139,37,Female,Brazil,None
+P01140,41,Female,France,Hypertension
+P01141,22,Male,Brazil,High Cholesterol
+P01142,51,Male,India,Gastritis
+P01143,23,Female,Germany,Heart Disease
+P01144,70,Female,France,Diabetes
+P01145,19,Male,Australia,Arthritis
+P01146,30,Female,Australia,Diabetes
+P01147,79,Female,France,Arthritis
+P01148,60,Female,United Kingdom,Migraine
+P01149,60,Female,Germany,Migraine
+P01150,65,Male,France,Diabetes
+P01151,28,Male,India,Arthritis
+P01152,68,Female,United States,Arthritis
+P01153,64,Male,Canada,Hypertension
+P01154,74,Male,Brazil,Diabetes
+P01155,40,Male,Singapore,Asthma
+P01156,72,Male,Germany,High Cholesterol
+P01157,33,Male,India,Heart Disease
+P01158,48,Male,Singapore,Migraine
+P01159,28,Male,Australia,Asthma
+P01160,71,Male,France,Migraine
+P01161,33,Female,Germany,Gastritis
+P01162,25,Female,Japan,Migraine
+P01163,21,Female,Brazil,None
+P01164,57,Male,Canada,Migraine
+P01165,21,Male,Australia,Hypertension
+P01166,73,Female,France,Asthma
+P01167,42,Female,Brazil,Gastritis
+P01168,20,Male,Australia,Arthritis
+P01169,49,Male,Japan,Arthritis
+P01170,20,Female,Singapore,Gastritis
+P01171,44,Male,Canada,Respiratory Infection
+P01172,46,Male,Canada,Diabetes
+P01173,49,Female,Brazil,Respiratory Infection
+P01174,67,Female,India,Asthma
+P01175,78,Male,Brazil,Migraine
+P01176,75,Male,Australia,Arthritis
+P01177,68,Female,India,Hypertension
+P01178,36,Male,Canada,Respiratory Infection
+P01179,38,Male,United States,Migraine
+P01180,22,Male,Canada,Heart Disease
+P01181,35,Female,Brazil,Diabetes
+P01182,45,Male,Australia,Gastritis
+P01183,59,Female,India,Migraine
+P01184,78,Female,France,Diabetes
+P01185,39,Female,India,Diabetes
+P01186,38,Female,Japan,Arthritis
+P01187,23,Male,United Kingdom,Arthritis
+P01188,18,Male,United Kingdom,Asthma
+P01189,22,Male,Germany,Heart Disease
+P01190,58,Male,Singapore,Gastritis
+P01191,29,Female,Germany,Diabetes
+P01192,43,Male,Germany,Asthma
+P01193,63,Male,India,None
+P01194,51,Male,Australia,Respiratory Infection
+P01195,66,Female,Germany,High Cholesterol
+P01196,31,Male,Brazil,Diabetes
+P01197,43,Male,India,Asthma
+P01198,62,Male,Australia,Heart Disease
+P01199,44,Female,United Kingdom,Arthritis
+P01200,26,Female,United States,Diabetes
+P01201,43,Male,Brazil,Diabetes
+P01202,74,Male,France,Migraine
+P01203,64,Male,Singapore,Heart Disease
+P01204,74,Male,France,Gastritis
+P01205,39,Female,Australia,Arthritis
+P01206,64,Female,Japan,Diabetes
+P01207,73,Male,Australia,Respiratory Infection
+P01208,47,Female,United States,Arthritis
+P01209,60,Male,United Kingdom,Respiratory Infection
+P01210,80,Female,Canada,High Cholesterol
+P01211,65,Female,Australia,Gastritis
+P01212,78,Male,United Kingdom,High Cholesterol
+P01213,34,Female,France,Diabetes
+P01214,43,Male,Australia,Migraine
+P01215,53,Male,Australia,Gastritis
+P01216,18,Male,Germany,Migraine
+P01217,25,Male,France,Asthma
+P01218,66,Female,Singapore,None
+P01219,52,Female,Singapore,Heart Disease
+P01220,78,Female,Brazil,Asthma
+P01221,69,Female,Japan,High Cholesterol
+P01222,32,Female,Canada,Respiratory Infection
+P01223,64,Male,Australia,High Cholesterol
+P01224,80,Male,Australia,Gastritis
+P01225,73,Male,Brazil,Gastritis
+P01226,39,Female,Japan,High Cholesterol
+P01227,31,Female,France,Diabetes
+P01228,43,Male,Australia,High Cholesterol
+P01229,45,Female,United Kingdom,Gastritis
+P01230,40,Female,India,Gastritis
+P01231,31,Female,Japan,Arthritis
+P01232,41,Male,Australia,Hypertension
+P01233,19,Male,Japan,Migraine
+P01234,62,Male,Singapore,Asthma
+P01235,43,Male,Canada,High Cholesterol
+P01236,31,Male,Australia,Arthritis
+P01237,76,Female,Canada,Diabetes
+P01238,73,Male,United States,Gastritis
+P01239,68,Female,India,High Cholesterol
+P01240,24,Male,Brazil,Gastritis
+P01241,20,Female,Canada,Respiratory Infection
+P01242,64,Male,Australia,Arthritis
+P01243,40,Female,Germany,High Cholesterol
+P01244,63,Female,Brazil,Respiratory Infection
+P01245,60,Male,Brazil,None
+P01246,64,Male,France,Arthritis
+P01247,77,Female,Canada,High Cholesterol
+P01248,62,Male,Germany,High Cholesterol
+P01249,35,Male,Canada,Heart Disease
+P01250,75,Male,France,Arthritis
+P01251,55,Male,India,Arthritis
+P01252,52,Female,Australia,Gastritis
+P01253,68,Male,Singapore,High Cholesterol
+P01254,32,Female,Singapore,Migraine
+P01255,42,Female,Canada,Migraine
+P01256,72,Female,France,Migraine
+P01257,54,Female,Japan,None
+P01258,45,Female,Australia,High Cholesterol
+P01259,27,Male,Canada,High Cholesterol
+P01260,56,Female,Japan,Respiratory Infection
+P01261,74,Female,Australia,Heart Disease
+P01262,34,Female,Japan,Arthritis
+P01263,56,Female,Brazil,Gastritis
+P01264,39,Male,Canada,Heart Disease
+P01265,43,Male,France,Respiratory Infection
+P01266,79,Female,Australia,High Cholesterol
+P01267,61,Male,Singapore,Asthma
+P01268,42,Female,Canada,Arthritis
+P01269,34,Male,Australia,None
+P01270,30,Male,Australia,Migraine
+P01271,37,Male,Japan,None
+P01272,42,Male,Japan,High Cholesterol
+P01273,21,Male,Germany,Respiratory Infection
+P01274,27,Male,Canada,Asthma
+P01275,20,Female,United States,Diabetes
+P01276,58,Female,United Kingdom,Migraine
+P01277,62,Male,United States,Gastritis
+P01278,35,Female,Australia,High Cholesterol
+P01279,64,Female,Germany,Hypertension
+P01280,53,Female,Australia,Asthma
+P01281,64,Male,United States,Asthma
+P01282,39,Female,Australia,Arthritis
+P01283,51,Female,Japan,None
+P01284,64,Male,Canada,Migraine
+P01285,25,Male,Singapore,High Cholesterol
+P01286,57,Female,United States,Hypertension
+P01287,66,Male,United Kingdom,Migraine
+P01288,61,Female,United Kingdom,Respiratory Infection
+P01289,36,Male,Japan,Hypertension
+P01290,59,Female,Canada,Heart Disease
+P01291,58,Female,India,Heart Disease
+P01292,54,Male,India,Asthma
+P01293,23,Male,France,Respiratory Infection
+P01294,69,Female,France,Heart Disease
+P01295,43,Female,United States,Asthma
+P01296,51,Female,Japan,None
+P01297,76,Male,Japan,High Cholesterol
+P01298,73,Male,Australia,Asthma
+P01299,76,Male,United Kingdom,High Cholesterol
+P01300,62,Female,United Kingdom,Respiratory Infection
+P01301,23,Male,United Kingdom,Arthritis
+P01302,54,Male,Germany,Migraine
+P01303,74,Female,Canada,Asthma
+P01304,50,Female,Brazil,Asthma
+P01305,70,Male,Australia,High Cholesterol
+P01306,39,Male,India,Heart Disease
+P01307,38,Female,Japan,Heart Disease
+P01308,23,Female,India,Asthma
+P01309,23,Male,Germany,Heart Disease
+P01310,72,Female,India,Heart Disease
+P01311,65,Female,United Kingdom,Asthma
+P01312,21,Male,Singapore,None
+P01313,47,Male,Australia,None
+P01314,28,Male,Singapore,Diabetes
+P01315,79,Female,France,None
+P01316,79,Male,Singapore,Diabetes
+P01317,47,Female,Brazil,Respiratory Infection
+P01318,48,Female,Japan,Gastritis
+P01319,41,Male,Germany,Migraine
+P01320,72,Female,Japan,Gastritis
+P01321,26,Female,Brazil,Heart Disease
+P01322,72,Male,Japan,Hypertension
+P01323,20,Male,Singapore,Heart Disease
+P01324,68,Male,Canada,Asthma
+P01325,48,Female,Japan,Asthma
+P01326,57,Female,France,Migraine
+P01327,54,Male,Australia,Arthritis
+P01328,53,Female,Australia,Arthritis
+P01329,41,Female,India,Arthritis
+P01330,48,Female,United States,None
+P01331,23,Male,Singapore,Respiratory Infection
+P01332,19,Male,United Kingdom,Heart Disease
+P01333,37,Male,Brazil,Asthma
+P01334,45,Female,Germany,Hypertension
+P01335,28,Male,Singapore,Hypertension
+P01336,21,Female,Australia,Hypertension
+P01337,32,Male,India,Arthritis
+P01338,23,Male,Japan,Migraine
+P01339,71,Male,United Kingdom,Arthritis
+P01340,66,Female,United Kingdom,Asthma
+P01341,47,Male,United States,Heart Disease
+P01342,73,Male,Canada,Heart Disease
+P01343,55,Female,United States,Migraine
+P01344,68,Male,Japan,Respiratory Infection
+P01345,79,Male,Singapore,None
+P01346,74,Female,France,Hypertension
+P01347,19,Male,Brazil,Heart Disease
+P01348,32,Male,United Kingdom,Migraine
+P01349,28,Male,Germany,Hypertension
+P01350,25,Male,Singapore,Arthritis
+P01351,43,Male,Germany,High Cholesterol
+P01352,68,Male,India,Gastritis
+P01353,62,Male,Germany,Heart Disease
+P01354,61,Male,United Kingdom,Respiratory Infection
+P01355,22,Female,United Kingdom,Migraine
+P01356,23,Male,United Kingdom,None
+P01357,43,Male,Singapore,Respiratory Infection
+P01358,71,Female,Singapore,Arthritis
+P01359,21,Female,Brazil,Heart Disease
+P01360,36,Male,Australia,Asthma
+P01361,37,Female,Canada,Arthritis
+P01362,50,Male,Japan,None
+P01363,37,Male,Japan,Arthritis
+P01364,66,Female,India,Migraine
+P01365,29,Male,United States,Respiratory Infection
+P01366,64,Male,Brazil,Migraine
+P01367,18,Male,Australia,Hypertension
+P01368,43,Female,France,High Cholesterol
+P01369,31,Male,India,Respiratory Infection
+P01370,55,Female,Singapore,High Cholesterol
+P01371,54,Male,Australia,Migraine
+P01372,79,Female,United Kingdom,Asthma
+P01373,28,Female,Singapore,Heart Disease
+P01374,80,Female,United States,None
+P01375,53,Female,United States,Arthritis
+P01376,30,Female,Japan,Arthritis
+P01377,60,Male,Canada,High Cholesterol
+P01378,20,Male,Canada,None
+P01379,50,Male,France,Respiratory Infection
+P01380,23,Female,Singapore,Heart Disease
+P01381,67,Female,Singapore,Gastritis
+P01382,73,Male,United States,High Cholesterol
+P01383,27,Male,United Kingdom,Respiratory Infection
+P01384,22,Male,United Kingdom,Respiratory Infection
+P01385,40,Female,Germany,None
+P01386,27,Male,United Kingdom,None
+P01387,61,Female,Australia,Diabetes
+P01388,19,Female,Canada,Arthritis
+P01389,30,Male,United Kingdom,Heart Disease
+P01390,57,Male,Brazil,Hypertension
+P01391,19,Male,Singapore,High Cholesterol
+P01392,37,Male,United Kingdom,Heart Disease
+P01393,18,Male,Germany,Diabetes
+P01394,80,Male,France,Diabetes
+P01395,54,Female,France,Heart Disease
+P01396,26,Male,United States,None
+P01397,34,Male,United Kingdom,Respiratory Infection
+P01398,26,Female,Singapore,Gastritis
+P01399,28,Female,Singapore,Heart Disease
+P01400,32,Male,Canada,High Cholesterol
+P01401,41,Female,France,Hypertension
+P01402,55,Male,United States,Arthritis
+P01403,72,Female,United Kingdom,Diabetes
+P01404,52,Female,France,Asthma
+P01405,47,Female,France,Asthma
+P01406,48,Male,Singapore,Respiratory Infection
+P01407,66,Female,United Kingdom,None
+P01408,22,Male,India,Arthritis
+P01409,79,Male,United Kingdom,Diabetes
+P01410,77,Male,Australia,Asthma
+P01411,61,Male,France,Asthma
+P01412,67,Male,Canada,Gastritis
+P01413,31,Female,India,Heart Disease
+P01414,70,Female,Germany,Migraine
+P01415,73,Male,United States,Arthritis
+P01416,28,Male,United Kingdom,Migraine
+P01417,26,Male,Canada,Hypertension
+P01418,51,Male,Germany,None
+P01419,29,Male,Germany,Heart Disease
+P01420,52,Female,France,Hypertension
+P01421,52,Male,Australia,High Cholesterol
+P01422,18,Male,France,Diabetes
+P01423,57,Male,United States,Migraine
+P01424,39,Female,India,Respiratory Infection
+P01425,77,Female,Singapore,High Cholesterol
+P01426,46,Female,Brazil,Arthritis
+P01427,25,Female,India,Diabetes
+P01428,28,Male,United States,Asthma
+P01429,58,Male,Singapore,Migraine
+P01430,54,Female,Germany,Heart Disease
+P01431,31,Male,India,Heart Disease
+P01432,77,Female,Singapore,High Cholesterol
+P01433,47,Male,United Kingdom,High Cholesterol
+P01434,52,Male,France,None
+P01435,38,Female,Brazil,Asthma
+P01436,54,Female,Canada,Gastritis
+P01437,22,Female,United Kingdom,Migraine
+P01438,36,Male,India,Hypertension
+P01439,76,Male,Japan,Arthritis
+P01440,31,Male,Singapore,Migraine
+P01441,43,Male,Germany,Migraine
+P01442,79,Male,Germany,Asthma
+P01443,21,Male,Japan,Migraine
+P01444,42,Male,India,None
+P01445,62,Male,Germany,Migraine
+P01446,59,Male,Australia,Respiratory Infection
+P01447,42,Male,Germany,Respiratory Infection
+P01448,35,Male,Brazil,Diabetes
+P01449,57,Male,Australia,Arthritis
+P01450,25,Male,United States,Respiratory Infection
+P01451,56,Female,United States,Arthritis
+P01452,57,Male,Singapore,Heart Disease
+P01453,31,Male,Australia,None
+P01454,49,Male,United Kingdom,Asthma
+P01455,68,Female,Singapore,Asthma
+P01456,78,Female,United Kingdom,Respiratory Infection
+P01457,55,Female,Brazil,None
+P01458,50,Female,France,Heart Disease
+P01459,40,Male,India,Hypertension
+P01460,80,Female,Australia,None
+P01461,32,Female,Japan,Diabetes
+P01462,50,Male,Canada,Asthma
+P01463,42,Male,India,Diabetes
+P01464,34,Male,Brazil,Asthma
+P01465,50,Female,Australia,Heart Disease
+P01466,64,Female,United States,Migraine
+P01467,72,Female,India,Gastritis
+P01468,19,Male,United Kingdom,None
+P01469,31,Male,Japan,None
+P01470,70,Male,India,Migraine
+P01471,57,Male,Canada,Hypertension
+P01472,57,Female,Brazil,Asthma
+P01473,68,Female,Brazil,Hypertension
+P01474,56,Male,Singapore,None
+P01475,68,Female,Brazil,Respiratory Infection
+P01476,23,Male,Singapore,Respiratory Infection
+P01477,23,Female,Brazil,High Cholesterol
+P01478,20,Male,Canada,Arthritis
+P01479,24,Male,Brazil,Respiratory Infection
+P01480,68,Male,Japan,Respiratory Infection
+P01481,25,Male,France,Asthma
+P01482,59,Male,United States,High Cholesterol
+P01483,69,Female,Japan,Asthma
+P01484,32,Female,Brazil,None
+P01485,64,Female,Australia,Diabetes
+P01486,46,Male,United Kingdom,Hypertension
+P01487,50,Female,France,None
+P01488,69,Male,United States,Diabetes
+P01489,47,Male,United Kingdom,Heart Disease
+P01490,56,Female,Japan,Heart Disease
+P01491,44,Female,Canada,Asthma
+P01492,53,Male,Canada,Gastritis
+P01493,46,Male,United Kingdom,Gastritis
+P01494,55,Female,Australia,Diabetes
+P01495,74,Male,United Kingdom,Respiratory Infection
+P01496,50,Male,Japan,Asthma
+P01497,78,Male,United Kingdom,Diabetes
+P01498,54,Male,United States,Asthma
+P01499,44,Male,Australia,Diabetes
+P01500,72,Male,Germany,Heart Disease
+P01501,50,Female,India,High Cholesterol
+P01502,79,Male,Germany,Asthma
+P01503,21,Female,Singapore,High Cholesterol
+P01504,39,Female,United Kingdom,Heart Disease
+P01505,19,Female,Canada,Gastritis
+P01506,27,Male,Germany,Migraine
+P01507,22,Male,Brazil,Hypertension
+P01508,76,Female,Japan,None
+P01509,27,Female,Germany,Hypertension
+P01510,50,Male,France,Hypertension
+P01511,71,Female,Australia,None
+P01512,55,Male,Japan,Heart Disease
+P01513,30,Male,Canada,Heart Disease
+P01514,48,Male,Singapore,Gastritis
+P01515,64,Male,Germany,Migraine
+P01516,53,Male,Australia,Arthritis
+P01517,62,Female,India,Hypertension
+P01518,41,Male,Australia,Respiratory Infection
+P01519,69,Male,Australia,Hypertension
+P01520,73,Male,Japan,Arthritis
+P01521,32,Male,India,Asthma
+P01522,46,Male,Australia,Gastritis
+P01523,25,Female,France,High Cholesterol
+P01524,22,Female,Germany,High Cholesterol
+P01525,46,Female,Germany,Arthritis
+P01526,64,Female,France,Hypertension
+P01527,21,Male,Germany,High Cholesterol
+P01528,29,Male,Australia,Arthritis
+P01529,62,Male,Singapore,None
+P01530,19,Male,Australia,Heart Disease
+P01531,44,Female,Japan,Diabetes
+P01532,48,Male,Brazil,Heart Disease
+P01533,68,Male,Singapore,Hypertension
+P01534,68,Female,Canada,Arthritis
+P01535,53,Female,Canada,Asthma
+P01536,53,Female,Singapore,High Cholesterol
+P01537,43,Male,Australia,High Cholesterol
+P01538,60,Male,United Kingdom,High Cholesterol
+P01539,44,Male,Brazil,Arthritis
+P01540,22,Male,France,Heart Disease
+P01541,37,Male,Australia,Asthma
+P01542,28,Male,Singapore,Arthritis
+P01543,79,Female,United Kingdom,Hypertension
+P01544,27,Male,Australia,Gastritis
+P01545,57,Female,United Kingdom,Hypertension
+P01546,55,Female,Singapore,Diabetes
+P01547,23,Male,Australia,Gastritis
+P01548,25,Female,India,Hypertension
+P01549,40,Male,Germany,Asthma
+P01550,64,Male,Singapore,Migraine
+P01551,43,Female,Canada,Migraine
+P01552,63,Male,Canada,Migraine
+P01553,60,Female,Brazil,Diabetes
+P01554,29,Male,United States,Diabetes
+P01555,43,Female,Canada,Migraine
+P01556,30,Male,United States,None
+P01557,57,Male,India,High Cholesterol
+P01558,79,Male,Singapore,Gastritis
+P01559,35,Female,United Kingdom,Gastritis
+P01560,42,Female,Brazil,High Cholesterol
+P01561,50,Female,Germany,Heart Disease
+P01562,64,Male,France,None
+P01563,57,Female,United States,Migraine
+P01564,77,Female,Germany,High Cholesterol
+P01565,60,Female,Brazil,Arthritis
+P01566,29,Male,Brazil,Gastritis
+P01567,61,Female,Canada,Arthritis
+P01568,53,Female,Germany,High Cholesterol
+P01569,65,Male,Australia,High Cholesterol
+P01570,21,Female,Japan,Hypertension
+P01571,22,Female,Brazil,Hypertension
+P01572,73,Male,United States,Asthma
+P01573,54,Male,France,Asthma
+P01574,25,Male,France,Diabetes
+P01575,80,Female,India,Diabetes
+P01576,59,Female,India,Migraine
+P01577,66,Male,Canada,Hypertension
+P01578,45,Female,Australia,Migraine
+P01579,48,Female,Canada,High Cholesterol
+P01580,75,Male,France,Migraine
+P01581,26,Female,United Kingdom,High Cholesterol
+P01582,71,Female,France,Gastritis
+P01583,68,Female,Brazil,Hypertension
+P01584,46,Female,Germany,Asthma
+P01585,31,Female,Germany,Migraine
+P01586,57,Female,Brazil,Hypertension
+P01587,58,Male,Brazil,Gastritis
+P01588,39,Female,France,Arthritis
+P01589,28,Female,Germany,Asthma
+P01590,40,Female,Germany,None
+P01591,18,Male,Singapore,Respiratory Infection
+P01592,63,Female,Germany,Hypertension
+P01593,54,Male,Brazil,Heart Disease
+P01594,38,Female,India,Hypertension
+P01595,43,Male,Australia,High Cholesterol
+P01596,63,Male,United Kingdom,None
+P01597,53,Male,Brazil,Heart Disease
+P01598,71,Male,Germany,Migraine
+P01599,40,Female,United States,Gastritis
+P01600,74,Female,France,Heart Disease
+P01601,18,Female,France,Migraine
+P01602,80,Male,Australia,Migraine
+P01603,71,Male,Brazil,Migraine
+P01604,72,Female,Australia,High Cholesterol
+P01605,68,Female,India,Heart Disease
+P01606,57,Male,Japan,Diabetes
+P01607,32,Male,Canada,Gastritis
+P01608,38,Male,United States,Arthritis
+P01609,64,Female,Canada,Hypertension
+P01610,26,Female,Japan,High Cholesterol
+P01611,70,Male,United States,Asthma
+P01612,26,Male,Canada,Arthritis
+P01613,27,Female,United States,Gastritis
+P01614,69,Male,Australia,High Cholesterol
+P01615,74,Male,United Kingdom,Arthritis
+P01616,70,Female,Singapore,Hypertension
+P01617,43,Male,United States,Migraine
+P01618,58,Male,Japan,None
+P01619,52,Female,Australia,Migraine
+P01620,80,Female,Singapore,Gastritis
+P01621,69,Female,Australia,Hypertension
+P01622,42,Female,India,Arthritis
+P01623,43,Female,Germany,Respiratory Infection
+P01624,28,Female,France,None
+P01625,55,Male,India,Migraine
+P01626,19,Female,Japan,Diabetes
+P01627,24,Female,Brazil,Arthritis
+P01628,35,Male,Brazil,Migraine
+P01629,44,Male,France,Arthritis
+P01630,51,Male,Australia,None
+P01631,44,Male,United Kingdom,Gastritis
+P01632,34,Male,Japan,Asthma
+P01633,60,Female,France,Migraine
+P01634,76,Female,Singapore,Arthritis
+P01635,61,Male,Singapore,Asthma
+P01636,76,Male,Brazil,Asthma
+P01637,68,Male,Germany,Diabetes
+P01638,71,Female,Australia,Asthma
+P01639,41,Male,Brazil,None
+P01640,42,Male,United Kingdom,Hypertension
+P01641,24,Male,France,Asthma
+P01642,69,Male,United States,Respiratory Infection
+P01643,23,Male,United Kingdom,Arthritis
+P01644,70,Female,United States,Asthma
+P01645,41,Female,Australia,Heart Disease
+P01646,50,Female,France,Hypertension
+P01647,66,Male,Singapore,High Cholesterol
+P01648,46,Female,Singapore,Hypertension
+P01649,80,Female,India,Gastritis
+P01650,60,Male,Singapore,High Cholesterol
+P01651,39,Female,Japan,Diabetes
+P01652,43,Male,India,Hypertension
+P01653,45,Female,India,Gastritis
+P01654,67,Male,Singapore,Hypertension
+P01655,38,Female,Brazil,Asthma
+P01656,66,Male,Germany,Migraine
+P01657,24,Female,Germany,Migraine
+P01658,34,Female,Japan,Gastritis
+P01659,37,Female,Canada,Hypertension
+P01660,58,Male,Brazil,Gastritis
+P01661,66,Male,Canada,Diabetes
+P01662,37,Female,United States,Migraine
+P01663,71,Male,Brazil,Heart Disease
+P01664,39,Male,France,High Cholesterol
+P01665,45,Female,Canada,None
+P01666,80,Male,Japan,Asthma
+P01667,78,Male,Japan,Heart Disease
+P01668,57,Male,Brazil,Heart Disease
+P01669,66,Male,India,Arthritis
+P01670,24,Female,France,Heart Disease
+P01671,18,Female,Australia,High Cholesterol
+P01672,49,Female,France,High Cholesterol
+P01673,30,Female,Japan,Asthma
+P01674,47,Male,United States,Gastritis
+P01675,40,Male,Canada,Respiratory Infection
+P01676,68,Male,Canada,Respiratory Infection
+P01677,76,Male,United States,Hypertension
+P01678,73,Female,United Kingdom,Hypertension
+P01679,36,Male,Brazil,None
+P01680,79,Male,Japan,High Cholesterol
+P01681,49,Male,Germany,Hypertension
+P01682,47,Female,Singapore,Arthritis
+P01683,46,Female,United States,Hypertension
+P01684,66,Male,United States,Diabetes
+P01685,62,Female,France,Diabetes
+P01686,46,Female,Brazil,Arthritis
+P01687,47,Male,Brazil,Heart Disease
+P01688,33,Female,Germany,Diabetes
+P01689,57,Male,Singapore,Respiratory Infection
+P01690,36,Female,Brazil,Respiratory Infection
+P01691,35,Female,India,Diabetes
+P01692,18,Female,Japan,Hypertension
+P01693,31,Female,India,None
+P01694,68,Male,United Kingdom,None
+P01695,64,Female,Japan,Respiratory Infection
+P01696,67,Male,Australia,Diabetes
+P01697,19,Female,Japan,Heart Disease
+P01698,71,Female,Japan,Asthma
+P01699,45,Female,Germany,Hypertension
+P01700,66,Female,India,Hypertension
+P01701,67,Male,Singapore,None
+P01702,47,Female,France,Diabetes
+P01703,55,Female,Germany,Gastritis
+P01704,68,Female,Japan,Migraine
+P01705,80,Female,France,Diabetes
+P01706,21,Male,Canada,Arthritis
+P01707,18,Male,France,Diabetes
+P01708,25,Female,United States,Hypertension
+P01709,46,Female,Germany,Asthma
+P01710,72,Male,Germany,Arthritis
+P01711,56,Female,United States,None
+P01712,20,Male,Canada,High Cholesterol
+P01713,49,Female,Brazil,High Cholesterol
+P01714,27,Male,Brazil,Gastritis
+P01715,27,Male,Brazil,None
+P01716,36,Male,Brazil,Heart Disease
+P01717,63,Male,India,Respiratory Infection
+P01718,51,Male,United States,Gastritis
+P01719,77,Male,Canada,High Cholesterol
+P01720,50,Male,Japan,Respiratory Infection
+P01721,40,Female,United Kingdom,Heart Disease
+P01722,72,Female,Germany,None
+P01723,45,Male,France,Respiratory Infection
+P01724,49,Female,Brazil,None
+P01725,67,Male,France,Heart Disease
+P01726,24,Female,United Kingdom,Migraine
+P01727,46,Female,Germany,Arthritis
+P01728,25,Male,Australia,Respiratory Infection
+P01729,18,Male,Singapore,Respiratory Infection
+P01730,74,Male,Canada,None
+P01731,72,Male,India,None
+P01732,20,Female,France,Respiratory Infection
+P01733,41,Male,Brazil,None
+P01734,40,Male,United States,Asthma
+P01735,76,Male,France,Asthma
+P01736,80,Male,Germany,Migraine
+P01737,78,Male,Australia,Migraine
+P01738,25,Male,Canada,Migraine
+P01739,71,Female,United States,High Cholesterol
+P01740,74,Male,Singapore,High Cholesterol
+P01741,64,Male,Germany,Diabetes
+P01742,54,Female,Australia,Gastritis
+P01743,20,Male,United States,Arthritis
+P01744,68,Female,Singapore,Asthma
+P01745,50,Female,France,Heart Disease
+P01746,45,Male,Germany,Arthritis
+P01747,64,Male,Japan,Arthritis
+P01748,25,Male,Singapore,Heart Disease
+P01749,51,Male,Australia,Hypertension
+P01750,52,Male,Japan,Respiratory Infection
+P01751,49,Male,Japan,Gastritis
+P01752,41,Male,India,Diabetes
+P01753,31,Male,Australia,Migraine
+P01754,49,Female,Japan,Heart Disease
+P01755,73,Female,France,High Cholesterol
+P01756,63,Male,Germany,Migraine
+P01757,60,Male,Germany,None
+P01758,33,Female,France,Heart Disease
+P01759,21,Female,India,Migraine
+P01760,69,Female,Canada,Respiratory Infection
+P01761,54,Male,India,Respiratory Infection
+P01762,71,Female,Germany,Respiratory Infection
+P01763,38,Male,Canada,Migraine
+P01764,31,Male,India,Respiratory Infection
+P01765,48,Male,Japan,Asthma
+P01766,72,Male,Canada,High Cholesterol
+P01767,65,Male,Germany,Diabetes
+P01768,35,Male,France,Heart Disease
+P01769,24,Female,Brazil,Arthritis
+P01770,27,Female,Japan,Migraine
+P01771,24,Male,Japan,Migraine
+P01772,50,Male,Brazil,High Cholesterol
+P01773,40,Male,Singapore,Hypertension
+P01774,38,Female,United Kingdom,Gastritis
+P01775,36,Male,United States,None
+P01776,65,Female,Australia,Heart Disease
+P01777,78,Male,India,Hypertension
+P01778,36,Male,United Kingdom,None
+P01779,53,Female,India,Gastritis
+P01780,46,Female,United Kingdom,Arthritis
+P01781,77,Male,Canada,Migraine
+P01782,35,Male,France,Respiratory Infection
+P01783,19,Female,Australia,High Cholesterol
+P01784,18,Male,Australia,Heart Disease
+P01785,64,Female,India,High Cholesterol
+P01786,22,Male,Brazil,Diabetes
+P01787,37,Female,Canada,Arthritis
+P01788,28,Female,Singapore,Diabetes
+P01789,59,Male,Australia,Gastritis
+P01790,80,Female,United States,Gastritis
+P01791,19,Male,India,Asthma
+P01792,20,Male,Japan,Gastritis
+P01793,40,Female,United States,Hypertension
+P01794,72,Male,Germany,Hypertension
+P01795,29,Female,India,Respiratory Infection
+P01796,37,Male,India,Migraine
+P01797,22,Male,Japan,High Cholesterol
+P01798,54,Male,Canada,Migraine
+P01799,55,Male,Japan,Migraine
+P01800,47,Male,Australia,Hypertension
+P01801,26,Female,France,High Cholesterol
+P01802,51,Female,India,Respiratory Infection
+P01803,70,Female,Germany,Arthritis
+P01804,61,Male,Brazil,Asthma
+P01805,52,Male,India,Hypertension
+P01806,69,Male,Japan,Diabetes
+P01807,75,Male,United Kingdom,Asthma
+P01808,39,Male,India,Arthritis
+P01809,61,Male,India,Gastritis
+P01810,41,Male,Germany,Migraine
+P01811,34,Female,Germany,Heart Disease
+P01812,27,Male,India,Respiratory Infection
+P01813,47,Male,United Kingdom,Migraine
+P01814,73,Male,France,Gastritis
+P01815,76,Male,Singapore,Arthritis
+P01816,63,Female,United Kingdom,Diabetes
+P01817,40,Male,United Kingdom,Respiratory Infection
+P01818,49,Male,United Kingdom,Respiratory Infection
+P01819,34,Male,France,Arthritis
+P01820,67,Male,Canada,Asthma
+P01821,68,Male,Canada,None
+P01822,34,Female,United Kingdom,Migraine
+P01823,31,Female,Singapore,Asthma
+P01824,26,Female,Japan,Hypertension
+P01825,57,Male,United States,Arthritis
+P01826,19,Female,Canada,Hypertension
+P01827,62,Female,Brazil,Diabetes
+P01828,42,Male,Germany,Asthma
+P01829,56,Female,France,Heart Disease
+P01830,26,Male,France,None
+P01831,71,Male,United States,Arthritis
+P01832,39,Female,Canada,Arthritis
+P01833,60,Male,Singapore,None
+P01834,63,Female,Singapore,Respiratory Infection
+P01835,21,Male,Germany,Gastritis
+P01836,43,Female,United Kingdom,Diabetes
+P01837,75,Female,Japan,Asthma
+P01838,46,Female,Canada,Arthritis
+P01839,62,Male,Singapore,Arthritis
+P01840,51,Male,United States,None
+P01841,40,Male,Germany,Heart Disease
+P01842,54,Male,India,None
+P01843,28,Male,Germany,None
+P01844,23,Female,Singapore,Migraine
+P01845,35,Male,India,Asthma
+P01846,38,Female,Brazil,Respiratory Infection
+P01847,59,Male,Australia,None
+P01848,53,Male,Germany,Heart Disease
+P01849,58,Male,United States,Respiratory Infection
+P01850,55,Female,United States,High Cholesterol
+P01851,51,Female,Japan,Asthma
+P01852,34,Female,United Kingdom,Arthritis
+P01853,54,Female,Germany,High Cholesterol
+P01854,42,Male,Singapore,Respiratory Infection
+P01855,55,Male,Australia,Respiratory Infection
+P01856,75,Male,Canada,Asthma
+P01857,29,Female,Singapore,Gastritis
+P01858,40,Male,United States,Migraine
+P01859,70,Male,Brazil,Arthritis
+P01860,59,Female,Singapore,High Cholesterol
+P01861,39,Female,France,None
+P01862,38,Female,United States,Diabetes
+P01863,44,Female,Germany,Gastritis
+P01864,74,Female,Brazil,Arthritis
+P01865,48,Male,France,Diabetes
+P01866,23,Male,India,Migraine
+P01867,44,Female,Australia,Diabetes
+P01868,57,Female,United States,None
+P01869,51,Male,Germany,Diabetes
+P01870,29,Female,France,Gastritis
+P01871,62,Male,France,Hypertension
+P01872,74,Male,United Kingdom,Gastritis
+P01873,70,Female,France,None
+P01874,24,Male,Australia,High Cholesterol
+P01875,27,Male,Brazil,Hypertension
+P01876,62,Male,Brazil,Migraine
+P01877,34,Female,France,Gastritis
+P01878,43,Male,Germany,Hypertension
+P01879,38,Female,United States,Respiratory Infection
+P01880,45,Female,Germany,Gastritis
+P01881,79,Male,Japan,Hypertension
+P01882,75,Female,United States,Asthma
+P01883,63,Male,India,High Cholesterol
+P01884,19,Female,Australia,Arthritis
+P01885,77,Female,Germany,Diabetes
+P01886,71,Female,United Kingdom,Hypertension
+P01887,60,Male,Brazil,Arthritis
+P01888,18,Male,France,Gastritis
+P01889,68,Male,United States,Arthritis
+P01890,70,Male,France,Respiratory Infection
+P01891,53,Female,India,Heart Disease
+P01892,68,Male,Japan,Heart Disease
+P01893,43,Female,France,High Cholesterol
+P01894,46,Male,Germany,Hypertension
+P01895,38,Male,United States,Respiratory Infection
+P01896,28,Female,United Kingdom,Diabetes
+P01897,57,Male,India,Migraine
+P01898,28,Female,Singapore,None
+P01899,53,Female,Australia,High Cholesterol
+P01900,66,Female,Japan,None
+P01901,76,Male,Germany,Heart Disease
+P01902,56,Female,Australia,Asthma
+P01903,57,Female,United Kingdom,Migraine
+P01904,52,Female,Australia,Migraine
+P01905,71,Male,Brazil,None
+P01906,51,Female,United States,Asthma
+P01907,72,Female,Australia,Gastritis
+P01908,64,Female,Germany,Arthritis
+P01909,41,Male,Singapore,High Cholesterol
+P01910,71,Male,Brazil,Respiratory Infection
+P01911,39,Female,Brazil,Migraine
+P01912,22,Male,Australia,None
+P01913,73,Female,Japan,Arthritis
+P01914,50,Male,Canada,Heart Disease
+P01915,75,Male,Japan,Respiratory Infection
+P01916,53,Male,France,None
+P01917,64,Male,Germany,High Cholesterol
+P01918,37,Female,Canada,Diabetes
+P01919,36,Female,United States,Migraine
+P01920,52,Female,Brazil,Heart Disease
+P01921,69,Male,Germany,High Cholesterol
+P01922,60,Female,United Kingdom,Hypertension
+P01923,34,Female,France,Heart Disease
+P01924,79,Female,Singapore,Respiratory Infection
+P01925,76,Male,France,Hypertension
+P01926,62,Female,Germany,Heart Disease
+P01927,60,Female,United States,None
+P01928,51,Female,Brazil,Diabetes
+P01929,26,Male,India,Arthritis
+P01930,43,Female,India,Diabetes
+P01931,19,Female,Germany,Diabetes
+P01932,70,Male,Australia,None
+P01933,26,Male,Japan,Asthma
+P01934,26,Male,France,Heart Disease
+P01935,57,Male,United States,Arthritis
+P01936,34,Male,France,Gastritis
+P01937,18,Female,United Kingdom,None
+P01938,42,Female,India,Asthma
+P01939,78,Female,Brazil,None
+P01940,60,Female,United Kingdom,Asthma
+P01941,57,Male,Brazil,Diabetes
+P01942,59,Male,France,Migraine
+P01943,42,Female,United States,Migraine
+P01944,56,Male,India,Hypertension
+P01945,52,Male,France,Gastritis
+P01946,20,Male,India,Arthritis
+P01947,67,Male,Germany,Asthma
+P01948,54,Female,Singapore,Heart Disease
+P01949,61,Male,Singapore,Diabetes
+P01950,61,Male,Brazil,Respiratory Infection
+P01951,68,Male,France,Heart Disease
+P01952,47,Female,Canada,Heart Disease
+P01953,55,Male,India,Asthma
+P01954,51,Female,India,Arthritis
+P01955,29,Male,Canada,Diabetes
+P01956,36,Male,Australia,Diabetes
+P01957,54,Male,France,Arthritis
+P01958,61,Male,Canada,Migraine
+P01959,76,Male,Singapore,High Cholesterol
+P01960,76,Male,India,Hypertension
+P01961,66,Female,Singapore,None
+P01962,78,Male,France,Hypertension
+P01963,34,Female,United States,Migraine
+P01964,27,Male,United States,Asthma
+P01965,74,Male,Brazil,Asthma
+P01966,72,Male,Singapore,Gastritis
+P01967,66,Female,Singapore,Hypertension
+P01968,64,Male,Singapore,Hypertension
+P01969,29,Male,Australia,None
+P01970,79,Male,Singapore,Asthma
+P01971,33,Male,United States,Heart Disease
+P01972,41,Male,Australia,Hypertension
+P01973,36,Female,Brazil,None
+P01974,25,Male,Germany,Arthritis
+P01975,48,Male,United Kingdom,Respiratory Infection
+P01976,38,Female,Brazil,Arthritis
+P01977,34,Male,Japan,None
+P01978,40,Male,Australia,Heart Disease
+P01979,54,Male,United States,Gastritis
+P01980,71,Female,United States,Asthma
+P01981,33,Male,France,Gastritis
+P01982,23,Male,India,Gastritis
+P01983,25,Male,Singapore,None
+P01984,42,Female,United States,Asthma
+P01985,35,Male,Singapore,Diabetes
+P01986,42,Female,Canada,Respiratory Infection
+P01987,29,Female,India,Hypertension
+P01988,32,Female,Canada,Gastritis
+P01989,76,Male,Singapore,Arthritis
+P01990,43,Male,Australia,Diabetes
+P01991,58,Male,Japan,Diabetes
+P01992,62,Male,India,Heart Disease
+P01993,43,Male,Australia,Gastritis
+P01994,64,Female,United States,Gastritis
+P01995,49,Male,Japan,High Cholesterol
+P01996,27,Male,Germany,None
+P01997,33,Female,United States,Heart Disease
+P01998,24,Female,United Kingdom,Diabetes
+P01999,34,Male,Brazil,Diabetes
+P02000,40,Female,India,High Cholesterol
+P02001,43,Male,United Kingdom,Hypertension
+P02002,38,Female,Singapore,Migraine
+P02003,39,Female,India,Arthritis
+P02004,75,Female,Brazil,Migraine
+P02005,24,Female,India,Gastritis
+P02006,31,Male,Australia,Asthma
+P02007,32,Male,Canada,Heart Disease
+P02008,70,Female,France,Gastritis
+P02009,24,Male,Australia,Hypertension
+P02010,26,Female,Brazil,Migraine
+P02011,68,Male,India,Gastritis
+P02012,65,Male,Australia,Arthritis
+P02013,25,Male,Canada,Diabetes
+P02014,67,Male,United Kingdom,None
+P02015,76,Female,Australia,Respiratory Infection
+P02016,40,Female,Singapore,Gastritis
+P02017,46,Female,United Kingdom,Hypertension
+P02018,35,Female,Brazil,Heart Disease
+P02019,48,Female,United Kingdom,Asthma
+P02020,47,Female,India,Arthritis
+P02021,69,Male,Japan,High Cholesterol
+P02022,56,Female,Japan,Hypertension
+P02023,52,Male,Germany,Migraine
+P02024,35,Male,Singapore,None
+P02025,76,Female,India,Migraine
+P02026,59,Male,Brazil,Diabetes
+P02027,56,Male,United States,None
+P02028,34,Male,Japan,Migraine
+P02029,31,Male,Brazil,Heart Disease
+P02030,48,Female,United Kingdom,Migraine
+P02031,41,Male,Australia,Arthritis
+P02032,52,Male,Japan,Arthritis
+P02033,61,Male,India,Respiratory Infection
+P02034,77,Male,Japan,Migraine
+P02035,62,Female,Canada,Heart Disease
+P02036,51,Male,Canada,Heart Disease
+P02037,20,Male,Canada,Gastritis
+P02038,54,Female,Singapore,Asthma
+P02039,60,Female,Japan,None
+P02040,57,Female,Germany,Hypertension
+P02041,43,Female,Brazil,High Cholesterol
+P02042,72,Male,Canada,None
+P02043,40,Male,United Kingdom,None
+P02044,61,Male,India,Diabetes
+P02045,56,Female,Singapore,None
+P02046,32,Male,France,Diabetes
+P02047,73,Male,Canada,Gastritis
+P02048,66,Male,Brazil,Asthma
+P02049,21,Male,United Kingdom,Heart Disease
+P02050,46,Male,India,Respiratory Infection
+P02051,39,Female,Australia,Heart Disease
+P02052,42,Male,United States,Migraine
+P02053,30,Female,United Kingdom,High Cholesterol
+P02054,35,Female,Germany,Asthma
+P02055,50,Male,United Kingdom,Asthma
+P02056,33,Male,United Kingdom,Gastritis
+P02057,62,Male,Germany,High Cholesterol
+P02058,59,Male,Australia,Migraine
+P02059,61,Female,Singapore,Migraine
+P02060,79,Male,Japan,Respiratory Infection
+P02061,19,Male,India,Hypertension
+P02062,72,Male,United Kingdom,Heart Disease
+P02063,52,Female,United Kingdom,None
+P02064,59,Female,Germany,High Cholesterol
+P02065,51,Female,Brazil,Migraine
+P02066,47,Female,United Kingdom,Migraine
+P02067,76,Male,United Kingdom,Hypertension
+P02068,72,Female,Germany,Asthma
+P02069,30,Male,Brazil,Migraine
+P02070,30,Female,Germany,Respiratory Infection
+P02071,35,Female,Singapore,Migraine
+P02072,49,Male,United Kingdom,Migraine
+P02073,49,Female,Canada,Hypertension
+P02074,52,Female,India,Respiratory Infection
+P02075,76,Male,Brazil,Arthritis
+P02076,56,Female,Canada,Diabetes
+P02077,63,Male,Germany,Hypertension
+P02078,69,Female,United Kingdom,Asthma
+P02079,46,Male,Germany,Asthma
+P02080,79,Female,Japan,High Cholesterol
+P02081,66,Female,Japan,Hypertension
+P02082,46,Female,Singapore,Gastritis
+P02083,79,Female,United Kingdom,Hypertension
+P02084,70,Male,United Kingdom,Arthritis
+P02085,61,Female,Canada,Migraine
+P02086,74,Male,France,Hypertension
+P02087,33,Female,United Kingdom,Gastritis
+P02088,73,Male,Singapore,None
+P02089,61,Male,Brazil,Gastritis
+P02090,64,Female,Brazil,Asthma
+P02091,74,Male,Germany,Arthritis
+P02092,27,Male,Canada,Migraine
+P02093,47,Male,Australia,Gastritis
+P02094,42,Male,United States,Arthritis
+P02095,80,Male,Germany,None
+P02096,56,Male,United Kingdom,Respiratory Infection
+P02097,37,Male,Germany,Respiratory Infection
+P02098,22,Male,Australia,Respiratory Infection
+P02099,18,Female,United States,None
+P02100,47,Male,Australia,Migraine
+P02101,66,Female,Australia,Diabetes
+P02102,20,Female,Japan,Diabetes
+P02103,62,Male,Brazil,Arthritis
+P02104,31,Female,France,Respiratory Infection
+P02105,73,Female,United Kingdom,Asthma
+P02106,47,Female,Singapore,Migraine
+P02107,67,Female,Canada,Diabetes
+P02108,21,Male,Germany,Hypertension
+P02109,35,Female,United Kingdom,High Cholesterol
+P02110,79,Female,Japan,Heart Disease
+P02111,54,Female,Brazil,None
+P02112,42,Male,Germany,None
+P02113,65,Female,Canada,Diabetes
+P02114,18,Female,France,None
+P02115,70,Male,United Kingdom,Respiratory Infection
+P02116,63,Male,Singapore,Heart Disease
+P02117,32,Male,Brazil,Asthma
+P02118,26,Female,India,Hypertension
+P02119,32,Female,United Kingdom,Arthritis
+P02120,66,Female,Australia,Heart Disease
+P02121,74,Male,Australia,Asthma
+P02122,41,Female,Singapore,None
+P02123,21,Male,United States,Diabetes
+P02124,29,Male,Singapore,Gastritis
+P02125,76,Female,Brazil,Arthritis
+P02126,75,Female,Australia,Migraine
+P02127,54,Female,France,High Cholesterol
+P02128,78,Female,France,Diabetes
+P02129,54,Male,Australia,None
+P02130,60,Male,Brazil,Diabetes
+P02131,77,Female,Japan,Respiratory Infection
+P02132,23,Female,Canada,None
+P02133,56,Male,Canada,Diabetes
+P02134,73,Male,Brazil,Heart Disease
+P02135,80,Male,India,Heart Disease
+P02136,63,Female,Canada,Hypertension
+P02137,41,Male,Germany,Hypertension
+P02138,28,Male,Canada,Arthritis
+P02139,79,Male,Germany,Diabetes
+P02140,30,Male,Australia,Hypertension
+P02141,51,Female,Japan,Respiratory Infection
+P02142,42,Male,Singapore,Asthma
+P02143,24,Female,Japan,Hypertension
+P02144,69,Female,Canada,Diabetes
+P02145,21,Female,Canada,Heart Disease
+P02146,76,Male,Brazil,High Cholesterol
+P02147,25,Female,Singapore,Gastritis
+P02148,37,Female,Canada,Migraine
+P02149,46,Female,United States,Hypertension
+P02150,80,Female,United States,Migraine
+P02151,71,Male,India,Gastritis
+P02152,70,Male,Australia,Arthritis
+P02153,68,Male,Germany,Heart Disease
+P02154,62,Male,Japan,Heart Disease
+P02155,63,Male,Australia,Gastritis
+P02156,27,Male,Germany,Diabetes
+P02157,60,Male,Germany,Migraine
+P02158,51,Male,United Kingdom,Migraine
+P02159,74,Male,Canada,Gastritis
+P02160,43,Male,India,Migraine
+P02161,58,Male,Canada,Diabetes
+P02162,66,Male,India,Heart Disease
+P02163,75,Male,Australia,Arthritis
+P02164,20,Male,Brazil,Respiratory Infection
+P02165,73,Female,Brazil,Heart Disease
+P02166,23,Female,Australia,Asthma
+P02167,22,Male,Singapore,Asthma
+P02168,22,Male,United States,Heart Disease
+P02169,71,Female,Germany,Diabetes
+P02170,64,Female,India,Respiratory Infection
+P02171,40,Female,France,Arthritis
+P02172,66,Female,Canada,Migraine
+P02173,26,Male,Australia,Asthma
+P02174,52,Male,Germany,Asthma
+P02175,37,Male,India,Asthma
+P02176,75,Female,Japan,None
+P02177,66,Female,Singapore,Diabetes
+P02178,78,Female,Canada,Heart Disease
+P02179,76,Male,Brazil,Respiratory Infection
+P02180,59,Female,Australia,Heart Disease
+P02181,52,Male,Brazil,None
+P02182,67,Male,India,Asthma
+P02183,35,Male,Brazil,Gastritis
+P02184,79,Female,Canada,None
+P02185,34,Male,United States,Diabetes
+P02186,41,Female,Germany,Arthritis
+P02187,20,Male,United States,Migraine
+P02188,49,Female,Australia,High Cholesterol
+P02189,52,Male,United States,Respiratory Infection
+P02190,55,Male,United Kingdom,None
+P02191,30,Female,Germany,Arthritis
+P02192,73,Female,India,High Cholesterol
+P02193,78,Female,Germany,Arthritis
+P02194,64,Female,United Kingdom,Heart Disease
+P02195,42,Female,France,Heart Disease
+P02196,26,Male,United States,Asthma
+P02197,21,Female,Germany,Hypertension
+P02198,31,Male,Brazil,Migraine
+P02199,54,Male,India,Diabetes
+P02200,51,Male,Japan,Diabetes
+P02201,28,Female,Australia,Asthma
+P02202,58,Female,Australia,Heart Disease
+P02203,73,Male,Australia,Asthma
+P02204,20,Female,Germany,Gastritis
+P02205,76,Female,United States,None
+P02206,45,Male,Germany,None
+P02207,46,Male,Canada,Respiratory Infection
+P02208,26,Female,Brazil,Heart Disease
+P02209,20,Male,Japan,Hypertension
+P02210,42,Female,Japan,Gastritis
+P02211,51,Male,Brazil,Gastritis
+P02212,29,Male,United Kingdom,Heart Disease
+P02213,59,Female,Singapore,None
+P02214,26,Female,Canada,High Cholesterol
+P02215,32,Female,India,None
+P02216,57,Female,Japan,Respiratory Infection
+P02217,42,Female,Australia,Respiratory Infection
+P02218,22,Female,Germany,Heart Disease
+P02219,28,Male,United Kingdom,Migraine
+P02220,76,Female,Singapore,Migraine
+P02221,51,Male,Brazil,Hypertension
+P02222,41,Female,France,Migraine
+P02223,77,Male,India,Arthritis
+P02224,32,Female,Singapore,Arthritis
+P02225,55,Male,Australia,Diabetes
+P02226,25,Female,Singapore,Arthritis
+P02227,76,Female,Japan,High Cholesterol
+P02228,22,Male,Germany,High Cholesterol
+P02229,65,Female,Brazil,High Cholesterol
+P02230,43,Male,Singapore,Arthritis
+P02231,35,Female,India,Hypertension
+P02232,23,Female,Singapore,None
+P02233,54,Male,France,Heart Disease
+P02234,77,Female,United Kingdom,Asthma
+P02235,65,Male,Japan,Diabetes
+P02236,30,Male,Germany,Respiratory Infection
+P02237,45,Female,Australia,Gastritis
+P02238,22,Male,Brazil,Respiratory Infection
+P02239,30,Female,Brazil,Diabetes
+P02240,34,Female,United Kingdom,Respiratory Infection
+P02241,67,Male,United States,None
+P02242,57,Female,United States,Respiratory Infection
+P02243,62,Male,Australia,Respiratory Infection
+P02244,49,Male,Singapore,None
+P02245,79,Male,France,None
+P02246,46,Male,Brazil,Arthritis
+P02247,68,Male,Singapore,None
+P02248,75,Male,Brazil,Asthma
+P02249,20,Female,Brazil,Migraine
+P02250,73,Female,Singapore,Asthma
+P02251,57,Female,United Kingdom,Respiratory Infection
+P02252,51,Female,United States,Asthma
+P02253,57,Female,Canada,Diabetes
+P02254,44,Male,India,Heart Disease
+P02255,30,Female,United Kingdom,Migraine
+P02256,62,Female,Japan,Heart Disease
+P02257,50,Male,France,Gastritis
+P02258,23,Female,France,Asthma
+P02259,41,Female,India,Heart Disease
+P02260,36,Female,France,None
+P02261,33,Female,Singapore,Hypertension
+P02262,57,Male,France,Hypertension
+P02263,45,Male,Canada,None
+P02264,50,Male,France,Heart Disease
+P02265,76,Female,Brazil,Respiratory Infection
+P02266,76,Male,United Kingdom,None
+P02267,65,Female,Singapore,Migraine
+P02268,58,Male,United States,High Cholesterol
+P02269,30,Male,France,Diabetes
+P02270,60,Male,Australia,Respiratory Infection
+P02271,62,Female,Australia,Migraine
+P02272,42,Male,Australia,Heart Disease
+P02273,70,Male,France,Respiratory Infection
+P02274,59,Male,Japan,Respiratory Infection
+P02275,53,Male,Brazil,Heart Disease
+P02276,80,Male,Germany,None
+P02277,44,Female,France,Heart Disease
+P02278,55,Male,Japan,Asthma
+P02279,77,Male,Germany,Asthma
+P02280,24,Female,India,Diabetes
+P02281,22,Female,Canada,Hypertension
+P02282,60,Female,Brazil,Arthritis
+P02283,62,Male,France,Diabetes
+P02284,75,Female,United Kingdom,Diabetes
+P02285,74,Female,Singapore,High Cholesterol
+P02286,68,Female,United Kingdom,Arthritis
+P02287,48,Male,United Kingdom,Hypertension
+P02288,40,Female,India,Respiratory Infection
+P02289,59,Female,Singapore,Arthritis
+P02290,27,Male,India,High Cholesterol
+P02291,49,Male,Germany,Gastritis
+P02292,60,Female,India,Diabetes
+P02293,70,Female,Australia,Heart Disease
+P02294,47,Male,Canada,Diabetes
+P02295,56,Female,Australia,None
+P02296,48,Male,France,High Cholesterol
+P02297,35,Male,Germany,Diabetes
+P02298,53,Female,Japan,Diabetes
+P02299,19,Male,Germany,Arthritis
+P02300,31,Male,Japan,Arthritis
+P02301,30,Female,Canada,Heart Disease
+P02302,46,Male,India,Migraine
+P02303,29,Male,India,None
+P02304,56,Female,Singapore,Heart Disease
+P02305,19,Female,France,Gastritis
+P02306,49,Female,United Kingdom,None
+P02307,30,Female,United States,Arthritis
+P02308,63,Male,Germany,Diabetes
+P02309,44,Female,Germany,Respiratory Infection
+P02310,66,Male,France,Diabetes
+P02311,58,Female,Australia,Hypertension
+P02312,34,Male,Brazil,Heart Disease
+P02313,57,Female,France,None
+P02314,48,Male,United States,Respiratory Infection
+P02315,51,Male,India,Hypertension
+P02316,77,Female,Japan,Gastritis
+P02317,41,Female,Australia,Diabetes
+P02318,62,Female,Australia,Migraine
+P02319,52,Male,Singapore,High Cholesterol
+P02320,65,Female,Canada,Hypertension
+P02321,23,Female,United States,Diabetes
+P02322,36,Female,Australia,Diabetes
+P02323,47,Female,United States,None
+P02324,24,Female,France,None
+P02325,27,Female,Japan,Migraine
+P02326,58,Female,Japan,Hypertension
+P02327,49,Female,Germany,Arthritis
+P02328,51,Female,India,None
+P02329,80,Female,Germany,High Cholesterol
+P02330,45,Female,Australia,Diabetes
+P02331,77,Female,Canada,Diabetes
+P02332,32,Female,Germany,Gastritis
+P02333,47,Male,Germany,Gastritis
+P02334,54,Male,Germany,Migraine
+P02335,46,Female,United States,Hypertension
+P02336,39,Female,France,Asthma
+P02337,21,Female,Canada,Respiratory Infection
+P02338,37,Female,Japan,None
+P02339,49,Female,Singapore,Hypertension
+P02340,53,Male,United States,Diabetes
+P02341,67,Female,Australia,Heart Disease
+P02342,21,Female,Canada,Gastritis
+P02343,44,Male,Japan,Respiratory Infection
+P02344,34,Male,Canada,None
+P02345,29,Male,Brazil,Arthritis
+P02346,39,Male,Brazil,Arthritis
+P02347,34,Male,Germany,Gastritis
+P02348,27,Male,Germany,Hypertension
+P02349,71,Male,Brazil,None
+P02350,18,Male,Singapore,Respiratory Infection
+P02351,39,Male,Japan,Diabetes
+P02352,43,Female,Australia,Hypertension
+P02353,73,Female,India,Gastritis
+P02354,76,Female,India,Migraine
+P02355,35,Male,United States,Asthma
+P02356,67,Male,Singapore,Hypertension
+P02357,31,Male,Singapore,High Cholesterol
+P02358,64,Female,Australia,None
+P02359,46,Male,Canada,Arthritis
+P02360,29,Female,India,High Cholesterol
+P02361,53,Male,Canada,Hypertension
+P02362,76,Female,Canada,Hypertension
+P02363,52,Male,Singapore,High Cholesterol
+P02364,69,Male,Canada,Migraine
+P02365,78,Female,India,High Cholesterol
+P02366,29,Male,Japan,Diabetes
+P02367,24,Male,United Kingdom,Respiratory Infection
+P02368,46,Female,Canada,High Cholesterol
+P02369,28,Female,Australia,High Cholesterol
+P02370,50,Female,France,None
+P02371,23,Male,Germany,Respiratory Infection
+P02372,64,Male,Australia,Asthma
+P02373,32,Male,Brazil,High Cholesterol
+P02374,49,Male,India,High Cholesterol
+P02375,68,Female,France,Diabetes
+P02376,28,Female,Germany,Arthritis
+P02377,75,Male,Australia,Diabetes
+P02378,40,Female,France,High Cholesterol
+P02379,43,Male,United Kingdom,None
+P02380,51,Female,India,Diabetes
+P02381,63,Male,Japan,None
+P02382,51,Male,United States,Respiratory Infection
+P02383,46,Male,Singapore,None
+P02384,21,Female,United Kingdom,Migraine
+P02385,34,Female,Brazil,Heart Disease
+P02386,52,Male,Singapore,Respiratory Infection
+P02387,30,Male,Japan,Heart Disease
+P02388,58,Male,United Kingdom,High Cholesterol
+P02389,56,Male,Germany,High Cholesterol
+P02390,32,Female,France,Migraine
+P02391,72,Male,India,Hypertension
+P02392,46,Male,France,Heart Disease
+P02393,46,Female,Canada,Diabetes
+P02394,28,Male,Australia,Migraine
+P02395,69,Female,Brazil,Respiratory Infection
+P02396,49,Female,Canada,Asthma
+P02397,19,Male,Canada,Diabetes
+P02398,64,Female,Brazil,None
+P02399,31,Female,Australia,High Cholesterol
+P02400,37,Male,Germany,Respiratory Infection
+P02401,39,Male,Australia,Migraine
+P02402,28,Male,India,Heart Disease
+P02403,44,Female,France,Heart Disease
+P02404,20,Female,Germany,Gastritis
+P02405,34,Female,United States,High Cholesterol
+P02406,79,Female,France,Diabetes
+P02407,61,Female,Germany,None
+P02408,73,Female,Australia,None
+P02409,45,Male,Brazil,High Cholesterol
+P02410,46,Female,Australia,Gastritis
+P02411,38,Male,United States,Gastritis
+P02412,64,Female,Germany,Diabetes
+P02413,33,Male,India,Gastritis
+P02414,54,Male,Australia,Migraine
+P02415,76,Male,Germany,Gastritis
+P02416,37,Male,France,Heart Disease
+P02417,23,Female,United States,Arthritis
+P02418,36,Male,India,Hypertension
+P02419,74,Female,Germany,Heart Disease
+P02420,22,Male,United Kingdom,Heart Disease
+P02421,20,Female,Australia,Asthma
+P02422,76,Male,United States,Asthma
+P02423,18,Male,India,High Cholesterol
+P02424,75,Female,India,Asthma
+P02425,77,Male,Canada,High Cholesterol
+P02426,55,Male,Singapore,Heart Disease
+P02427,32,Male,United States,Hypertension
+P02428,51,Male,India,Diabetes
+P02429,78,Female,Germany,Diabetes
+P02430,52,Male,Canada,Arthritis
+P02431,66,Female,Singapore,Respiratory Infection
+P02432,42,Female,France,Diabetes
+P02433,41,Male,Germany,Respiratory Infection
+P02434,29,Female,Australia,Gastritis
+P02435,35,Female,Singapore,None
+P02436,32,Female,United States,Heart Disease
+P02437,61,Female,Australia,Hypertension
+P02438,33,Female,Japan,High Cholesterol
+P02439,44,Male,Japan,Respiratory Infection
+P02440,25,Male,United States,Arthritis
+P02441,77,Male,France,Diabetes
+P02442,63,Male,Singapore,Migraine
+P02443,42,Male,Canada,Diabetes
+P02444,34,Male,United Kingdom,Asthma
+P02445,46,Male,India,Heart Disease
+P02446,70,Male,United Kingdom,Asthma
+P02447,25,Female,Japan,Diabetes
+P02448,32,Female,Japan,Migraine
+P02449,44,Female,France,Asthma
+P02450,63,Male,United Kingdom,Hypertension
+P02451,67,Female,United Kingdom,Asthma
+P02452,69,Female,Canada,Migraine
+P02453,24,Male,France,Asthma
+P02454,20,Male,France,Respiratory Infection
+P02455,46,Female,United States,Gastritis
+P02456,61,Male,Australia,High Cholesterol
+P02457,70,Male,France,Diabetes
+P02458,41,Male,France,Respiratory Infection
+P02459,77,Male,Germany,High Cholesterol
+P02460,75,Female,Singapore,Gastritis
+P02461,20,Female,Singapore,Respiratory Infection
+P02462,37,Male,Brazil,Arthritis
+P02463,63,Male,United Kingdom,Respiratory Infection
+P02464,32,Female,India,Hypertension
+P02465,42,Female,United Kingdom,Migraine
+P02466,47,Male,United States,Diabetes
+P02467,31,Female,United States,Heart Disease
+P02468,24,Male,United States,High Cholesterol
+P02469,34,Male,Australia,Asthma
+P02470,79,Female,India,Diabetes
+P02471,61,Male,Singapore,Heart Disease
+P02472,37,Female,Canada,Gastritis
+P02473,53,Female,Singapore,Respiratory Infection
+P02474,26,Female,Australia,Heart Disease
+P02475,55,Male,United States,Arthritis
+P02476,65,Male,Australia,Diabetes
+P02477,74,Male,Singapore,Diabetes
+P02478,77,Male,Canada,Diabetes
+P02479,80,Female,Brazil,Migraine
+P02480,39,Female,India,Gastritis
+P02481,71,Female,Australia,Migraine
+P02482,70,Female,Singapore,Diabetes
+P02483,70,Female,India,Arthritis
+P02484,19,Male,Singapore,Asthma
+P02485,41,Male,Singapore,Arthritis
+P02486,25,Female,Canada,High Cholesterol
+P02487,28,Male,Brazil,Gastritis
+P02488,30,Male,India,Respiratory Infection
+P02489,34,Female,United States,Diabetes
+P02490,25,Female,India,Heart Disease
+P02491,38,Male,France,Asthma
+P02492,35,Female,United States,Respiratory Infection
+P02493,47,Female,India,None
+P02494,35,Male,Germany,Arthritis
+P02495,63,Male,Germany,Asthma
+P02496,64,Male,Singapore,None
+P02497,48,Female,United States,Migraine
+P02498,55,Female,India,None
+P02499,49,Female,Singapore,Respiratory Infection
+P02500,28,Female,United Kingdom,Gastritis
+P02501,62,Male,Singapore,Arthritis
+P02502,42,Male,Australia,Asthma
+P02503,50,Female,Germany,None
+P02504,77,Male,United Kingdom,Arthritis
+P02505,55,Male,Japan,Asthma
+P02506,58,Male,Australia,Asthma
+P02507,25,Male,United States,Respiratory Infection
+P02508,28,Male,Singapore,Arthritis
+P02509,39,Male,Germany,Respiratory Infection
+P02510,68,Male,Brazil,None
+P02511,41,Male,Germany,High Cholesterol
+P02512,58,Female,Canada,Gastritis
+P02513,34,Female,Germany,High Cholesterol
+P02514,29,Male,Brazil,Hypertension
+P02515,74,Female,Brazil,Diabetes
+P02516,63,Male,Singapore,High Cholesterol
+P02517,49,Male,United States,Migraine
+P02518,32,Female,Brazil,Gastritis
+P02519,33,Female,Germany,Diabetes
+P02520,71,Female,United States,None
+P02521,39,Male,India,Respiratory Infection
+P02522,45,Male,Germany,Migraine
+P02523,37,Female,France,Diabetes
+P02524,50,Male,Singapore,Diabetes
+P02525,27,Male,Australia,Asthma
+P02526,57,Female,Singapore,Hypertension
+P02527,49,Female,Brazil,Respiratory Infection
+P02528,67,Female,Japan,None
+P02529,77,Male,Canada,Arthritis
+P02530,50,Female,France,High Cholesterol
+P02531,19,Male,Brazil,Gastritis
+P02532,50,Male,Germany,Hypertension
+P02533,50,Female,United States,Asthma
+P02534,58,Male,France,Asthma
+P02535,30,Male,Japan,Diabetes
+P02536,47,Female,Australia,Heart Disease
+P02537,50,Male,United States,High Cholesterol
+P02538,30,Male,Canada,Hypertension
+P02539,69,Male,United Kingdom,Diabetes
+P02540,43,Male,Canada,Hypertension
+P02541,39,Male,Singapore,Migraine
+P02542,56,Female,France,Respiratory Infection
+P02543,19,Female,Singapore,Gastritis
+P02544,55,Male,Brazil,High Cholesterol
+P02545,56,Female,India,Asthma
+P02546,43,Male,Brazil,Heart Disease
+P02547,63,Male,Australia,None
+P02548,75,Female,France,Arthritis
+P02549,67,Male,India,Respiratory Infection
+P02550,32,Female,United States,High Cholesterol
+P02551,51,Male,India,Migraine
+P02552,59,Female,Australia,High Cholesterol
+P02553,72,Male,Germany,None
+P02554,61,Male,Singapore,Gastritis
+P02555,66,Male,Japan,Gastritis
+P02556,57,Female,Brazil,Hypertension
+P02557,28,Female,France,Diabetes
+P02558,78,Female,Australia,Gastritis
+P02559,20,Male,United Kingdom,Heart Disease
+P02560,76,Male,Japan,Arthritis
+P02561,23,Male,Australia,Migraine
+P02562,26,Female,United Kingdom,None
+P02563,23,Female,United Kingdom,Asthma
+P02564,26,Male,United Kingdom,Gastritis
+P02565,56,Female,Germany,Asthma
+P02566,48,Male,India,Gastritis
+P02567,49,Female,Canada,Heart Disease
+P02568,58,Female,Brazil,Asthma
+P02569,67,Male,United Kingdom,Diabetes
+P02570,29,Male,Australia,Migraine
+P02571,25,Female,United States,Arthritis
+P02572,25,Female,United States,Heart Disease
+P02573,67,Female,France,Diabetes
+P02574,45,Male,Singapore,Arthritis
+P02575,79,Male,United Kingdom,Diabetes
+P02576,37,Male,Australia,Diabetes
+P02577,79,Female,United Kingdom,Diabetes
+P02578,64,Female,Germany,Hypertension
+P02579,76,Male,Singapore,Arthritis
+P02580,80,Male,United Kingdom,Diabetes
+P02581,24,Male,Brazil,Respiratory Infection
+P02582,28,Male,United States,Respiratory Infection
+P02583,37,Male,United Kingdom,Gastritis
+P02584,33,Male,Brazil,Migraine
+P02585,21,Male,Brazil,Asthma
+P02586,23,Male,India,Gastritis
+P02587,75,Female,Brazil,Hypertension
+P02588,39,Male,Singapore,Respiratory Infection
+P02589,43,Male,United States,Arthritis
+P02590,80,Male,France,Migraine
+P02591,20,Male,Germany,Migraine
+P02592,80,Male,United States,Asthma
+P02593,58,Male,Australia,Arthritis
+P02594,77,Female,France,None
+P02595,59,Female,Brazil,Asthma
+P02596,31,Female,United Kingdom,Migraine
+P02597,28,Female,India,Hypertension
+P02598,35,Female,France,Heart Disease
+P02599,71,Female,Australia,Heart Disease
+P02600,29,Male,Australia,Respiratory Infection
+P02601,40,Male,France,Migraine
+P02602,29,Female,India,Hypertension
+P02603,30,Male,Brazil,Asthma
+P02604,42,Male,Singapore,Hypertension
+P02605,62,Female,Australia,High Cholesterol
+P02606,68,Female,Brazil,Asthma
+P02607,75,Male,Singapore,Diabetes
+P02608,36,Female,Singapore,Asthma
+P02609,72,Male,Australia,Respiratory Infection
+P02610,63,Female,France,Heart Disease
+P02611,53,Male,Singapore,Asthma
+P02612,62,Male,United Kingdom,Diabetes
+P02613,25,Female,United States,High Cholesterol
+P02614,46,Male,Germany,Hypertension
+P02615,72,Female,Australia,Arthritis
+P02616,70,Male,Japan,Heart Disease
+P02617,72,Male,Singapore,Hypertension
+P02618,49,Female,Canada,High Cholesterol
+P02619,68,Male,United Kingdom,Arthritis
+P02620,61,Male,Japan,Migraine
+P02621,35,Male,Brazil,Gastritis
+P02622,23,Female,Germany,Respiratory Infection
+P02623,35,Female,India,Hypertension
+P02624,36,Female,Singapore,None
+P02625,39,Male,India,Arthritis
+P02626,54,Male,Germany,Migraine
+P02627,49,Male,United Kingdom,None
+P02628,73,Female,United Kingdom,Gastritis
+P02629,58,Male,Germany,Gastritis
+P02630,76,Female,United Kingdom,Heart Disease
+P02631,20,Male,Singapore,None
+P02632,45,Female,Germany,Heart Disease
+P02633,27,Female,Australia,Heart Disease
+P02634,68,Female,Canada,Heart Disease
+P02635,52,Male,Brazil,Heart Disease
+P02636,78,Male,United States,Migraine
+P02637,46,Male,France,Respiratory Infection
+P02638,71,Male,Canada,Asthma
+P02639,80,Male,United States,Migraine
+P02640,32,Male,France,High Cholesterol
+P02641,50,Male,India,Heart Disease
+P02642,24,Female,Canada,Arthritis
+P02643,29,Female,Japan,Arthritis
+P02644,66,Male,Canada,None
+P02645,47,Female,United Kingdom,None
+P02646,38,Male,Singapore,High Cholesterol
+P02647,48,Male,Singapore,Migraine
+P02648,75,Male,United States,Arthritis
+P02649,78,Female,United Kingdom,Diabetes
+P02650,41,Male,India,Diabetes
+P02651,37,Male,Singapore,Asthma
+P02652,54,Female,Brazil,Diabetes
+P02653,21,Male,India,Hypertension
+P02654,45,Female,United Kingdom,Heart Disease
+P02655,61,Female,United Kingdom,High Cholesterol
+P02656,79,Female,United States,None
+P02657,37,Male,Australia,Hypertension
+P02658,77,Male,Singapore,Respiratory Infection
+P02659,41,Male,United Kingdom,Heart Disease
+P02660,67,Male,United Kingdom,Arthritis
+P02661,66,Male,Brazil,Heart Disease
+P02662,68,Male,Canada,None
+P02663,49,Female,Canada,Gastritis
+P02664,58,Female,United Kingdom,Gastritis
+P02665,53,Male,India,Hypertension
+P02666,75,Male,Brazil,Migraine
+P02667,70,Male,India,Arthritis
+P02668,51,Male,France,None
+P02669,53,Female,Australia,None
+P02670,19,Female,Canada,None
+P02671,32,Female,Canada,Diabetes
+P02672,51,Female,Brazil,None
+P02673,53,Female,Germany,Gastritis
+P02674,23,Female,India,Respiratory Infection
+P02675,56,Male,Singapore,High Cholesterol
+P02676,59,Female,Brazil,Heart Disease
+P02677,68,Male,United States,High Cholesterol
+P02678,68,Male,Germany,Gastritis
+P02679,75,Male,Japan,Gastritis
+P02680,71,Male,India,Respiratory Infection
+P02681,78,Female,Germany,Asthma
+P02682,29,Male,Brazil,Hypertension
+P02683,20,Male,Singapore,Diabetes
+P02684,62,Male,United States,Migraine
+P02685,35,Female,Australia,None
+P02686,57,Male,Germany,None
+P02687,38,Female,Australia,Respiratory Infection
+P02688,32,Female,United Kingdom,Asthma
+P02689,50,Female,Canada,None
+P02690,52,Female,France,Diabetes
+P02691,43,Male,Canada,Hypertension
+P02692,25,Male,Japan,Diabetes
+P02693,53,Female,Singapore,Asthma
+P02694,65,Male,United States,Gastritis
+P02695,47,Male,Australia,Diabetes
+P02696,40,Female,Brazil,High Cholesterol
+P02697,59,Male,Australia,Diabetes
+P02698,61,Female,Singapore,Gastritis
+P02699,31,Male,Brazil,None
+P02700,31,Female,Brazil,Heart Disease
+P02701,19,Male,Japan,Heart Disease
+P02702,72,Female,Singapore,Heart Disease
+P02703,54,Male,Germany,None
+P02704,22,Male,Canada,Respiratory Infection
+P02705,55,Female,United Kingdom,Hypertension
+P02706,62,Male,Australia,Hypertension
+P02707,58,Male,Germany,None
+P02708,79,Female,United Kingdom,Diabetes
+P02709,71,Female,United States,Migraine
+P02710,77,Male,France,Hypertension
+P02711,78,Female,Australia,High Cholesterol
+P02712,64,Male,Japan,High Cholesterol
+P02713,31,Male,United Kingdom,Arthritis
+P02714,73,Female,Brazil,High Cholesterol
+P02715,56,Female,Germany,Hypertension
+P02716,42,Female,Canada,Migraine
+P02717,37,Female,Japan,Gastritis
+P02718,19,Male,Australia,Heart Disease
+P02719,56,Male,Singapore,Diabetes
+P02720,23,Male,Germany,Gastritis
+P02721,34,Female,Japan,Migraine
+P02722,76,Female,France,Respiratory Infection
+P02723,42,Male,Australia,Heart Disease
+P02724,74,Male,United States,Arthritis
+P02725,45,Male,Canada,Respiratory Infection
+P02726,19,Female,United States,Hypertension
+P02727,52,Male,United Kingdom,Migraine
+P02728,54,Male,Singapore,Heart Disease
+P02729,22,Male,United Kingdom,Arthritis
+P02730,80,Female,Canada,Diabetes
+P02731,18,Female,Germany,Diabetes
+P02732,57,Female,United Kingdom,None
+P02733,29,Male,Singapore,Hypertension
+P02734,73,Male,India,High Cholesterol
+P02735,53,Female,India,Migraine
+P02736,62,Female,Japan,Arthritis
+P02737,40,Male,Japan,Arthritis
+P02738,64,Male,Australia,High Cholesterol
+P02739,48,Male,Japan,High Cholesterol
+P02740,28,Male,France,Respiratory Infection
+P02741,27,Female,Japan,Heart Disease
+P02742,20,Male,France,Respiratory Infection
+P02743,71,Male,Japan,Asthma
+P02744,31,Male,United States,Asthma
+P02745,33,Male,Brazil,Hypertension
+P02746,27,Male,France,None
+P02747,46,Male,Germany,Migraine
+P02748,27,Male,Australia,Arthritis
+P02749,29,Female,Canada,Heart Disease
+P02750,47,Male,France,Diabetes
+P02751,58,Male,United Kingdom,Diabetes
+P02752,18,Female,Brazil,Gastritis
+P02753,22,Female,United States,High Cholesterol
+P02754,37,Female,India,Hypertension
+P02755,25,Male,United States,Gastritis
+P02756,60,Male,Japan,Gastritis
+P02757,29,Male,Australia,None
+P02758,18,Male,Brazil,Migraine
+P02759,74,Male,United Kingdom,Arthritis
+P02760,71,Female,France,Heart Disease
+P02761,37,Male,United States,Diabetes
+P02762,45,Male,Brazil,Diabetes
+P02763,74,Female,France,Diabetes
+P02764,60,Male,Australia,Asthma
+P02765,54,Female,Canada,Migraine
+P02766,64,Female,India,Hypertension
+P02767,54,Female,Australia,Diabetes
+P02768,29,Female,Japan,None
+P02769,54,Male,Singapore,Diabetes
+P02770,66,Male,Canada,Hypertension
+P02771,66,Female,Japan,Asthma
+P02772,73,Female,United States,None
+P02773,61,Male,Canada,Gastritis
+P02774,73,Female,Japan,Hypertension
+P02775,45,Male,Canada,Gastritis
+P02776,64,Female,Australia,High Cholesterol
+P02777,32,Male,Brazil,Respiratory Infection
+P02778,23,Female,India,Diabetes
+P02779,61,Female,India,Hypertension
+P02780,76,Male,Japan,Respiratory Infection
+P02781,78,Male,Japan,Heart Disease
+P02782,37,Male,Canada,None
+P02783,67,Female,United States,Migraine
+P02784,31,Female,Japan,High Cholesterol
+P02785,19,Female,Canada,Heart Disease
+P02786,26,Female,Germany,Heart Disease
+P02787,80,Female,India,High Cholesterol
+P02788,54,Male,Japan,Gastritis
+P02789,37,Male,Australia,Hypertension
+P02790,43,Female,United Kingdom,Arthritis
+P02791,46,Male,Canada,Diabetes
+P02792,18,Male,India,None
+P02793,72,Male,Japan,Asthma
+P02794,52,Male,Brazil,Hypertension
+P02795,23,Female,Canada,Diabetes
+P02796,54,Male,United States,Hypertension
+P02797,70,Female,Japan,Heart Disease
+P02798,76,Male,Canada,Arthritis
+P02799,22,Male,Japan,Asthma
+P02800,50,Male,Singapore,Hypertension
+P02801,66,Female,United Kingdom,Diabetes
+P02802,68,Female,France,Asthma
+P02803,31,Female,France,Asthma
+P02804,29,Female,Singapore,Migraine
+P02805,59,Female,Canada,None
+P02806,37,Female,United States,Heart Disease
+P02807,70,Female,Japan,Migraine
+P02808,67,Female,Canada,Diabetes
+P02809,41,Male,Brazil,Diabetes
+P02810,76,Female,United States,Gastritis
+P02811,60,Female,Brazil,Hypertension
+P02812,79,Female,Singapore,Hypertension
+P02813,51,Male,Australia,Gastritis
+P02814,42,Female,France,Respiratory Infection
+P02815,67,Female,France,High Cholesterol
+P02816,46,Male,Japan,Hypertension
+P02817,74,Female,United Kingdom,High Cholesterol
+P02818,56,Male,Singapore,Hypertension
+P02819,48,Male,Canada,None
+P02820,73,Male,Singapore,Respiratory Infection
+P02821,64,Male,Canada,Arthritis
+P02822,60,Female,Singapore,Respiratory Infection
+P02823,67,Male,Australia,Diabetes
+P02824,40,Male,Germany,Gastritis
+P02825,61,Male,United Kingdom,Diabetes
+P02826,55,Male,Canada,Arthritis
+P02827,37,Male,United Kingdom,Migraine
+P02828,40,Female,United States,Diabetes
+P02829,79,Male,Singapore,Diabetes
+P02830,62,Female,Japan,Diabetes
+P02831,69,Female,India,Asthma
+P02832,33,Male,United States,High Cholesterol
+P02833,67,Female,Brazil,Respiratory Infection
+P02834,59,Male,France,Migraine
+P02835,77,Male,India,Respiratory Infection
+P02836,72,Male,Australia,None
+P02837,25,Male,Singapore,High Cholesterol
+P02838,67,Male,Germany,Migraine
+P02839,38,Female,Australia,None
+P02840,18,Male,Canada,Heart Disease
+P02841,72,Female,India,Asthma
+P02842,25,Male,France,Diabetes
+P02843,46,Female,Japan,Asthma
+P02844,49,Male,Germany,Respiratory Infection
+P02845,55,Male,United Kingdom,Migraine
+P02846,22,Male,Singapore,None
+P02847,64,Male,Canada,Arthritis
+P02848,39,Male,Singapore,None
+P02849,64,Female,Australia,Asthma
+P02850,51,Male,India,Diabetes
+P02851,18,Female,Australia,Arthritis
+P02852,72,Female,India,Respiratory Infection
+P02853,72,Female,Japan,Arthritis
+P02854,43,Male,France,High Cholesterol
+P02855,60,Male,United Kingdom,Heart Disease
+P02856,27,Female,Japan,Diabetes
+P02857,47,Female,United States,Asthma
+P02858,67,Male,France,Migraine
+P02859,35,Male,Japan,Gastritis
+P02860,34,Male,Germany,Arthritis
+P02861,43,Female,Singapore,Hypertension
+P02862,25,Female,Australia,Gastritis
+P02863,64,Male,France,Respiratory Infection
+P02864,57,Female,Germany,Hypertension
+P02865,66,Female,Australia,Hypertension
+P02866,29,Male,United States,Hypertension
+P02867,44,Female,Brazil,None
+P02868,25,Female,France,Gastritis
+P02869,42,Male,Germany,Respiratory Infection
+P02870,63,Female,Australia,Asthma
+P02871,21,Male,Australia,Heart Disease
+P02872,50,Male,Japan,Respiratory Infection
+P02873,18,Male,India,Asthma
+P02874,36,Male,Japan,Asthma
+P02875,48,Male,Germany,Hypertension
+P02876,33,Male,Canada,Diabetes
+P02877,31,Female,Singapore,Gastritis
+P02878,70,Male,France,Asthma
+P02879,65,Female,Japan,Gastritis
+P02880,22,Male,Australia,High Cholesterol
+P02881,58,Female,Australia,None
+P02882,43,Female,Brazil,Heart Disease
+P02883,79,Male,France,High Cholesterol
+P02884,45,Female,Brazil,Asthma
+P02885,19,Male,Singapore,Respiratory Infection
+P02886,67,Female,United States,Gastritis
+P02887,23,Male,Japan,High Cholesterol
+P02888,80,Female,United Kingdom,Gastritis
+P02889,26,Female,Germany,None
+P02890,50,Male,Germany,Respiratory Infection
+P02891,58,Male,United States,High Cholesterol
+P02892,42,Female,France,Gastritis
+P02893,65,Male,Japan,Respiratory Infection
+P02894,30,Male,Singapore,Hypertension
+P02895,26,Male,India,Arthritis
+P02896,70,Male,Brazil,Hypertension
+P02897,30,Female,United States,Heart Disease
+P02898,48,Male,India,Asthma
+P02899,58,Male,Brazil,Diabetes
+P02900,28,Female,United States,Arthritis
+P02901,21,Female,Germany,Asthma
+P02902,51,Male,Germany,High Cholesterol
+P02903,78,Male,Australia,Heart Disease
+P02904,55,Female,Brazil,None
+P02905,63,Female,United Kingdom,Heart Disease
+P02906,21,Male,Singapore,Gastritis
+P02907,55,Male,Canada,Heart Disease
+P02908,36,Male,France,High Cholesterol
+P02909,23,Male,France,None
+P02910,51,Male,Brazil,None
+P02911,35,Female,United States,Migraine
+P02912,30,Male,United States,Heart Disease
+P02913,58,Female,Canada,Hypertension
+P02914,40,Male,Singapore,Migraine
+P02915,36,Female,Japan,Migraine
+P02916,62,Female,Singapore,High Cholesterol
+P02917,28,Male,Japan,Arthritis
+P02918,18,Male,Canada,Hypertension
+P02919,41,Male,Japan,None
+P02920,79,Female,United Kingdom,Heart Disease
+P02921,71,Female,Australia,Migraine
+P02922,24,Male,Singapore,Asthma
+P02923,42,Male,Japan,Asthma
+P02924,38,Male,Germany,Migraine
+P02925,32,Female,United Kingdom,Gastritis
+P02926,18,Male,Singapore,Heart Disease
+P02927,29,Male,Japan,High Cholesterol
+P02928,75,Male,Germany,None
+P02929,24,Male,Canada,Migraine
+P02930,32,Female,Canada,Hypertension
+P02931,38,Male,Brazil,Migraine
+P02932,36,Female,France,Respiratory Infection
+P02933,77,Male,India,None
+P02934,46,Male,Germany,Arthritis
+P02935,42,Female,Brazil,None
+P02936,50,Female,United Kingdom,Hypertension
+P02937,66,Female,Japan,Respiratory Infection
+P02938,49,Male,Singapore,Arthritis
+P02939,66,Male,United States,Diabetes
+P02940,52,Female,Germany,Hypertension
+P02941,61,Male,India,Asthma
+P02942,55,Male,United States,Gastritis
+P02943,43,Female,Australia,None
+P02944,28,Female,India,Diabetes
+P02945,52,Female,Brazil,Respiratory Infection
+P02946,25,Female,India,Diabetes
+P02947,63,Female,Japan,High Cholesterol
+P02948,31,Male,Singapore,Heart Disease
+P02949,27,Male,United Kingdom,None
+P02950,19,Female,United States,Heart Disease
+P02951,63,Female,India,Asthma
+P02952,26,Male,Japan,Diabetes
+P02953,20,Male,Canada,Respiratory Infection
+P02954,38,Male,India,Asthma
+P02955,43,Female,India,Heart Disease
+P02956,25,Male,France,Diabetes
+P02957,65,Male,United States,Asthma
+P02958,19,Male,France,Hypertension
+P02959,23,Female,France,Migraine
+P02960,45,Male,Singapore,Gastritis
+P02961,70,Female,Japan,Arthritis
+P02962,46,Female,France,Hypertension
+P02963,43,Male,India,Asthma
+P02964,42,Male,Brazil,Respiratory Infection
+P02965,29,Male,Brazil,High Cholesterol
+P02966,22,Male,Canada,Migraine
+P02967,51,Female,Brazil,Arthritis
+P02968,65,Male,Canada,Hypertension
+P02969,54,Female,Brazil,High Cholesterol
+P02970,32,Male,Australia,High Cholesterol
+P02971,61,Male,Canada,High Cholesterol
+P02972,53,Female,Germany,Migraine
+P02973,32,Male,United States,Diabetes
+P02974,60,Male,United States,Hypertension
+P02975,65,Male,United States,Diabetes
+P02976,40,Male,Japan,None
+P02977,23,Female,Singapore,Migraine
+P02978,63,Male,United Kingdom,High Cholesterol
+P02979,67,Female,Singapore,High Cholesterol
+P02980,61,Female,Canada,Migraine
+P02981,76,Male,Singapore,None
+P02982,60,Male,Brazil,Gastritis
+P02983,62,Male,Canada,Respiratory Infection
+P02984,38,Female,Singapore,Gastritis
+P02985,40,Male,Singapore,Diabetes
+P02986,60,Female,France,Migraine
+P02987,72,Male,Australia,Respiratory Infection
+P02988,33,Female,Japan,Gastritis
+P02989,64,Male,Canada,Diabetes
+P02990,70,Female,United Kingdom,Asthma
+P02991,77,Male,United States,Heart Disease
+P02992,32,Male,India,Respiratory Infection
+P02993,42,Male,Germany,Arthritis
+P02994,53,Male,Singapore,Respiratory Infection
+P02995,28,Female,United States,Diabetes
+P02996,68,Male,Brazil,High Cholesterol
+P02997,32,Male,Germany,Diabetes
+P02998,21,Female,Australia,Hypertension
+P02999,38,Male,United States,High Cholesterol
+P03000,30,Male,France,Diabetes
+P03001,39,Female,United States,Gastritis
+P03002,36,Male,Australia,Heart Disease
+P03003,51,Female,United States,Diabetes
+P03004,31,Male,Singapore,Gastritis
+P03005,78,Male,United States,Arthritis
+P03006,21,Female,France,Hypertension
+P03007,65,Female,Japan,Asthma
+P03008,70,Male,Australia,Hypertension
+P03009,69,Female,France,High Cholesterol
+P03010,63,Male,Canada,Heart Disease
+P03011,44,Male,United States,Hypertension
+P03012,46,Female,United Kingdom,Respiratory Infection
+P03013,64,Male,United States,Asthma
+P03014,45,Male,Australia,High Cholesterol
+P03015,52,Female,Germany,Respiratory Infection
+P03016,25,Female,France,High Cholesterol
+P03017,33,Male,United Kingdom,Respiratory Infection
+P03018,59,Male,Canada,None
+P03019,53,Female,Brazil,Heart Disease
+P03020,47,Female,Canada,Gastritis
+P03021,35,Female,France,Hypertension
+P03022,19,Male,Germany,Arthritis
+P03023,66,Male,France,Respiratory Infection
+P03024,30,Male,India,None
+P03025,21,Female,United Kingdom,Heart Disease
+P03026,43,Female,Germany,Arthritis
+P03027,42,Female,United Kingdom,Hypertension
+P03028,47,Female,France,None
+P03029,28,Male,Japan,Arthritis
+P03030,24,Male,United Kingdom,Asthma
+P03031,48,Male,India,Migraine
+P03032,61,Male,Singapore,High Cholesterol
+P03033,27,Male,Germany,High Cholesterol
+P03034,56,Male,India,Diabetes
+P03035,30,Female,India,Asthma
+P03036,48,Female,Brazil,Migraine
+P03037,24,Male,Japan,Diabetes
+P03038,80,Female,United States,Arthritis
+P03039,73,Male,Japan,Diabetes
+P03040,66,Female,Australia,Respiratory Infection
+P03041,59,Female,Brazil,Asthma
+P03042,78,Female,France,None
+P03043,59,Male,France,None
+P03044,73,Male,Canada,Migraine
+P03045,53,Male,United States,Hypertension
+P03046,37,Female,Australia,None
+P03047,21,Female,United Kingdom,Asthma
+P03048,71,Female,Japan,Heart Disease
+P03049,24,Male,Germany,High Cholesterol
+P03050,71,Female,India,Heart Disease
+P03051,18,Female,United Kingdom,Diabetes
+P03052,61,Male,Canada,Gastritis
+P03053,73,Male,Japan,Respiratory Infection
+P03054,62,Female,Germany,Gastritis
+P03055,59,Male,Canada,Asthma
+P03056,64,Female,India,Gastritis
+P03057,76,Female,Brazil,Heart Disease
+P03058,30,Female,United States,Hypertension
+P03059,72,Female,Brazil,Asthma
+P03060,39,Female,Germany,High Cholesterol
+P03061,71,Female,Brazil,Migraine
+P03062,38,Male,Germany,Asthma
+P03063,39,Male,Australia,Arthritis
+P03064,45,Male,Australia,High Cholesterol
+P03065,26,Female,Singapore,Asthma
+P03066,43,Male,Singapore,Arthritis
+P03067,26,Male,Brazil,High Cholesterol
+P03068,32,Male,France,Diabetes
+P03069,27,Female,Brazil,None
+P03070,41,Female,Brazil,Respiratory Infection
+P03071,75,Female,France,None
+P03072,74,Male,United States,Heart Disease
+P03073,78,Female,Japan,Migraine
+P03074,59,Female,France,None
+P03075,25,Male,Germany,Asthma
+P03076,41,Female,Japan,Diabetes
+P03077,33,Male,India,Gastritis
+P03078,66,Female,United States,Heart Disease
+P03079,43,Male,India,None
+P03080,44,Male,Singapore,Hypertension
+P03081,54,Female,United Kingdom,Migraine
+P03082,21,Male,Australia,Gastritis
+P03083,67,Male,India,Respiratory Infection
+P03084,41,Female,Canada,Asthma
+P03085,36,Male,Brazil,Diabetes
+P03086,53,Female,Germany,High Cholesterol
+P03087,77,Male,India,None
+P03088,56,Female,India,Hypertension
+P03089,27,Female,United Kingdom,Migraine
+P03090,42,Male,Singapore,Respiratory Infection
+P03091,35,Female,Brazil,None
+P03092,36,Female,Brazil,Respiratory Infection
+P03093,53,Female,United Kingdom,Gastritis
+P03094,27,Female,France,Gastritis
+P03095,50,Female,United Kingdom,Heart Disease
+P03096,72,Male,Canada,None
+P03097,67,Male,Japan,Diabetes
+P03098,22,Female,Canada,Migraine
+P03099,64,Male,United Kingdom,High Cholesterol
+P03100,66,Male,Australia,High Cholesterol
+P03101,52,Male,France,Asthma
+P03102,61,Male,Australia,Asthma
+P03103,51,Male,Canada,Migraine
+P03104,50,Female,Brazil,None
+P03105,72,Female,Canada,None
+P03106,38,Male,United States,Gastritis
+P03107,34,Female,Singapore,Hypertension
+P03108,39,Female,Germany,Asthma
+P03109,65,Male,United States,Hypertension
+P03110,54,Male,United Kingdom,None
+P03111,32,Female,India,Asthma
+P03112,52,Female,Australia,High Cholesterol
+P03113,45,Female,Japan,Respiratory Infection
+P03114,24,Female,United States,Asthma
+P03115,49,Female,France,None
+P03116,28,Male,Australia,None
+P03117,27,Female,United States,Respiratory Infection
+P03118,26,Male,Brazil,Hypertension
+P03119,31,Female,Germany,Migraine
+P03120,30,Female,Canada,Respiratory Infection
+P03121,78,Male,Canada,High Cholesterol
+P03122,74,Male,United States,None
+P03123,79,Male,United Kingdom,Diabetes
+P03124,42,Male,France,High Cholesterol
+P03125,19,Female,United Kingdom,Hypertension
+P03126,52,Male,Australia,Respiratory Infection
+P03127,24,Female,Singapore,None
+P03128,38,Male,Germany,None
+P03129,35,Female,Germany,Respiratory Infection
+P03130,20,Female,Canada,Migraine
+P03131,59,Female,Germany,Respiratory Infection
+P03132,71,Male,United Kingdom,Asthma
+P03133,78,Female,France,Arthritis
+P03134,56,Male,France,Migraine
+P03135,58,Male,Canada,Arthritis
+P03136,66,Male,United States,Hypertension
+P03137,28,Male,France,Gastritis
+P03138,56,Female,United Kingdom,High Cholesterol
+P03139,41,Male,India,Heart Disease
+P03140,77,Female,United States,Respiratory Infection
+P03141,63,Female,Singapore,High Cholesterol
+P03142,36,Male,Japan,Heart Disease
+P03143,21,Female,Brazil,Hypertension
+P03144,43,Male,Germany,Hypertension
+P03145,55,Male,Germany,Gastritis
+P03146,59,Male,India,Migraine
+P03147,49,Female,United States,High Cholesterol
+P03148,56,Female,Canada,High Cholesterol
+P03149,62,Male,United Kingdom,Respiratory Infection
+P03150,63,Male,India,Hypertension
+P03151,53,Female,Brazil,Heart Disease
+P03152,57,Male,France,Diabetes
+P03153,54,Female,Canada,Gastritis
+P03154,50,Female,Japan,Migraine
+P03155,53,Male,Canada,None
+P03156,20,Female,India,Diabetes
+P03157,26,Male,Singapore,Asthma
+P03158,25,Female,India,Arthritis
+P03159,50,Female,India,Gastritis
+P03160,76,Male,India,Heart Disease
+P03161,23,Male,Canada,Diabetes
+P03162,58,Female,India,Heart Disease
+P03163,56,Female,United States,Respiratory Infection
+P03164,21,Male,Canada,Gastritis
+P03165,30,Female,France,Hypertension
+P03166,66,Male,United States,Migraine
+P03167,77,Male,Brazil,Heart Disease
+P03168,19,Female,France,High Cholesterol
+P03169,77,Male,Japan,Diabetes
+P03170,22,Female,Germany,High Cholesterol
+P03171,61,Male,Canada,Heart Disease
+P03172,44,Female,Germany,Diabetes
+P03173,49,Male,Canada,Hypertension
+P03174,38,Female,France,Arthritis
+P03175,25,Female,Japan,Arthritis
+P03176,55,Male,United Kingdom,Respiratory Infection
+P03177,25,Male,United Kingdom,Asthma
+P03178,67,Male,United States,Arthritis
+P03179,20,Male,India,Asthma
+P03180,71,Female,India,Diabetes
+P03181,61,Male,United Kingdom,Arthritis
+P03182,78,Female,France,Heart Disease
+P03183,75,Male,Japan,Hypertension
+P03184,20,Male,United States,Heart Disease
+P03185,39,Male,France,Heart Disease
+P03186,23,Male,India,Asthma
+P03187,19,Male,United States,None
+P03188,40,Female,Germany,None
+P03189,61,Female,Australia,Migraine
+P03190,19,Female,Brazil,Arthritis
+P03191,55,Male,United States,Hypertension
+P03192,34,Male,India,Hypertension
+P03193,52,Male,France,High Cholesterol
+P03194,51,Male,Germany,Heart Disease
+P03195,40,Male,Brazil,Hypertension
+P03196,47,Male,Brazil,Diabetes
+P03197,69,Male,United States,Gastritis
+P03198,25,Male,Brazil,Heart Disease
+P03199,39,Male,Germany,Asthma
+P03200,61,Male,Japan,Heart Disease
+P03201,75,Male,France,Hypertension
+P03202,53,Male,United States,Respiratory Infection
+P03203,22,Male,Brazil,Diabetes
+P03204,30,Male,Japan,Diabetes
+P03205,46,Male,France,Arthritis
+P03206,48,Male,Canada,None
+P03207,64,Male,Japan,Asthma
+P03208,74,Male,Canada,Arthritis
+P03209,72,Male,Canada,Migraine
+P03210,33,Female,Japan,Gastritis
+P03211,59,Male,Brazil,High Cholesterol
+P03212,79,Male,Canada,Diabetes
+P03213,47,Female,Brazil,Asthma
+P03214,74,Male,Brazil,None
+P03215,72,Male,France,Asthma
+P03216,33,Female,Singapore,High Cholesterol
+P03217,29,Female,Germany,High Cholesterol
+P03218,34,Male,Brazil,Arthritis
+P03219,33,Male,France,Heart Disease
+P03220,29,Male,Australia,Migraine
+P03221,25,Male,Canada,Migraine
+P03222,37,Female,United States,Hypertension
+P03223,20,Male,Brazil,Migraine
+P03224,33,Male,Japan,Asthma
+P03225,47,Female,Canada,Migraine
+P03226,62,Female,Canada,None
+P03227,40,Male,Australia,Migraine
+P03228,45,Female,United States,Diabetes
+P03229,68,Male,France,Hypertension
+P03230,57,Female,Australia,Asthma
+P03231,71,Male,Germany,High Cholesterol
+P03232,22,Male,Canada,Arthritis
+P03233,37,Male,Brazil,Gastritis
+P03234,57,Male,Brazil,Arthritis
+P03235,73,Male,Australia,Heart Disease
+P03236,61,Female,Germany,Gastritis
+P03237,18,Female,United Kingdom,None
+P03238,74,Male,India,Respiratory Infection
+P03239,47,Male,Japan,Hypertension
+P03240,38,Male,Japan,High Cholesterol
+P03241,37,Female,United Kingdom,Arthritis
+P03242,23,Female,Canada,Migraine
+P03243,39,Female,France,Hypertension
+P03244,35,Female,United States,Migraine
+P03245,25,Male,United Kingdom,Hypertension
+P03246,56,Male,Germany,Hypertension
+P03247,49,Female,Brazil,Heart Disease
+P03248,50,Female,India,Diabetes
+P03249,70,Male,Canada,None
+P03250,33,Male,India,Migraine
+P03251,29,Female,United States,Migraine
+P03252,55,Male,Brazil,Migraine
+P03253,69,Male,Germany,Heart Disease
+P03254,51,Female,Japan,Arthritis
+P03255,78,Male,United States,Asthma
+P03256,31,Male,United Kingdom,Migraine
+P03257,53,Female,Japan,Arthritis
+P03258,50,Female,Japan,Diabetes
+P03259,40,Female,Germany,Migraine
+P03260,67,Male,United Kingdom,None
+P03261,62,Male,Australia,High Cholesterol
+P03262,19,Female,United States,Respiratory Infection
+P03263,58,Male,France,Migraine
+P03264,38,Male,Singapore,Asthma
+P03265,19,Female,Brazil,High Cholesterol
+P03266,44,Male,Germany,None
+P03267,74,Male,Brazil,Heart Disease
+P03268,26,Male,United States,Respiratory Infection
+P03269,18,Male,United Kingdom,Heart Disease
+P03270,28,Male,France,Asthma
+P03271,20,Male,Singapore,Respiratory Infection
+P03272,69,Female,India,Asthma
+P03273,79,Female,France,Heart Disease
+P03274,40,Male,Germany,None
+P03275,43,Male,Brazil,Respiratory Infection
+P03276,21,Male,France,Gastritis
+P03277,35,Male,Canada,Arthritis
+P03278,72,Female,United Kingdom,None
+P03279,23,Female,United Kingdom,Respiratory Infection
+P03280,52,Female,Canada,Asthma
+P03281,39,Male,Japan,Asthma
+P03282,60,Male,Japan,Diabetes
+P03283,32,Male,United States,None
+P03284,39,Male,Australia,Asthma
+P03285,77,Female,India,Hypertension
+P03286,54,Female,Canada,Arthritis
+P03287,69,Male,United States,Heart Disease
+P03288,59,Female,Brazil,High Cholesterol
+P03289,29,Male,Canada,Diabetes
+P03290,64,Male,Australia,Asthma
+P03291,66,Female,Canada,Hypertension
+P03292,59,Male,Australia,Diabetes
+P03293,55,Male,Australia,Hypertension
+P03294,35,Female,Australia,Diabetes
+P03295,62,Female,United Kingdom,Asthma
+P03296,52,Male,France,Hypertension
+P03297,47,Male,United Kingdom,Respiratory Infection
+P03298,41,Female,United States,None
+P03299,59,Female,United Kingdom,High Cholesterol
+P03300,47,Female,United Kingdom,Heart Disease
+P03301,31,Male,Brazil,High Cholesterol
+P03302,23,Female,Canada,Heart Disease
+P03303,20,Male,United Kingdom,Gastritis
+P03304,33,Female,Singapore,Arthritis
+P03305,24,Male,Australia,Gastritis
+P03306,69,Female,Canada,Migraine
+P03307,31,Male,Japan,Asthma
+P03308,26,Male,Brazil,Respiratory Infection
+P03309,32,Male,France,None
+P03310,38,Male,Brazil,Respiratory Infection
+P03311,52,Female,Australia,High Cholesterol
+P03312,19,Female,Canada,Heart Disease
+P03313,44,Female,France,Gastritis
+P03314,19,Male,India,Respiratory Infection
+P03315,52,Female,Germany,Gastritis
+P03316,35,Female,Brazil,Arthritis
+P03317,31,Male,France,Arthritis
+P03318,37,Male,United States,Heart Disease
+P03319,35,Female,France,Migraine
+P03320,27,Female,Germany,Respiratory Infection
+P03321,42,Female,Australia,None
+P03322,19,Male,Canada,Gastritis
+P03323,42,Male,India,Gastritis
+P03324,78,Male,United States,Arthritis
+P03325,71,Female,France,Asthma
+P03326,50,Female,Singapore,Heart Disease
+P03327,53,Male,United Kingdom,Gastritis
+P03328,48,Female,Australia,Arthritis
+P03329,31,Male,Brazil,Arthritis
+P03330,18,Female,Brazil,Hypertension
+P03331,63,Male,Germany,Gastritis
+P03332,33,Male,Australia,Hypertension
+P03333,71,Male,United States,None
+P03334,63,Male,Japan,None
+P03335,78,Male,India,Arthritis
+P03336,69,Female,United States,Asthma
+P03337,20,Female,India,Asthma
+P03338,52,Female,Canada,Hypertension
+P03339,58,Male,Canada,Arthritis
+P03340,23,Female,Australia,Hypertension
+P03341,42,Male,Australia,Heart Disease
+P03342,30,Female,Brazil,Hypertension
+P03343,70,Male,United Kingdom,Migraine
+P03344,51,Female,Germany,Gastritis
+P03345,25,Female,United Kingdom,None
+P03346,38,Male,United States,Diabetes
+P03347,51,Male,Brazil,Arthritis
+P03348,21,Male,India,Asthma
+P03349,42,Male,Japan,Respiratory Infection
+P03350,32,Female,France,Gastritis
+P03351,21,Female,Singapore,Diabetes
+P03352,62,Male,Canada,Migraine
+P03353,77,Female,United Kingdom,Respiratory Infection
+P03354,29,Female,Germany,Asthma
+P03355,49,Female,Japan,Migraine
+P03356,49,Male,Japan,Asthma
+P03357,45,Male,Canada,Asthma
+P03358,30,Male,Singapore,Arthritis
+P03359,48,Female,Australia,Respiratory Infection
+P03360,31,Male,Japan,Heart Disease
+P03361,37,Male,United States,Hypertension
+P03362,35,Female,United States,Hypertension
+P03363,46,Female,Australia,Gastritis
+P03364,77,Female,India,Asthma
+P03365,80,Male,Brazil,Gastritis
+P03366,23,Male,Australia,Respiratory Infection
+P03367,49,Female,Singapore,Asthma
+P03368,46,Male,United States,Asthma
+P03369,60,Male,Japan,Diabetes
+P03370,79,Male,United States,None
+P03371,19,Male,France,Hypertension
+P03372,77,Male,Brazil,Respiratory Infection
+P03373,40,Female,Germany,Migraine
+P03374,36,Female,France,Migraine
+P03375,48,Female,India,Heart Disease
+P03376,68,Male,Canada,High Cholesterol
+P03377,22,Male,France,Respiratory Infection
+P03378,36,Male,India,High Cholesterol
+P03379,51,Female,India,Diabetes
+P03380,27,Male,Germany,Migraine
+P03381,42,Female,Canada,Respiratory Infection
+P03382,19,Female,United Kingdom,Asthma
+P03383,79,Male,Australia,None
+P03384,28,Male,Japan,Arthritis
+P03385,67,Female,Singapore,None
+P03386,78,Female,Singapore,Heart Disease
+P03387,48,Male,Singapore,Migraine
+P03388,73,Male,United Kingdom,Gastritis
+P03389,32,Female,Australia,Gastritis
+P03390,26,Male,Singapore,Arthritis
+P03391,40,Male,Australia,Migraine
+P03392,36,Male,Japan,Respiratory Infection
+P03393,26,Male,Singapore,Asthma
+P03394,52,Male,Canada,Heart Disease
+P03395,38,Male,India,Gastritis
+P03396,26,Male,Singapore,Arthritis
+P03397,45,Female,Australia,None
+P03398,79,Female,India,Asthma
+P03399,63,Female,Germany,Gastritis
+P03400,68,Female,Singapore,None
+P03401,24,Female,Singapore,Respiratory Infection
+P03402,33,Male,France,None
+P03403,33,Male,India,Asthma
+P03404,77,Female,Singapore,None
+P03405,50,Male,Canada,Respiratory Infection
+P03406,21,Male,Japan,Heart Disease
+P03407,21,Female,India,Asthma
+P03408,56,Male,Japan,Heart Disease
+P03409,57,Male,Brazil,Arthritis
+P03410,34,Female,Australia,Migraine
+P03411,54,Female,Germany,None
+P03412,56,Male,France,Diabetes
+P03413,77,Female,Canada,Heart Disease
+P03414,69,Female,Germany,Respiratory Infection
+P03415,46,Female,France,Gastritis
+P03416,69,Male,Germany,Heart Disease
+P03417,53,Male,Germany,Gastritis
+P03418,77,Female,United States,None
+P03419,55,Female,Australia,Arthritis
+P03420,56,Female,United Kingdom,Hypertension
+P03421,67,Male,France,Asthma
+P03422,80,Male,Canada,Gastritis
+P03423,54,Female,India,Gastritis
+P03424,69,Male,Germany,Asthma
+P03425,80,Male,Germany,Hypertension
+P03426,79,Male,France,None
+P03427,78,Male,Brazil,Respiratory Infection
+P03428,52,Female,United Kingdom,Migraine
+P03429,24,Female,Germany,Gastritis
+P03430,44,Male,Singapore,Hypertension
+P03431,45,Male,United States,Hypertension
+P03432,39,Female,Japan,Arthritis
+P03433,31,Male,United States,Gastritis
+P03434,24,Female,United Kingdom,Heart Disease
+P03435,54,Female,Singapore,None
+P03436,78,Male,United States,Respiratory Infection
+P03437,39,Female,Japan,Hypertension
+P03438,22,Male,India,Arthritis
+P03439,79,Female,Australia,Arthritis
+P03440,72,Male,India,Asthma
+P03441,19,Female,Australia,Gastritis
+P03442,79,Male,Brazil,Hypertension
+P03443,44,Male,Brazil,Respiratory Infection
+P03444,38,Female,Brazil,Heart Disease
+P03445,71,Female,United States,Diabetes
+P03446,55,Male,Brazil,Diabetes
+P03447,32,Male,Australia,Heart Disease
+P03448,38,Female,India,Hypertension
+P03449,27,Male,France,Gastritis
+P03450,40,Male,Germany,Respiratory Infection
+P03451,75,Female,Australia,Asthma
+P03452,73,Male,India,Gastritis
+P03453,56,Female,India,Migraine
+P03454,22,Female,Germany,Gastritis
+P03455,18,Female,Singapore,Gastritis
+P03456,30,Female,France,None
+P03457,38,Female,Singapore,Hypertension
+P03458,43,Male,Singapore,Asthma
+P03459,67,Female,India,None
+P03460,62,Male,Japan,Hypertension
+P03461,38,Male,Canada,High Cholesterol
+P03462,70,Female,Australia,Asthma
+P03463,35,Female,United States,Hypertension
+P03464,54,Female,Singapore,Diabetes
+P03465,62,Male,Brazil,None
+P03466,49,Female,United States,High Cholesterol
+P03467,53,Male,United Kingdom,Asthma
+P03468,34,Female,Japan,Migraine
+P03469,52,Female,United States,Respiratory Infection
+P03470,66,Female,Germany,Migraine
+P03471,77,Male,Canada,Diabetes
+P03472,28,Male,France,Diabetes
+P03473,80,Male,Germany,Heart Disease
+P03474,38,Female,Singapore,Heart Disease
+P03475,69,Female,Japan,Migraine
+P03476,72,Male,Japan,None
+P03477,70,Female,Singapore,Gastritis
+P03478,43,Female,Canada,Hypertension
+P03479,79,Male,India,Respiratory Infection
+P03480,21,Female,United States,High Cholesterol
+P03481,51,Female,Brazil,Respiratory Infection
+P03482,69,Male,Singapore,Diabetes
+P03483,65,Male,Brazil,Heart Disease
+P03484,77,Male,United States,Gastritis
+P03485,35,Female,Canada,Arthritis
+P03486,57,Female,India,Asthma
+P03487,52,Female,France,Arthritis
+P03488,58,Male,Canada,Arthritis
+P03489,46,Male,Brazil,None
+P03490,69,Male,Japan,None
+P03491,46,Male,Japan,Heart Disease
+P03492,55,Female,United Kingdom,Arthritis
+P03493,59,Female,Australia,High Cholesterol
+P03494,38,Female,Germany,Diabetes
+P03495,59,Female,Germany,Arthritis
+P03496,30,Male,Singapore,Gastritis
+P03497,66,Male,Brazil,Asthma
+P03498,58,Male,Germany,Hypertension
+P03499,34,Female,Germany,Heart Disease
+P03500,73,Female,Canada,Heart Disease
+P03501,26,Male,France,Migraine
+P03502,58,Male,Brazil,Gastritis
+P03503,18,Male,United Kingdom,None
+P03504,19,Male,France,Diabetes
+P03505,77,Male,United Kingdom,High Cholesterol
+P03506,65,Male,Brazil,Gastritis
+P03507,46,Male,India,Respiratory Infection
+P03508,50,Female,India,Hypertension
+P03509,27,Female,Germany,Asthma
+P03510,67,Male,Singapore,Migraine
+P03511,75,Male,Japan,Gastritis
+P03512,77,Male,Canada,Migraine
+P03513,57,Male,Germany,Hypertension
+P03514,38,Male,Australia,Arthritis
+P03515,45,Male,India,Migraine
+P03516,28,Female,Germany,Heart Disease
+P03517,72,Female,Japan,None
+P03518,51,Male,United Kingdom,Arthritis
+P03519,25,Female,United Kingdom,Gastritis
+P03520,76,Male,United States,Asthma
+P03521,39,Male,Canada,Heart Disease
+P03522,25,Female,Singapore,Hypertension
+P03523,66,Female,United Kingdom,Arthritis
+P03524,32,Female,United States,Heart Disease
+P03525,34,Female,India,None
+P03526,77,Female,United Kingdom,Arthritis
+P03527,40,Female,Singapore,Diabetes
+P03528,41,Female,Germany,Diabetes
+P03529,62,Male,Japan,Arthritis
+P03530,36,Female,Australia,Arthritis
+P03531,22,Female,United Kingdom,Diabetes
+P03532,49,Female,Australia,Gastritis
+P03533,61,Male,Australia,Migraine
+P03534,18,Female,Australia,Asthma
+P03535,40,Male,France,Heart Disease
+P03536,54,Male,Australia,Heart Disease
+P03537,25,Male,France,Hypertension
+P03538,30,Female,Japan,Asthma
+P03539,25,Female,Australia,High Cholesterol
+P03540,74,Male,United States,Diabetes
+P03541,40,Male,Australia,High Cholesterol
+P03542,60,Male,Brazil,None
+P03543,18,Female,Canada,Asthma
+P03544,62,Male,United States,Respiratory Infection
+P03545,68,Male,Singapore,Hypertension
+P03546,41,Male,United Kingdom,Arthritis
+P03547,52,Male,Japan,None
+P03548,41,Male,Japan,Migraine
+P03549,34,Female,Brazil,Respiratory Infection
+P03550,22,Male,Brazil,Asthma
+P03551,37,Female,Brazil,Asthma
+P03552,38,Male,Brazil,High Cholesterol
+P03553,57,Male,Brazil,Gastritis
+P03554,75,Male,India,High Cholesterol
+P03555,48,Female,Germany,Heart Disease
+P03556,63,Female,Japan,High Cholesterol
+P03557,53,Female,Brazil,Gastritis
+P03558,28,Female,United Kingdom,Migraine
+P03559,69,Male,India,None
+P03560,32,Female,United States,Diabetes
+P03561,36,Female,United States,Asthma
+P03562,24,Male,France,Arthritis
+P03563,68,Female,Germany,High Cholesterol
+P03564,45,Male,United States,Respiratory Infection
+P03565,68,Male,Brazil,Migraine
+P03566,60,Male,Japan,Hypertension
+P03567,75,Male,France,Asthma
+P03568,22,Male,Canada,Gastritis
+P03569,22,Male,India,Heart Disease
+P03570,47,Male,Canada,Gastritis
+P03571,71,Male,Canada,High Cholesterol
+P03572,49,Female,Brazil,None
+P03573,25,Female,Canada,Heart Disease
+P03574,27,Male,Canada,Respiratory Infection
+P03575,55,Male,United States,Gastritis
+P03576,64,Male,Singapore,Respiratory Infection
+P03577,49,Female,France,Hypertension
+P03578,65,Male,Canada,Respiratory Infection
+P03579,45,Male,Germany,Asthma
+P03580,34,Male,United Kingdom,Migraine
+P03581,48,Female,France,Heart Disease
+P03582,25,Male,Germany,Asthma
+P03583,57,Male,United Kingdom,Arthritis
+P03584,42,Male,Canada,Gastritis
+P03585,26,Male,Singapore,Gastritis
+P03586,19,Female,Australia,Arthritis
+P03587,32,Female,Japan,Respiratory Infection
+P03588,67,Female,Germany,Asthma
+P03589,20,Female,Canada,Heart Disease
+P03590,66,Male,France,Heart Disease
+P03591,53,Female,United States,Arthritis
+P03592,79,Female,Canada,Gastritis
+P03593,21,Male,Australia,Arthritis
+P03594,31,Female,Canada,Hypertension
+P03595,58,Male,Canada,Hypertension
+P03596,58,Male,Japan,Hypertension
+P03597,42,Female,United States,Diabetes
+P03598,75,Female,Germany,Migraine
+P03599,72,Female,Brazil,None
+P03600,79,Male,Brazil,High Cholesterol
+P03601,80,Female,France,Diabetes
+P03602,67,Female,Singapore,Heart Disease
+P03603,27,Male,Canada,Respiratory Infection
+P03604,38,Female,France,Gastritis
+P03605,53,Female,Singapore,Respiratory Infection
+P03606,29,Male,Germany,Arthritis
+P03607,44,Female,Germany,Gastritis
+P03608,57,Male,United States,High Cholesterol
+P03609,19,Male,Brazil,High Cholesterol
+P03610,71,Male,Brazil,Asthma
+P03611,30,Female,France,Respiratory Infection
+P03612,70,Male,Japan,None
+P03613,49,Female,Brazil,High Cholesterol
+P03614,48,Male,Japan,Migraine
+P03615,33,Female,Japan,Asthma
+P03616,49,Male,Germany,None
+P03617,49,Female,United States,Gastritis
+P03618,77,Male,France,Respiratory Infection
+P03619,51,Female,United Kingdom,Respiratory Infection
+P03620,28,Female,France,None
+P03621,27,Female,Japan,None
+P03622,32,Male,Singapore,High Cholesterol
+P03623,34,Female,Singapore,Gastritis
+P03624,57,Male,United States,Asthma
+P03625,35,Female,Germany,Migraine
+P03626,72,Female,Germany,Heart Disease
+P03627,26,Male,Japan,Heart Disease
+P03628,42,Male,Japan,Diabetes
+P03629,57,Male,Australia,Migraine
+P03630,76,Female,Australia,Gastritis
+P03631,31,Female,Japan,Gastritis
+P03632,77,Male,Brazil,Asthma
+P03633,75,Male,France,Respiratory Infection
+P03634,42,Male,Brazil,Diabetes
+P03635,67,Male,Germany,Asthma
+P03636,39,Male,United Kingdom,Diabetes
+P03637,69,Female,France,Respiratory Infection
+P03638,47,Male,Brazil,Arthritis
+P03639,37,Female,Brazil,Diabetes
+P03640,38,Female,India,Asthma
+P03641,61,Male,France,Arthritis
+P03642,49,Female,United Kingdom,None
+P03643,68,Male,United States,Migraine
+P03644,63,Male,United States,High Cholesterol
+P03645,66,Male,Brazil,Asthma
+P03646,73,Male,Japan,None
+P03647,38,Male,United Kingdom,Heart Disease
+P03648,52,Male,United Kingdom,Heart Disease
+P03649,75,Male,Germany,Gastritis
+P03650,49,Male,Singapore,Asthma
+P03651,47,Male,India,Hypertension
+P03652,72,Male,Germany,High Cholesterol
+P03653,56,Male,United Kingdom,Hypertension
+P03654,66,Male,Canada,Migraine
+P03655,29,Female,Japan,Gastritis
+P03656,58,Male,United Kingdom,High Cholesterol
+P03657,64,Female,India,Arthritis
+P03658,35,Male,United Kingdom,Diabetes
+P03659,38,Female,France,High Cholesterol
+P03660,30,Male,France,Respiratory Infection
+P03661,79,Female,Australia,Arthritis
+P03662,38,Female,India,Diabetes
+P03663,79,Male,Brazil,Migraine
+P03664,25,Female,Singapore,Heart Disease
+P03665,63,Male,Brazil,Diabetes
+P03666,57,Male,Singapore,Respiratory Infection
+P03667,63,Female,Singapore,Gastritis
+P03668,24,Female,Singapore,Diabetes
+P03669,40,Male,United States,High Cholesterol
+P03670,61,Male,Singapore,High Cholesterol
+P03671,49,Female,United Kingdom,Gastritis
+P03672,28,Female,Canada,High Cholesterol
+P03673,39,Female,India,Migraine
+P03674,39,Female,Canada,Respiratory Infection
+P03675,60,Male,Australia,Asthma
+P03676,42,Female,United Kingdom,Asthma
+P03677,39,Male,Singapore,Heart Disease
+P03678,45,Male,United States,None
+P03679,46,Male,Germany,Migraine
+P03680,30,Female,Brazil,None
+P03681,35,Male,France,Asthma
+P03682,19,Female,India,Diabetes
+P03683,46,Male,Canada,Diabetes
+P03684,38,Male,United Kingdom,Diabetes
+P03685,32,Female,Germany,High Cholesterol
+P03686,69,Male,Japan,High Cholesterol
+P03687,44,Male,Japan,Hypertension
+P03688,67,Male,France,Diabetes
+P03689,48,Female,Japan,Diabetes
+P03690,32,Male,Brazil,Arthritis
+P03691,68,Male,Australia,Gastritis
+P03692,40,Male,Japan,Asthma
+P03693,41,Male,France,High Cholesterol
+P03694,61,Male,Australia,Respiratory Infection
+P03695,30,Male,Brazil,High Cholesterol
+P03696,39,Male,France,Respiratory Infection
+P03697,60,Female,Japan,Hypertension
+P03698,54,Male,Singapore,Respiratory Infection
+P03699,78,Male,India,High Cholesterol
+P03700,50,Male,Japan,Heart Disease
+P03701,73,Male,France,High Cholesterol
+P03702,20,Female,India,Migraine
+P03703,80,Male,India,Heart Disease
+P03704,71,Male,Australia,Diabetes
+P03705,36,Female,Brazil,Asthma
+P03706,40,Male,Japan,Respiratory Infection
+P03707,46,Male,Germany,High Cholesterol
+P03708,47,Male,Singapore,High Cholesterol
+P03709,56,Male,Brazil,Respiratory Infection
+P03710,61,Male,Germany,None
+P03711,64,Male,Germany,Asthma
+P03712,42,Female,Canada,Arthritis
+P03713,54,Female,Australia,Gastritis
+P03714,64,Male,United States,Diabetes
+P03715,25,Male,United Kingdom,Heart Disease
+P03716,59,Male,United Kingdom,High Cholesterol
+P03717,75,Male,Australia,Hypertension
+P03718,33,Male,Australia,Asthma
+P03719,25,Female,Germany,Respiratory Infection
+P03720,18,Female,Australia,High Cholesterol
+P03721,61,Female,Germany,Heart Disease
+P03722,22,Female,Brazil,Hypertension
+P03723,20,Male,United States,Gastritis
+P03724,18,Male,Canada,Gastritis
+P03725,21,Male,Germany,Heart Disease
+P03726,57,Male,Australia,Asthma
+P03727,52,Female,India,Hypertension
+P03728,49,Male,Japan,Respiratory Infection
+P03729,59,Female,United Kingdom,Hypertension
+P03730,51,Male,United States,Migraine
+P03731,60,Female,Japan,Respiratory Infection
+P03732,42,Female,France,Diabetes
+P03733,27,Female,Australia,Arthritis
+P03734,38,Female,Germany,Diabetes
+P03735,63,Male,Canada,Arthritis
+P03736,56,Female,India,Diabetes
+P03737,44,Female,Canada,Hypertension
+P03738,44,Female,Japan,Asthma
+P03739,19,Female,India,Heart Disease
+P03740,58,Female,Singapore,High Cholesterol
+P03741,65,Female,United Kingdom,Arthritis
+P03742,30,Female,Australia,High Cholesterol
+P03743,26,Female,France,Migraine
+P03744,69,Male,Japan,Migraine
+P03745,53,Male,Germany,High Cholesterol
+P03746,39,Male,United Kingdom,Migraine
+P03747,59,Male,France,Respiratory Infection
+P03748,43,Male,Canada,High Cholesterol
+P03749,75,Male,United Kingdom,Migraine
+P03750,71,Female,France,Arthritis
+P03751,29,Male,France,Asthma
+P03752,34,Male,Canada,Migraine
+P03753,31,Female,France,High Cholesterol
+P03754,31,Female,United States,Arthritis
+P03755,74,Female,India,High Cholesterol
+P03756,51,Female,United States,Gastritis
+P03757,70,Female,Canada,Hypertension
+P03758,74,Male,Brazil,Hypertension
+P03759,37,Female,United Kingdom,Hypertension
+P03760,28,Female,Singapore,Diabetes
+P03761,33,Male,Germany,Respiratory Infection
+P03762,68,Male,Germany,High Cholesterol
+P03763,48,Female,Japan,Respiratory Infection
+P03764,72,Male,Japan,High Cholesterol
+P03765,23,Female,Canada,Gastritis
+P03766,73,Male,Japan,Migraine
+P03767,36,Female,Germany,Diabetes
+P03768,54,Male,United States,Asthma
+P03769,75,Male,Singapore,High Cholesterol
+P03770,21,Male,Germany,Arthritis
+P03771,64,Female,United States,Migraine
+P03772,78,Female,Brazil,Heart Disease
+P03773,21,Female,Canada,Heart Disease
+P03774,37,Male,Australia,Asthma
+P03775,27,Female,Brazil,Arthritis
+P03776,41,Male,Brazil,Hypertension
+P03777,71,Male,Germany,Diabetes
+P03778,52,Male,Canada,Respiratory Infection
+P03779,43,Female,India,None
+P03780,54,Male,France,None
+P03781,55,Male,Brazil,Diabetes
+P03782,38,Female,Japan,Migraine
+P03783,71,Female,United States,Gastritis
+P03784,57,Male,India,Migraine
+P03785,56,Male,Canada,Heart Disease
+P03786,38,Male,Australia,Respiratory Infection
+P03787,27,Male,Singapore,Heart Disease
+P03788,55,Female,India,High Cholesterol
+P03789,63,Male,Australia,Heart Disease
+P03790,21,Female,Germany,None
+P03791,77,Female,United Kingdom,None
+P03792,74,Male,France,Respiratory Infection
+P03793,62,Female,Germany,Heart Disease
+P03794,37,Male,Canada,Diabetes
+P03795,34,Male,United Kingdom,Diabetes
+P03796,72,Male,Australia,Asthma
+P03797,24,Male,United Kingdom,Gastritis
+P03798,21,Male,Singapore,Respiratory Infection
+P03799,46,Male,Japan,Heart Disease
+P03800,31,Female,Japan,Respiratory Infection
+P03801,20,Female,Germany,Migraine
+P03802,41,Female,Germany,Hypertension
+P03803,54,Male,Canada,Arthritis
+P03804,33,Female,Canada,Migraine
+P03805,75,Female,United States,Migraine
+P03806,72,Female,Singapore,Heart Disease
+P03807,69,Female,Canada,Hypertension
+P03808,21,Female,Brazil,Diabetes
+P03809,73,Male,Singapore,Diabetes
+P03810,79,Female,United States,Migraine
+P03811,41,Male,Japan,Gastritis
+P03812,51,Female,India,Diabetes
+P03813,47,Male,United States,High Cholesterol
+P03814,35,Male,United States,Migraine
+P03815,36,Male,Germany,Arthritis
+P03816,48,Female,France,Hypertension
+P03817,77,Male,United Kingdom,Asthma
+P03818,77,Male,Japan,None
+P03819,36,Female,Australia,Respiratory Infection
+P03820,66,Female,Australia,Migraine
+P03821,80,Male,Canada,Diabetes
+P03822,63,Male,Japan,Respiratory Infection
+P03823,36,Female,Brazil,Arthritis
+P03824,39,Female,Canada,Heart Disease
+P03825,41,Female,Canada,None
+P03826,62,Female,United States,Gastritis
+P03827,29,Male,Japan,Asthma
+P03828,47,Female,United Kingdom,Heart Disease
+P03829,75,Female,Canada,Arthritis
+P03830,55,Male,France,Diabetes
+P03831,70,Male,Singapore,High Cholesterol
+P03832,48,Female,Brazil,Hypertension
+P03833,53,Female,Brazil,Heart Disease
+P03834,36,Male,Canada,Heart Disease
+P03835,65,Female,France,Asthma
+P03836,62,Female,Singapore,Hypertension
+P03837,53,Male,India,Arthritis
+P03838,47,Female,Germany,Respiratory Infection
+P03839,72,Female,Germany,Respiratory Infection
+P03840,66,Female,Germany,Hypertension
+P03841,72,Male,United States,Gastritis
+P03842,50,Male,Brazil,Migraine
+P03843,35,Male,Australia,Gastritis
+P03844,80,Female,Australia,Gastritis
+P03845,69,Female,United States,Heart Disease
+P03846,66,Female,Canada,Heart Disease
+P03847,76,Female,Japan,None
+P03848,45,Male,Japan,Diabetes
+P03849,76,Female,Germany,Arthritis
+P03850,64,Male,Japan,Arthritis
+P03851,28,Female,Canada,None
+P03852,74,Male,India,Heart Disease
+P03853,77,Female,United States,Asthma
+P03854,71,Female,India,Asthma
+P03855,62,Female,Brazil,Diabetes
+P03856,50,Male,Japan,Hypertension
+P03857,34,Male,Singapore,Heart Disease
+P03858,23,Female,Germany,Respiratory Infection
+P03859,21,Female,United States,Respiratory Infection
+P03860,37,Male,Germany,Heart Disease
+P03861,65,Female,Japan,High Cholesterol
+P03862,64,Male,United Kingdom,Hypertension
+P03863,44,Female,Japan,Respiratory Infection
+P03864,32,Female,United States,Migraine
+P03865,23,Female,Australia,Gastritis
+P03866,64,Female,United States,Heart Disease
+P03867,31,Female,France,High Cholesterol
+P03868,77,Male,Singapore,Migraine
+P03869,28,Male,Japan,Gastritis
+P03870,56,Male,France,Gastritis
+P03871,26,Male,Australia,Diabetes
+P03872,43,Female,Canada,Hypertension
+P03873,33,Male,Canada,Heart Disease
+P03874,22,Male,Singapore,High Cholesterol
+P03875,74,Male,Brazil,None
+P03876,69,Male,Singapore,Diabetes
+P03877,78,Male,Singapore,Asthma
+P03878,27,Female,Singapore,Migraine
+P03879,67,Female,Singapore,None
+P03880,20,Female,Singapore,Migraine
+P03881,30,Female,India,Heart Disease
+P03882,60,Male,Australia,High Cholesterol
+P03883,66,Female,United States,High Cholesterol
+P03884,47,Male,Japan,Gastritis
+P03885,79,Male,France,None
+P03886,71,Female,Singapore,High Cholesterol
+P03887,62,Male,Brazil,Respiratory Infection
+P03888,23,Female,Germany,Migraine
+P03889,34,Male,Japan,Gastritis
+P03890,76,Female,Germany,Heart Disease
+P03891,62,Male,France,High Cholesterol
+P03892,68,Male,France,Arthritis
+P03893,70,Female,Japan,Heart Disease
+P03894,36,Male,Brazil,None
+P03895,59,Male,India,Respiratory Infection
+P03896,52,Male,Canada,Hypertension
+P03897,63,Female,France,Asthma
+P03898,43,Female,Brazil,Arthritis
+P03899,68,Male,France,Gastritis
+P03900,22,Female,United Kingdom,Migraine
+P03901,46,Female,Canada,None
+P03902,54,Female,France,None
+P03903,37,Female,Brazil,Hypertension
+P03904,66,Male,France,Arthritis
+P03905,38,Female,Germany,Migraine
+P03906,27,Male,Japan,Asthma
+P03907,22,Male,Japan,Diabetes
+P03908,53,Female,France,Diabetes
+P03909,23,Female,Brazil,None
+P03910,43,Male,Germany,Arthritis
+P03911,21,Male,India,Hypertension
+P03912,79,Female,India,None
+P03913,56,Male,Germany,Diabetes
+P03914,56,Male,United States,None
+P03915,67,Male,Brazil,Diabetes
+P03916,52,Male,India,Arthritis
+P03917,18,Female,United States,Arthritis
+P03918,41,Male,Brazil,Hypertension
+P03919,74,Female,Germany,Gastritis
+P03920,53,Male,Singapore,Gastritis
+P03921,23,Female,United States,None
+P03922,58,Female,United States,None
+P03923,71,Female,France,None
+P03924,63,Female,Australia,Hypertension
+P03925,77,Female,Australia,Heart Disease
+P03926,61,Male,Brazil,None
+P03927,77,Female,France,Gastritis
+P03928,74,Female,Japan,Gastritis
+P03929,48,Male,Canada,Migraine
+P03930,37,Male,Singapore,Arthritis
+P03931,41,Female,Canada,Heart Disease
+P03932,42,Female,United States,Diabetes
+P03933,53,Male,United Kingdom,Gastritis
+P03934,38,Male,India,Asthma
+P03935,47,Female,India,Asthma
+P03936,41,Female,France,Gastritis
+P03937,61,Female,Australia,Asthma
+P03938,59,Female,United Kingdom,High Cholesterol
+P03939,47,Female,France,Heart Disease
+P03940,39,Female,United States,Arthritis
+P03941,45,Female,United Kingdom,Gastritis
+P03942,24,Female,India,Gastritis
+P03943,52,Female,Brazil,Diabetes
+P03944,72,Male,United States,Heart Disease
+P03945,45,Male,France,None
+P03946,31,Female,Japan,None
+P03947,73,Male,Germany,Respiratory Infection
+P03948,27,Male,United States,Migraine
+P03949,33,Male,United States,High Cholesterol
+P03950,33,Female,Japan,Hypertension
+P03951,71,Male,Singapore,Hypertension
+P03952,48,Male,Brazil,Respiratory Infection
+P03953,59,Male,Japan,Arthritis
+P03954,42,Female,Canada,Hypertension
+P03955,30,Male,Canada,None
+P03956,23,Male,United States,Asthma
+P03957,61,Male,Singapore,Migraine
+P03958,26,Female,India,Heart Disease
+P03959,62,Male,Singapore,None
+P03960,53,Male,Canada,Diabetes
+P03961,73,Male,Singapore,Heart Disease
+P03962,60,Female,Singapore,Hypertension
+P03963,37,Female,Brazil,Diabetes
+P03964,35,Female,United States,Heart Disease
+P03965,75,Female,Brazil,Gastritis
+P03966,60,Male,India,High Cholesterol
+P03967,74,Female,India,None
+P03968,38,Male,Canada,Diabetes
+P03969,21,Female,France,Respiratory Infection
+P03970,67,Male,Japan,High Cholesterol
+P03971,50,Male,Australia,Heart Disease
+P03972,44,Female,United States,Arthritis
+P03973,24,Male,France,Respiratory Infection
+P03974,23,Female,United States,None
+P03975,80,Male,Japan,Gastritis
+P03976,32,Male,Japan,Diabetes
+P03977,35,Female,United Kingdom,Asthma
+P03978,49,Female,Brazil,Diabetes
+P03979,73,Female,Canada,High Cholesterol
+P03980,28,Male,United Kingdom,Diabetes
+P03981,37,Female,India,High Cholesterol
+P03982,41,Female,Australia,Respiratory Infection
+P03983,32,Female,Canada,Diabetes
+P03984,65,Male,India,Respiratory Infection
+P03985,24,Female,Singapore,Gastritis
+P03986,38,Female,Brazil,Gastritis
+P03987,59,Female,Brazil,High Cholesterol
+P03988,43,Female,Brazil,Heart Disease
+P03989,61,Female,United Kingdom,Gastritis
+P03990,73,Male,Germany,Migraine
+P03991,31,Male,France,Diabetes
+P03992,74,Female,Japan,Migraine
+P03993,54,Male,Australia,Diabetes
+P03994,75,Male,Japan,Hypertension
+P03995,38,Male,Germany,Respiratory Infection
+P03996,35,Male,Singapore,High Cholesterol
+P03997,22,Female,Singapore,None
+P03998,20,Female,Singapore,None
+P03999,40,Male,Canada,Arthritis
+P04000,43,Male,India,Heart Disease
+P04001,54,Female,India,High Cholesterol
+P04002,41,Female,Singapore,Gastritis
+P04003,66,Female,Australia,Asthma
+P04004,36,Female,United Kingdom,Heart Disease
+P04005,68,Male,Australia,Heart Disease
+P04006,42,Male,Australia,Asthma
+P04007,38,Female,India,Respiratory Infection
+P04008,29,Female,Brazil,Heart Disease
+P04009,74,Female,Australia,Hypertension
+P04010,78,Male,Australia,Heart Disease
+P04011,58,Female,Japan,Arthritis
+P04012,50,Female,Brazil,Migraine
+P04013,67,Male,India,None
+P04014,70,Male,United Kingdom,Respiratory Infection
+P04015,21,Male,France,High Cholesterol
+P04016,80,Male,India,Gastritis
+P04017,59,Male,India,Hypertension
+P04018,74,Male,Australia,Respiratory Infection
+P04019,24,Female,Japan,Migraine
+P04020,39,Male,Germany,Arthritis
+P04021,72,Male,Singapore,Migraine
+P04022,50,Female,United States,High Cholesterol
+P04023,34,Female,Japan,Asthma
+P04024,41,Female,Germany,Gastritis
+P04025,78,Male,Australia,Asthma
+P04026,78,Female,Australia,Diabetes
+P04027,51,Male,United Kingdom,Arthritis
+P04028,45,Female,Germany,Gastritis
+P04029,75,Male,Canada,High Cholesterol
+P04030,60,Female,Singapore,Respiratory Infection
+P04031,58,Male,United States,None
+P04032,56,Female,United Kingdom,Gastritis
+P04033,39,Female,Japan,Respiratory Infection
+P04034,66,Male,Japan,Respiratory Infection
+P04035,34,Male,Germany,Diabetes
+P04036,51,Female,Singapore,Hypertension
+P04037,23,Female,Singapore,Arthritis
+P04038,63,Female,Japan,Arthritis
+P04039,23,Male,Canada,Diabetes
+P04040,51,Male,Australia,Asthma
+P04041,18,Female,Singapore,Asthma
+P04042,27,Male,Germany,High Cholesterol
+P04043,38,Female,Japan,Hypertension
+P04044,22,Female,Australia,Respiratory Infection
+P04045,19,Female,Brazil,Heart Disease
+P04046,39,Male,India,Heart Disease
+P04047,65,Male,Australia,Asthma
+P04048,74,Male,Singapore,Diabetes
+P04049,19,Female,India,Hypertension
+P04050,27,Male,Singapore,Migraine
+P04051,51,Male,Germany,None
+P04052,33,Male,France,Hypertension
+P04053,65,Male,Australia,High Cholesterol
+P04054,68,Female,India,Respiratory Infection
+P04055,78,Female,Germany,Respiratory Infection
+P04056,56,Male,Singapore,Arthritis
+P04057,39,Male,Australia,Gastritis
+P04058,29,Female,Germany,Gastritis
+P04059,41,Male,Singapore,Arthritis
+P04060,64,Female,France,High Cholesterol
+P04061,57,Female,France,Respiratory Infection
+P04062,55,Male,United States,Gastritis
+P04063,77,Female,United Kingdom,Gastritis
+P04064,76,Female,Germany,None
+P04065,27,Male,United Kingdom,Gastritis
+P04066,52,Male,United States,Respiratory Infection
+P04067,68,Male,Canada,High Cholesterol
+P04068,80,Male,Australia,Migraine
+P04069,66,Female,Singapore,Asthma
+P04070,49,Female,Japan,Hypertension
+P04071,24,Female,United Kingdom,Diabetes
+P04072,38,Male,United Kingdom,Heart Disease
+P04073,37,Male,Germany,Hypertension
+P04074,43,Female,Australia,None
+P04075,80,Male,Germany,Gastritis
+P04076,21,Female,France,High Cholesterol
+P04077,63,Female,United Kingdom,Migraine
+P04078,69,Female,Australia,Heart Disease
+P04079,39,Female,Brazil,Arthritis
+P04080,32,Male,Canada,Migraine
+P04081,73,Male,Singapore,Asthma
+P04082,57,Male,United States,Gastritis
+P04083,38,Male,Canada,Diabetes
+P04084,32,Female,United States,Heart Disease
+P04085,39,Female,United Kingdom,Gastritis
+P04086,69,Female,Canada,Heart Disease
+P04087,45,Female,Canada,Diabetes
+P04088,31,Male,Singapore,Asthma
+P04089,44,Male,Japan,Arthritis
+P04090,78,Male,Singapore,Respiratory Infection
+P04091,58,Female,Germany,High Cholesterol
+P04092,57,Male,Japan,Migraine
+P04093,75,Female,Canada,Hypertension
+P04094,45,Female,Japan,Arthritis
+P04095,43,Female,Japan,Arthritis
+P04096,66,Female,Germany,None
+P04097,80,Male,Australia,Heart Disease
+P04098,19,Male,United Kingdom,Heart Disease
+P04099,42,Female,Australia,None
+P04100,73,Male,United Kingdom,Migraine
+P04101,79,Male,Australia,Heart Disease
+P04102,20,Female,Australia,Respiratory Infection
+P04103,25,Male,United States,High Cholesterol
+P04104,61,Female,Japan,Hypertension
+P04105,50,Female,France,Hypertension
+P04106,59,Male,Germany,Diabetes
+P04107,69,Male,Australia,Diabetes
+P04108,52,Male,Canada,High Cholesterol
+P04109,23,Female,Brazil,Gastritis
+P04110,56,Male,United States,Gastritis
+P04111,69,Female,Brazil,Arthritis
+P04112,40,Male,India,Arthritis
+P04113,42,Male,Singapore,None
+P04114,76,Male,India,Asthma
+P04115,67,Male,United Kingdom,Diabetes
+P04116,60,Male,Australia,Asthma
+P04117,36,Female,Germany,Heart Disease
+P04118,22,Male,Canada,Hypertension
+P04119,68,Male,France,Arthritis
+P04120,28,Male,France,Gastritis
+P04121,73,Female,United States,High Cholesterol
+P04122,29,Female,United States,Diabetes
+P04123,27,Male,United States,Hypertension
+P04124,25,Female,United States,Migraine
+P04125,41,Male,Japan,High Cholesterol
+P04126,77,Female,Australia,Asthma
+P04127,45,Male,Brazil,Respiratory Infection
+P04128,58,Male,Australia,Asthma
+P04129,53,Female,Australia,Diabetes
+P04130,54,Male,India,High Cholesterol
+P04131,38,Female,Germany,Respiratory Infection
+P04132,25,Male,Canada,Heart Disease
+P04133,72,Female,United Kingdom,Migraine
+P04134,26,Female,Germany,Asthma
+P04135,64,Male,United States,Migraine
+P04136,32,Female,Brazil,High Cholesterol
+P04137,65,Female,India,Hypertension
+P04138,63,Female,Japan,High Cholesterol
+P04139,57,Male,Brazil,Gastritis
+P04140,35,Female,India,Respiratory Infection
+P04141,59,Male,Singapore,Hypertension
+P04142,77,Male,Japan,Asthma
+P04143,37,Female,United States,Heart Disease
+P04144,23,Female,United Kingdom,Migraine
+P04145,29,Male,United States,High Cholesterol
+P04146,19,Male,Brazil,None
+P04147,24,Male,United States,Diabetes
+P04148,33,Male,Singapore,Asthma
+P04149,20,Male,United States,Diabetes
+P04150,62,Female,India,Hypertension
+P04151,20,Male,France,Gastritis
+P04152,44,Female,United States,Asthma
+P04153,67,Female,Singapore,Gastritis
+P04154,60,Male,Australia,Gastritis
+P04155,57,Male,Australia,Heart Disease
+P04156,55,Male,United Kingdom,Hypertension
+P04157,50,Male,United Kingdom,High Cholesterol
+P04158,45,Female,United Kingdom,None
+P04159,18,Male,Germany,Respiratory Infection
+P04160,72,Female,Canada,Gastritis
+P04161,25,Male,United Kingdom,Hypertension
+P04162,54,Male,United States,Heart Disease
+P04163,49,Male,United Kingdom,Asthma
+P04164,77,Male,Canada,Arthritis
+P04165,65,Male,Germany,Arthritis
+P04166,60,Male,Canada,None
+P04167,54,Female,Brazil,Heart Disease
+P04168,21,Female,United Kingdom,Hypertension
+P04169,47,Male,United Kingdom,Heart Disease
+P04170,23,Male,United Kingdom,Respiratory Infection
+P04171,63,Male,Brazil,Respiratory Infection
+P04172,71,Male,Canada,High Cholesterol
+P04173,36,Male,India,Arthritis
+P04174,49,Male,United States,Arthritis
+P04175,26,Male,Singapore,Respiratory Infection
+P04176,29,Male,United States,Heart Disease
+P04177,28,Male,United Kingdom,None
+P04178,63,Male,Germany,None
+P04179,72,Female,Brazil,Gastritis
+P04180,33,Male,India,Asthma
+P04181,18,Male,Japan,Arthritis
+P04182,80,Female,India,Respiratory Infection
+P04183,62,Female,Singapore,Heart Disease
+P04184,72,Female,United States,Hypertension
+P04185,70,Female,United Kingdom,Asthma
+P04186,38,Male,France,None
+P04187,47,Female,Japan,Diabetes
+P04188,30,Female,United Kingdom,Diabetes
+P04189,51,Male,Brazil,Heart Disease
+P04190,21,Female,Japan,Migraine
+P04191,45,Female,Singapore,Migraine
+P04192,55,Male,France,Arthritis
+P04193,75,Male,Canada,Hypertension
+P04194,48,Male,Canada,Gastritis
+P04195,76,Male,Canada,Heart Disease
+P04196,72,Male,Germany,Diabetes
+P04197,44,Female,Canada,Diabetes
+P04198,22,Female,Australia,Hypertension
+P04199,42,Male,Japan,Arthritis
+P04200,20,Female,France,Migraine
+P04201,50,Male,Brazil,High Cholesterol
+P04202,21,Male,Australia,Arthritis
+P04203,42,Female,Australia,Arthritis
+P04204,37,Female,France,None
+P04205,51,Female,Brazil,Gastritis
+P04206,43,Female,Japan,Gastritis
+P04207,79,Female,United States,Diabetes
+P04208,79,Female,United Kingdom,Gastritis
+P04209,22,Male,United States,Diabetes
+P04210,52,Female,Singapore,Arthritis
+P04211,78,Female,France,Hypertension
+P04212,45,Female,United States,High Cholesterol
+P04213,46,Male,United States,Hypertension
+P04214,26,Male,United States,Arthritis
+P04215,69,Female,Canada,Respiratory Infection
+P04216,55,Male,India,Heart Disease
+P04217,67,Female,United States,Migraine
+P04218,23,Male,United Kingdom,Heart Disease
+P04219,36,Male,France,High Cholesterol
+P04220,77,Female,Singapore,Gastritis
+P04221,61,Male,India,Heart Disease
+P04222,74,Male,Germany,Gastritis
+P04223,28,Female,United Kingdom,Arthritis
+P04224,19,Female,United Kingdom,High Cholesterol
+P04225,64,Male,Canada,None
+P04226,61,Female,Canada,Migraine
+P04227,61,Female,France,Migraine
+P04228,26,Female,United Kingdom,Respiratory Infection
+P04229,38,Male,Brazil,None
+P04230,41,Female,Brazil,Diabetes
+P04231,51,Male,France,Migraine
+P04232,39,Male,United States,Asthma
+P04233,20,Male,Australia,Diabetes
+P04234,29,Female,Germany,Migraine
+P04235,45,Male,Singapore,Arthritis
+P04236,47,Female,Canada,High Cholesterol
+P04237,43,Female,Singapore,High Cholesterol
+P04238,65,Male,Australia,Asthma
+P04239,38,Male,Japan,Arthritis
+P04240,45,Male,France,Asthma
+P04241,73,Female,United States,Gastritis
+P04242,43,Male,India,Hypertension
+P04243,79,Male,United States,Migraine
+P04244,50,Female,United Kingdom,Arthritis
+P04245,38,Female,United States,Hypertension
+P04246,52,Male,United Kingdom,Hypertension
+P04247,69,Male,Singapore,High Cholesterol
+P04248,51,Female,Japan,High Cholesterol
+P04249,58,Female,Canada,None
+P04250,68,Female,Japan,Gastritis
+P04251,64,Female,United Kingdom,Arthritis
+P04252,35,Male,India,Respiratory Infection
+P04253,75,Male,Australia,Arthritis
+P04254,28,Male,Singapore,Gastritis
+P04255,74,Male,Singapore,High Cholesterol
+P04256,40,Female,United States,High Cholesterol
+P04257,65,Male,Canada,Migraine
+P04258,39,Male,United States,Heart Disease
+P04259,34,Female,United States,High Cholesterol
+P04260,22,Male,United Kingdom,Asthma
+P04261,61,Male,Australia,Migraine
+P04262,28,Male,Canada,Diabetes
+P04263,47,Female,United States,Heart Disease
+P04264,32,Female,Singapore,Heart Disease
+P04265,44,Male,United States,Asthma
+P04266,52,Female,Germany,Heart Disease
+P04267,50,Female,France,Respiratory Infection
+P04268,37,Female,Singapore,High Cholesterol
+P04269,78,Female,Germany,High Cholesterol
+P04270,33,Female,France,Migraine
+P04271,51,Female,India,Gastritis
+P04272,19,Male,Germany,Asthma
+P04273,52,Male,United Kingdom,High Cholesterol
+P04274,57,Male,India,Hypertension
+P04275,73,Female,Brazil,None
+P04276,45,Female,Canada,High Cholesterol
+P04277,64,Male,Singapore,Arthritis
+P04278,56,Male,Brazil,Hypertension
+P04279,23,Female,Singapore,Gastritis
+P04280,26,Female,Canada,Hypertension
+P04281,37,Female,Canada,Heart Disease
+P04282,77,Female,Singapore,None
+P04283,18,Female,Canada,Diabetes
+P04284,25,Female,Germany,None
+P04285,72,Female,Japan,High Cholesterol
+P04286,40,Female,Australia,Migraine
+P04287,80,Male,Singapore,Respiratory Infection
+P04288,20,Male,Brazil,Gastritis
+P04289,21,Male,Brazil,Migraine
+P04290,75,Male,Canada,High Cholesterol
+P04291,42,Female,Singapore,Migraine
+P04292,64,Male,Japan,Arthritis
+P04293,55,Female,Japan,Hypertension
+P04294,32,Male,Australia,Respiratory Infection
+P04295,80,Male,Germany,High Cholesterol
+P04296,38,Female,Australia,Heart Disease
+P04297,52,Male,United Kingdom,Gastritis
+P04298,74,Male,Brazil,Heart Disease
+P04299,70,Male,Japan,Hypertension
+P04300,70,Female,Canada,Respiratory Infection
+P04301,63,Male,Japan,Hypertension
+P04302,69,Female,Japan,Asthma
+P04303,31,Female,France,Heart Disease
+P04304,53,Female,Brazil,Hypertension
+P04305,29,Female,United Kingdom,Hypertension
+P04306,34,Male,Australia,Migraine
+P04307,56,Male,United Kingdom,High Cholesterol
+P04308,26,Female,France,Migraine
+P04309,52,Male,Germany,Asthma
+P04310,77,Male,United Kingdom,None
+P04311,30,Male,Japan,None
+P04312,32,Female,India,Migraine
+P04313,35,Male,Singapore,Diabetes
+P04314,68,Male,United Kingdom,Heart Disease
+P04315,50,Female,Singapore,Migraine
+P04316,23,Female,France,Arthritis
+P04317,76,Male,United Kingdom,Arthritis
+P04318,44,Male,United Kingdom,Gastritis
+P04319,40,Female,United States,Asthma
+P04320,76,Female,Japan,Asthma
+P04321,44,Female,Canada,Migraine
+P04322,51,Male,Singapore,Respiratory Infection
+P04323,73,Male,Germany,Hypertension
+P04324,63,Female,United States,High Cholesterol
+P04325,55,Female,Japan,Hypertension
+P04326,31,Male,France,Hypertension
+P04327,53,Male,Singapore,Asthma
+P04328,70,Female,Australia,Asthma
+P04329,25,Male,France,Arthritis
+P04330,79,Male,Canada,Asthma
+P04331,52,Male,Singapore,Migraine
+P04332,36,Male,France,Arthritis
+P04333,47,Male,United States,Heart Disease
+P04334,80,Female,France,Hypertension
+P04335,31,Male,Canada,Heart Disease
+P04336,76,Male,Canada,Hypertension
+P04337,37,Male,India,Hypertension
+P04338,66,Male,United Kingdom,Gastritis
+P04339,42,Male,Australia,Hypertension
+P04340,57,Male,Australia,Respiratory Infection
+P04341,41,Female,United States,Heart Disease
+P04342,31,Male,Canada,Hypertension
+P04343,43,Male,India,Diabetes
+P04344,55,Male,Japan,Diabetes
+P04345,40,Female,India,Diabetes
+P04346,39,Female,Germany,Migraine
+P04347,65,Male,France,Arthritis
+P04348,74,Female,United Kingdom,Heart Disease
+P04349,36,Male,India,Hypertension
+P04350,63,Female,France,None
+P04351,68,Male,United Kingdom,Arthritis
+P04352,20,Female,Singapore,None
+P04353,59,Male,Germany,High Cholesterol
+P04354,36,Male,Germany,Respiratory Infection
+P04355,26,Female,Canada,High Cholesterol
+P04356,45,Female,Germany,Asthma
+P04357,37,Male,Singapore,Arthritis
+P04358,62,Male,Canada,None
+P04359,24,Male,Brazil,Gastritis
+P04360,31,Female,Japan,Hypertension
+P04361,80,Male,United States,Migraine
+P04362,26,Male,France,Heart Disease
+P04363,76,Female,Japan,Hypertension
+P04364,77,Female,Japan,Heart Disease
+P04365,72,Female,Australia,Gastritis
+P04366,74,Female,India,Hypertension
+P04367,77,Female,Germany,Respiratory Infection
+P04368,36,Male,Brazil,Asthma
+P04369,64,Male,India,Diabetes
+P04370,69,Female,United States,Gastritis
+P04371,31,Male,India,Asthma
+P04372,73,Female,Australia,Hypertension
+P04373,55,Male,United States,None
+P04374,70,Male,Singapore,Asthma
+P04375,78,Female,Singapore,Migraine
+P04376,53,Female,Canada,Asthma
+P04377,57,Male,India,High Cholesterol
+P04378,34,Female,France,Respiratory Infection
+P04379,47,Female,Brazil,Gastritis
+P04380,26,Female,Australia,Diabetes
+P04381,50,Male,United States,Hypertension
+P04382,73,Female,Brazil,Gastritis
+P04383,69,Female,India,Arthritis
+P04384,42,Male,France,Gastritis
+P04385,31,Female,India,Migraine
+P04386,28,Female,Germany,Gastritis
+P04387,70,Female,Germany,Arthritis
+P04388,52,Female,Australia,Asthma
+P04389,58,Male,United States,High Cholesterol
+P04390,76,Male,United States,Asthma
+P04391,31,Female,Japan,Asthma
+P04392,47,Female,Australia,Arthritis
+P04393,58,Female,Australia,Heart Disease
+P04394,21,Male,France,Diabetes
+P04395,76,Male,Germany,Arthritis
+P04396,21,Male,United States,Asthma
+P04397,45,Male,India,Gastritis
+P04398,25,Male,Australia,Diabetes
+P04399,19,Female,Canada,Hypertension
+P04400,58,Male,United Kingdom,None
+P04401,78,Female,United States,Hypertension
+P04402,63,Male,Singapore,Migraine
+P04403,39,Female,United States,Asthma
+P04404,58,Female,Canada,Gastritis
+P04405,73,Male,United States,Heart Disease
+P04406,80,Male,Canada,High Cholesterol
+P04407,80,Male,United Kingdom,High Cholesterol
+P04408,72,Female,Japan,Diabetes
+P04409,33,Male,France,Heart Disease
+P04410,46,Female,United Kingdom,None
+P04411,79,Female,Brazil,Hypertension
+P04412,66,Female,Japan,None
+P04413,65,Male,France,Respiratory Infection
+P04414,47,Female,Germany,Hypertension
+P04415,29,Male,Canada,Hypertension
+P04416,52,Male,Australia,Hypertension
+P04417,28,Female,Brazil,Gastritis
+P04418,63,Female,United Kingdom,Arthritis
+P04419,67,Male,United States,Gastritis
+P04420,38,Male,United Kingdom,High Cholesterol
+P04421,80,Male,France,Gastritis
+P04422,38,Male,Brazil,None
+P04423,22,Male,India,Gastritis
+P04424,65,Female,France,Arthritis
+P04425,37,Female,Japan,Diabetes
+P04426,54,Female,United Kingdom,Heart Disease
+P04427,20,Male,United Kingdom,Diabetes
+P04428,61,Female,Brazil,Respiratory Infection
+P04429,50,Female,Canada,High Cholesterol
+P04430,70,Female,Brazil,Respiratory Infection
+P04431,78,Male,Australia,Respiratory Infection
+P04432,26,Male,United Kingdom,Heart Disease
+P04433,78,Male,Canada,Heart Disease
+P04434,26,Female,Canada,Arthritis
+P04435,21,Female,Brazil,Arthritis
+P04436,52,Female,Germany,Diabetes
+P04437,34,Male,France,Arthritis
+P04438,51,Male,Japan,Arthritis
+P04439,41,Male,Germany,Migraine
+P04440,49,Male,United Kingdom,Asthma
+P04441,18,Male,United Kingdom,Diabetes
+P04442,25,Female,United Kingdom,Heart Disease
+P04443,62,Male,Singapore,Diabetes
+P04444,40,Female,United States,Heart Disease
+P04445,64,Male,India,Gastritis
+P04446,57,Male,Singapore,Asthma
+P04447,29,Male,India,Migraine
+P04448,71,Female,Canada,Migraine
+P04449,29,Male,United Kingdom,None
+P04450,63,Female,Australia,High Cholesterol
+P04451,64,Male,Japan,Heart Disease
+P04452,32,Female,Brazil,High Cholesterol
+P04453,58,Female,Japan,Gastritis
+P04454,36,Male,Australia,Migraine
+P04455,43,Female,Brazil,Gastritis
+P04456,69,Male,Canada,Respiratory Infection
+P04457,46,Female,Australia,Asthma
+P04458,39,Male,United Kingdom,None
+P04459,57,Male,Australia,Gastritis
+P04460,38,Female,United Kingdom,None
+P04461,68,Female,Australia,Asthma
+P04462,55,Male,Australia,Diabetes
+P04463,37,Female,Germany,Gastritis
+P04464,74,Male,Japan,Arthritis
+P04465,46,Male,India,Hypertension
+P04466,68,Female,Singapore,Migraine
+P04467,21,Male,Germany,Migraine
+P04468,72,Male,India,Migraine
+P04469,24,Female,Germany,Diabetes
+P04470,45,Male,United States,Hypertension
+P04471,45,Female,Brazil,Asthma
+P04472,21,Male,United Kingdom,Diabetes
+P04473,39,Male,Singapore,Migraine
+P04474,29,Male,Germany,Migraine
+P04475,62,Female,Germany,High Cholesterol
+P04476,20,Female,Canada,None
+P04477,39,Male,Australia,None
+P04478,61,Male,United States,High Cholesterol
+P04479,19,Female,Singapore,Respiratory Infection
+P04480,41,Male,Singapore,High Cholesterol
+P04481,51,Female,Brazil,None
+P04482,44,Male,Singapore,Migraine
+P04483,72,Female,France,Arthritis
+P04484,58,Male,Singapore,None
+P04485,18,Female,Germany,Hypertension
+P04486,25,Female,France,Arthritis
+P04487,40,Male,India,Diabetes
+P04488,55,Male,Australia,None
+P04489,23,Female,France,Asthma
+P04490,39,Female,India,Gastritis
+P04491,42,Male,United States,Gastritis
+P04492,35,Male,Japan,Hypertension
+P04493,34,Female,United Kingdom,Heart Disease
+P04494,78,Male,Germany,Gastritis
+P04495,29,Female,France,Hypertension
+P04496,23,Male,Japan,Heart Disease
+P04497,43,Female,Australia,Diabetes
+P04498,44,Female,Canada,Heart Disease
+P04499,25,Female,United States,Asthma
+P04500,36,Male,United Kingdom,None
+P04501,77,Female,Australia,Gastritis
+P04502,59,Male,United States,Migraine
+P04503,18,Female,Canada,High Cholesterol
+P04504,74,Male,India,None
+P04505,46,Male,Canada,Diabetes
+P04506,62,Female,France,Diabetes
+P04507,66,Male,United Kingdom,Hypertension
+P04508,52,Female,Singapore,Respiratory Infection
+P04509,57,Female,Brazil,Heart Disease
+P04510,31,Female,Germany,Heart Disease
+P04511,52,Male,Germany,Hypertension
+P04512,65,Male,India,High Cholesterol
+P04513,62,Female,Australia,Migraine
+P04514,37,Male,United Kingdom,Diabetes
+P04515,73,Male,Singapore,None
+P04516,66,Male,India,High Cholesterol
+P04517,30,Male,Brazil,Migraine
+P04518,78,Female,France,Respiratory Infection
+P04519,55,Male,France,None
+P04520,66,Female,Singapore,Hypertension
+P04521,63,Male,Singapore,None
+P04522,66,Male,Singapore,Asthma
+P04523,79,Male,Canada,Respiratory Infection
+P04524,25,Male,Germany,Hypertension
+P04525,60,Male,Japan,Hypertension
+P04526,37,Female,United Kingdom,Hypertension
+P04527,77,Male,Japan,Gastritis
+P04528,50,Male,Canada,High Cholesterol
+P04529,43,Male,Australia,Migraine
+P04530,56,Male,France,Heart Disease
+P04531,38,Female,Germany,Diabetes
+P04532,70,Male,Singapore,Diabetes
+P04533,66,Male,Brazil,Asthma
+P04534,79,Male,Brazil,Asthma
+P04535,59,Female,Brazil,Asthma
+P04536,60,Male,United Kingdom,Arthritis
+P04537,71,Female,Singapore,Asthma
+P04538,79,Male,Germany,Diabetes
+P04539,58,Female,France,Respiratory Infection
+P04540,26,Female,Japan,Migraine
+P04541,41,Female,Singapore,Asthma
+P04542,54,Male,Singapore,Respiratory Infection
+P04543,66,Male,Canada,Arthritis
+P04544,58,Male,Australia,Arthritis
+P04545,34,Male,Brazil,Heart Disease
+P04546,41,Male,India,Gastritis
+P04547,38,Male,Germany,Gastritis
+P04548,68,Female,Canada,None
+P04549,76,Male,Australia,Gastritis
+P04550,56,Male,Australia,None
+P04551,72,Male,United States,High Cholesterol
+P04552,58,Female,Brazil,Gastritis
+P04553,56,Male,United States,Arthritis
+P04554,30,Female,Canada,Heart Disease
+P04555,28,Male,Australia,Respiratory Infection
+P04556,63,Male,India,Asthma
+P04557,36,Male,Germany,Gastritis
+P04558,28,Male,United States,None
+P04559,30,Female,Australia,Respiratory Infection
+P04560,80,Female,Germany,Hypertension
+P04561,63,Male,Brazil,Diabetes
+P04562,62,Female,Japan,Gastritis
+P04563,18,Male,Germany,Diabetes
+P04564,57,Female,Australia,Gastritis
+P04565,61,Female,Canada,Hypertension
+P04566,36,Male,United States,Asthma
+P04567,29,Male,United States,High Cholesterol
+P04568,25,Male,France,Migraine
+P04569,25,Female,Australia,Respiratory Infection
+P04570,78,Male,France,Respiratory Infection
+P04571,70,Female,India,Asthma
+P04572,62,Female,India,Heart Disease
+P04573,29,Male,Australia,Arthritis
+P04574,78,Male,United States,Gastritis
+P04575,65,Female,Brazil,Migraine
+P04576,50,Male,United Kingdom,Heart Disease
+P04577,62,Female,India,Migraine
+P04578,43,Male,United States,Arthritis
+P04579,56,Male,Singapore,Diabetes
+P04580,45,Male,Singapore,Gastritis
+P04581,75,Female,France,Arthritis
+P04582,22,Male,Germany,Respiratory Infection
+P04583,25,Female,Brazil,Respiratory Infection
+P04584,42,Male,France,Gastritis
+P04585,44,Female,Singapore,High Cholesterol
+P04586,63,Female,Brazil,Asthma
+P04587,40,Male,United Kingdom,Asthma
+P04588,47,Female,Germany,Respiratory Infection
+P04589,62,Male,France,Respiratory Infection
+P04590,64,Male,Singapore,Arthritis
+P04591,40,Male,India,Hypertension
+P04592,66,Female,India,None
+P04593,64,Female,France,High Cholesterol
+P04594,37,Female,United Kingdom,Heart Disease
+P04595,35,Male,United Kingdom,None
+P04596,35,Female,Australia,Arthritis
+P04597,19,Male,Germany,None
+P04598,21,Female,United States,None
+P04599,47,Male,United Kingdom,Arthritis
+P04600,50,Female,Germany,Respiratory Infection
+P04601,80,Female,United Kingdom,Respiratory Infection
+P04602,53,Female,Australia,Gastritis
+P04603,35,Female,Japan,None
+P04604,54,Male,United Kingdom,Heart Disease
+P04605,36,Female,Germany,Arthritis
+P04606,64,Male,Australia,Heart Disease
+P04607,45,Female,Australia,Migraine
+P04608,57,Female,Germany,Asthma
+P04609,37,Female,Germany,Gastritis
+P04610,66,Male,India,Asthma
+P04611,50,Male,Japan,Gastritis
+P04612,29,Male,Australia,High Cholesterol
+P04613,75,Female,India,Arthritis
+P04614,68,Male,Brazil,Asthma
+P04615,32,Male,France,Heart Disease
+P04616,58,Female,France,Arthritis
+P04617,56,Female,Australia,Heart Disease
+P04618,19,Male,India,None
+P04619,80,Male,Japan,Asthma
+P04620,46,Female,Japan,None
+P04621,58,Male,Brazil,Respiratory Infection
+P04622,27,Female,Australia,Migraine
+P04623,19,Male,United Kingdom,High Cholesterol
+P04624,68,Female,Brazil,High Cholesterol
+P04625,28,Male,India,Asthma
+P04626,30,Male,United Kingdom,Diabetes
+P04627,27,Female,France,Migraine
+P04628,31,Female,Canada,Hypertension
+P04629,35,Male,France,Gastritis
+P04630,68,Female,Australia,High Cholesterol
+P04631,71,Male,Germany,Arthritis
+P04632,26,Female,France,Respiratory Infection
+P04633,74,Female,Singapore,None
+P04634,56,Male,France,Hypertension
+P04635,45,Female,France,Arthritis
+P04636,20,Male,France,Asthma
+P04637,37,Male,France,Migraine
+P04638,23,Female,United Kingdom,High Cholesterol
+P04639,44,Female,United Kingdom,Gastritis
+P04640,70,Male,France,Hypertension
+P04641,19,Male,United States,High Cholesterol
+P04642,46,Male,United States,Diabetes
+P04643,55,Female,United Kingdom,Diabetes
+P04644,20,Male,Canada,Diabetes
+P04645,33,Male,Germany,Respiratory Infection
+P04646,47,Male,Brazil,None
+P04647,57,Male,Singapore,Asthma
+P04648,19,Male,Singapore,Arthritis
+P04649,34,Male,France,High Cholesterol
+P04650,58,Male,Canada,Arthritis
+P04651,79,Male,United States,Arthritis
+P04652,29,Female,United States,High Cholesterol
+P04653,52,Male,Canada,None
+P04654,60,Female,Germany,Respiratory Infection
+P04655,18,Female,United Kingdom,Respiratory Infection
+P04656,72,Female,Germany,Migraine
+P04657,62,Female,Australia,Asthma
+P04658,32,Male,Australia,Migraine
+P04659,43,Male,United States,None
+P04660,54,Male,Brazil,Arthritis
+P04661,38,Male,Australia,Asthma
+P04662,79,Female,United States,Migraine
+P04663,66,Female,France,Migraine
+P04664,80,Female,Japan,Diabetes
+P04665,48,Male,Japan,Respiratory Infection
+P04666,42,Female,India,Heart Disease
+P04667,40,Male,France,Migraine
+P04668,41,Male,Japan,Hypertension
+P04669,74,Male,Germany,Diabetes
+P04670,55,Female,India,Arthritis
+P04671,45,Male,United States,Gastritis
+P04672,38,Female,Canada,Respiratory Infection
+P04673,71,Female,Canada,None
+P04674,60,Female,United States,High Cholesterol
+P04675,35,Male,Brazil,None
+P04676,53,Female,United States,Diabetes
+P04677,52,Female,United Kingdom,Hypertension
+P04678,62,Male,Canada,None
+P04679,72,Male,Japan,Hypertension
+P04680,26,Male,Singapore,High Cholesterol
+P04681,70,Male,India,Gastritis
+P04682,55,Female,Brazil,Respiratory Infection
+P04683,75,Female,Australia,Respiratory Infection
+P04684,47,Male,France,Heart Disease
+P04685,77,Female,Brazil,Hypertension
+P04686,61,Female,Australia,High Cholesterol
+P04687,51,Male,Brazil,Migraine
+P04688,49,Female,Singapore,Migraine
+P04689,20,Female,Brazil,Arthritis
+P04690,20,Female,Japan,Hypertension
+P04691,45,Male,United States,Asthma
+P04692,61,Female,United Kingdom,None
+P04693,32,Male,India,Arthritis
+P04694,58,Female,Canada,Arthritis
+P04695,80,Male,Australia,Arthritis
+P04696,40,Female,India,High Cholesterol
+P04697,57,Male,Brazil,Respiratory Infection
+P04698,28,Male,United States,Arthritis
+P04699,65,Female,India,Respiratory Infection
+P04700,49,Male,United States,Respiratory Infection
+P04701,75,Female,Australia,Hypertension
+P04702,76,Female,Japan,High Cholesterol
+P04703,74,Female,Japan,Respiratory Infection
+P04704,71,Male,United States,Arthritis
+P04705,53,Female,United States,High Cholesterol
+P04706,77,Female,United Kingdom,Arthritis
+P04707,50,Female,France,Diabetes
+P04708,41,Male,United Kingdom,None
+P04709,56,Male,India,Diabetes
+P04710,51,Female,Germany,Diabetes
+P04711,73,Male,United Kingdom,Hypertension
+P04712,45,Male,India,Asthma
+P04713,54,Male,Canada,None
+P04714,24,Female,India,Hypertension
+P04715,21,Female,India,Arthritis
+P04716,54,Female,United States,Hypertension
+P04717,73,Male,Singapore,Arthritis
+P04718,18,Male,Brazil,Asthma
+P04719,18,Female,United States,Respiratory Infection
+P04720,64,Female,United States,Hypertension
+P04721,37,Female,Singapore,Heart Disease
+P04722,36,Female,Singapore,Respiratory Infection
+P04723,46,Male,Brazil,Gastritis
+P04724,27,Female,Germany,Hypertension
+P04725,77,Male,Canada,Arthritis
+P04726,35,Male,United Kingdom,None
+P04727,45,Female,India,Hypertension
+P04728,52,Male,United Kingdom,Arthritis
+P04729,60,Male,Japan,Asthma
+P04730,64,Male,Australia,Diabetes
+P04731,48,Male,Germany,Hypertension
+P04732,44,Female,Australia,Migraine
+P04733,79,Male,India,Gastritis
+P04734,28,Male,Singapore,Migraine
+P04735,66,Male,India,Respiratory Infection
+P04736,66,Male,Canada,Respiratory Infection
+P04737,55,Male,United Kingdom,Diabetes
+P04738,22,Female,Brazil,Diabetes
+P04739,25,Male,France,Respiratory Infection
+P04740,51,Female,France,Hypertension
+P04741,65,Female,Brazil,High Cholesterol
+P04742,69,Female,Singapore,Hypertension
+P04743,73,Male,France,Gastritis
+P04744,29,Male,Singapore,Respiratory Infection
+P04745,55,Female,United States,Migraine
+P04746,18,Male,Canada,Diabetes
+P04747,48,Female,Germany,Migraine
+P04748,21,Female,United Kingdom,Respiratory Infection
+P04749,66,Female,United Kingdom,Asthma
+P04750,62,Female,Germany,Respiratory Infection
+P04751,67,Female,India,Heart Disease
+P04752,22,Male,India,Gastritis
+P04753,47,Female,Australia,Heart Disease
+P04754,73,Female,India,None
+P04755,41,Male,Singapore,Migraine
+P04756,76,Female,Brazil,Asthma
+P04757,20,Female,United States,Gastritis
+P04758,28,Female,Germany,Arthritis
+P04759,62,Female,Singapore,None
+P04760,21,Male,Singapore,High Cholesterol
+P04761,43,Female,Australia,Heart Disease
+P04762,44,Female,Singapore,Gastritis
+P04763,63,Female,Canada,Gastritis
+P04764,71,Male,India,Heart Disease
+P04765,60,Male,United Kingdom,None
+P04766,44,Female,Canada,Asthma
+P04767,59,Male,United States,Asthma
+P04768,68,Male,United States,Diabetes
+P04769,67,Female,United States,Hypertension
+P04770,23,Male,India,None
+P04771,76,Male,Singapore,Migraine
+P04772,78,Male,United States,Migraine
+P04773,32,Male,Germany,None
+P04774,70,Female,United Kingdom,Heart Disease
+P04775,47,Male,Singapore,Migraine
+P04776,59,Male,Australia,Migraine
+P04777,54,Female,India,Hypertension
+P04778,75,Female,Brazil,Gastritis
+P04779,78,Female,Canada,Gastritis
+P04780,54,Male,Japan,None
+P04781,59,Male,Canada,Respiratory Infection
+P04782,77,Female,United States,Gastritis
+P04783,54,Male,United Kingdom,Heart Disease
+P04784,52,Female,Australia,Arthritis
+P04785,40,Male,Singapore,Respiratory Infection
+P04786,23,Male,Germany,Hypertension
+P04787,21,Female,France,Heart Disease
+P04788,35,Female,Canada,Asthma
+P04789,77,Female,France,Hypertension
+P04790,26,Male,Singapore,Diabetes
+P04791,66,Male,United Kingdom,Migraine
+P04792,46,Female,France,High Cholesterol
+P04793,30,Female,Canada,Asthma
+P04794,76,Male,Brazil,Respiratory Infection
+P04795,64,Male,Japan,Heart Disease
+P04796,79,Male,France,Asthma
+P04797,69,Female,Brazil,Diabetes
+P04798,34,Female,Brazil,Heart Disease
+P04799,62,Female,United States,High Cholesterol
+P04800,49,Male,Japan,Respiratory Infection
+P04801,65,Female,Germany,Hypertension
+P04802,39,Male,Canada,None
+P04803,21,Male,Australia,Asthma
+P04804,22,Female,Singapore,High Cholesterol
+P04805,54,Male,Australia,Diabetes
+P04806,58,Male,France,Asthma
+P04807,66,Male,Japan,Arthritis
+P04808,30,Male,France,Arthritis
+P04809,51,Female,Japan,Respiratory Infection
+P04810,62,Female,Canada,Hypertension
+P04811,39,Female,Singapore,Respiratory Infection
+P04812,70,Female,Singapore,Respiratory Infection
+P04813,76,Female,Canada,Migraine
+P04814,40,Male,Germany,Hypertension
+P04815,68,Male,Brazil,Migraine
+P04816,20,Female,Japan,Heart Disease
+P04817,59,Male,India,High Cholesterol
+P04818,51,Female,India,High Cholesterol
+P04819,49,Male,Brazil,Hypertension
+P04820,62,Female,France,Hypertension
+P04821,68,Female,Japan,Heart Disease
+P04822,75,Male,United Kingdom,High Cholesterol
+P04823,66,Male,Singapore,Heart Disease
+P04824,38,Female,Australia,None
+P04825,63,Male,United Kingdom,Diabetes
+P04826,80,Male,Australia,Arthritis
+P04827,61,Female,Singapore,None
+P04828,38,Male,India,Respiratory Infection
+P04829,61,Female,Canada,Asthma
+P04830,28,Male,Germany,Migraine
+P04831,56,Male,United States,Gastritis
+P04832,21,Female,France,Asthma
+P04833,68,Male,Brazil,Hypertension
+P04834,18,Male,India,Diabetes
+P04835,45,Male,Canada,None
+P04836,80,Male,Canada,Gastritis
+P04837,41,Male,Australia,Gastritis
+P04838,78,Male,Canada,Hypertension
+P04839,52,Male,Japan,None
+P04840,30,Male,France,Gastritis
+P04841,64,Female,United States,None
+P04842,51,Female,India,Migraine
+P04843,28,Male,Japan,Migraine
+P04844,53,Female,India,Gastritis
+P04845,68,Female,Germany,Gastritis
+P04846,78,Female,United States,Hypertension
+P04847,34,Female,Canada,None
+P04848,52,Male,Germany,High Cholesterol
+P04849,77,Female,Australia,Heart Disease
+P04850,35,Male,Germany,Heart Disease
+P04851,57,Male,United Kingdom,Asthma
+P04852,39,Female,Australia,Asthma
+P04853,74,Male,United States,Gastritis
+P04854,41,Male,France,Arthritis
+P04855,75,Female,United Kingdom,Migraine
+P04856,36,Female,India,Respiratory Infection
+P04857,54,Female,Brazil,None
+P04858,56,Female,Brazil,Diabetes
+P04859,38,Male,United Kingdom,Diabetes
+P04860,25,Male,France,Migraine
+P04861,45,Female,Japan,Asthma
+P04862,22,Male,Brazil,Hypertension
+P04863,34,Female,United Kingdom,Diabetes
+P04864,54,Male,United States,Gastritis
+P04865,53,Male,Singapore,Arthritis
+P04866,71,Male,France,Diabetes
+P04867,36,Female,France,Heart Disease
+P04868,80,Male,Japan,Arthritis
+P04869,44,Male,Australia,Arthritis
+P04870,70,Male,Canada,Diabetes
+P04871,51,Male,Brazil,Hypertension
+P04872,28,Male,Canada,Hypertension
+P04873,71,Male,Canada,Asthma
+P04874,62,Male,United States,Migraine
+P04875,64,Male,India,Gastritis
+P04876,29,Male,Canada,Respiratory Infection
+P04877,71,Female,France,High Cholesterol
+P04878,38,Female,Japan,Respiratory Infection
+P04879,71,Male,Japan,Heart Disease
+P04880,28,Male,Singapore,Hypertension
+P04881,56,Male,India,Asthma
+P04882,45,Female,Australia,Heart Disease
+P04883,22,Male,France,Respiratory Infection
+P04884,34,Male,France,Arthritis
+P04885,73,Female,Singapore,Migraine
+P04886,37,Male,Germany,Arthritis
+P04887,58,Female,Singapore,Respiratory Infection
+P04888,63,Male,Canada,Diabetes
+P04889,75,Female,United Kingdom,Migraine
+P04890,29,Male,Japan,Asthma
+P04891,23,Female,Singapore,None
+P04892,34,Female,Canada,Arthritis
+P04893,68,Male,Brazil,Diabetes
+P04894,36,Male,India,Heart Disease
+P04895,43,Male,France,None
+P04896,65,Female,Germany,Heart Disease
+P04897,61,Female,India,Hypertension
+P04898,61,Male,Canada,None
+P04899,69,Female,Australia,Migraine
+P04900,49,Male,Brazil,Hypertension
+P04901,23,Male,Canada,Migraine
+P04902,80,Female,United Kingdom,Gastritis
+P04903,72,Female,United States,Diabetes
+P04904,75,Male,Canada,Respiratory Infection
+P04905,53,Female,Singapore,Heart Disease
+P04906,55,Female,Canada,Respiratory Infection
+P04907,28,Female,Singapore,None
+P04908,50,Female,Australia,Arthritis
+P04909,79,Female,France,Arthritis
+P04910,41,Male,Japan,Heart Disease
+P04911,40,Female,United States,Hypertension
+P04912,32,Male,Australia,Heart Disease
+P04913,44,Female,Singapore,Gastritis
+P04914,28,Male,Japan,Gastritis
+P04915,74,Female,United Kingdom,Respiratory Infection
+P04916,68,Male,India,None
+P04917,67,Male,United States,Gastritis
+P04918,34,Male,Germany,Diabetes
+P04919,68,Female,Australia,Hypertension
+P04920,70,Female,India,Hypertension
+P04921,31,Male,India,Gastritis
+P04922,44,Female,Canada,High Cholesterol
+P04923,35,Female,Canada,Arthritis
+P04924,45,Female,Germany,High Cholesterol
+P04925,68,Male,Germany,None
+P04926,64,Female,Singapore,None
+P04927,80,Female,Germany,Migraine
+P04928,64,Female,India,None
+P04929,21,Female,Singapore,Migraine
+P04930,24,Female,Japan,Hypertension
+P04931,62,Female,France,Diabetes
+P04932,52,Male,France,Asthma
+P04933,65,Male,France,Arthritis
+P04934,80,Male,United States,Migraine
+P04935,26,Male,United States,Respiratory Infection
+P04936,25,Female,Germany,Diabetes
+P04937,69,Female,France,Heart Disease
+P04938,62,Female,United Kingdom,Respiratory Infection
+P04939,34,Male,Canada,Diabetes
+P04940,34,Female,United Kingdom,Respiratory Infection
+P04941,66,Male,France,Gastritis
+P04942,50,Male,France,Respiratory Infection
+P04943,49,Male,Canada,Migraine
+P04944,25,Female,France,Diabetes
+P04945,36,Male,Australia,Heart Disease
+P04946,80,Female,India,None
+P04947,55,Male,Singapore,Respiratory Infection
+P04948,20,Female,Canada,Heart Disease
+P04949,76,Female,France,Diabetes
+P04950,22,Female,United States,Heart Disease
+P04951,30,Female,United States,Asthma
+P04952,64,Female,India,Asthma
+P04953,63,Female,United States,Respiratory Infection
+P04954,78,Female,Singapore,Respiratory Infection
+P04955,48,Male,Brazil,Respiratory Infection
+P04956,72,Male,Brazil,Arthritis
+P04957,33,Male,Brazil,Gastritis
+P04958,67,Female,India,Heart Disease
+P04959,49,Male,India,High Cholesterol
+P04960,39,Female,Singapore,Hypertension
+P04961,46,Female,Canada,Respiratory Infection
+P04962,39,Male,Germany,Migraine
+P04963,60,Male,Brazil,Asthma
+P04964,20,Female,United States,Asthma
+P04965,71,Male,United Kingdom,None
+P04966,27,Female,Germany,Hypertension
+P04967,59,Male,Singapore,Heart Disease
+P04968,79,Female,Canada,Diabetes
+P04969,38,Male,United States,Hypertension
+P04970,33,Female,France,Gastritis
+P04971,29,Female,Canada,Respiratory Infection
+P04972,19,Male,Brazil,Migraine
+P04973,58,Male,Brazil,Heart Disease
+P04974,41,Male,France,Heart Disease
+P04975,52,Female,Singapore,Respiratory Infection
+P04976,73,Female,Japan,Gastritis
+P04977,47,Male,Canada,Respiratory Infection
+P04978,74,Male,France,Respiratory Infection
+P04979,47,Female,Singapore,Hypertension
+P04980,64,Female,Singapore,Migraine
+P04981,52,Female,India,Heart Disease
+P04982,36,Male,Canada,None
+P04983,67,Female,United States,Respiratory Infection
+P04984,25,Female,Japan,Arthritis
+P04985,43,Female,Australia,Diabetes
+P04986,66,Female,United Kingdom,Respiratory Infection
+P04987,57,Female,Canada,Respiratory Infection
+P04988,24,Female,Germany,Heart Disease
+P04989,47,Male,Singapore,Asthma
+P04990,24,Female,India,High Cholesterol
+P04991,20,Male,France,Diabetes
+P04992,18,Male,Brazil,Asthma
+P04993,53,Male,France,Hypertension
+P04994,42,Female,France,Arthritis
+P04995,54,Male,Japan,High Cholesterol
+P04996,18,Male,Canada,Diabetes
+P04997,32,Male,France,Asthma
+P04998,54,Male,Japan,Migraine
+P04999,30,Male,Australia,Migraine
+P05000,57,Female,United States,Gastritis

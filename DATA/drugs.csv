@@ -1,0 +1,51 @@
+drug_id,drug_name,drug_category,manufacturer
+D001,Lisinopril,Antihypertensive,Pfizer
+D002,Amlodipine,Antihypertensive,Novartis
+D003,Losartan,Antihypertensive,Merck
+D004,Metformin,Antidiabetic,Teva
+D005,Glimepiride,Antidiabetic,Sanofi
+D006,Sitagliptin,Antidiabetic,Merck
+D007,Atorvastatin,Lipid Lowering,Pfizer
+D008,Rosuvastatin,Lipid Lowering,AstraZeneca
+D009,Simvastatin,Lipid Lowering,Merck
+D010,Omeprazole,Gastrointestinal,AstraZeneca
+D011,Pantoprazole,Gastrointestinal,Sun Pharma
+D012,Esomeprazole,Gastrointestinal,AstraZeneca
+D013,Azithromycin,Antibiotic,Pfizer
+D014,Amoxicillin,Antibiotic,GSK
+D015,Ciprofloxacin,Antibiotic,Bayer
+D016,Doxycycline,Antibiotic,Teva
+D017,Ibuprofen,NSAID,Abbott
+D018,Naproxen,NSAID,Bayer
+D019,Diclofenac,NSAID,Novartis
+D020,Celecoxib,NSAID,Pfizer
+D021,Paracetamol,Analgesic,Johnson & Johnson
+D022,Tramadol,Analgesic,Grunenthal
+D023,Gabapentin,Neurological,Pfizer
+D024,Pregabalin,Neurological,Pfizer
+D025,Sertraline,Antidepressant,Pfizer
+D026,Escitalopram,Antidepressant,Lundbeck
+D027,Fluoxetine,Antidepressant,Eli Lilly
+D028,Alprazolam,Anxiolytic,Pfizer
+D029,Clonazepam,Anxiolytic,Roche
+D030,Montelukast,Respiratory,Merck
+D031,Salbutamol,Respiratory,GSK
+D032,Budesonide,Respiratory,AstraZeneca
+D033,Warfarin,Anticoagulant,Bristol Myers Squibb
+D034,Apixaban,Anticoagulant,Bristol Myers Squibb
+D035,Rivaroxaban,Anticoagulant,Bayer
+D036,Clopidogrel,Antiplatelet,Sanofi
+D037,Aspirin,Antiplatelet,Bayer
+D038,Prednisone,Corticosteroid,Teva
+D039,Hydrocortisone,Corticosteroid,Pfizer
+D040,Dexamethasone,Corticosteroid,Merck
+D041,Levothyroxine,Thyroid,AbbVie
+D042,Methotrexate,Immunosuppressant,Pfizer
+D043,Adalimumab,Immunosuppressant,AbbVie
+D044,Infliximab,Immunosuppressant,Johnson & Johnson
+D045,Ondansetron,Antiemetic,Novartis
+D046,Metoclopramide,Antiemetic,Sanofi
+D047,Furosemide,Diuretic,Sanofi
+D048,Hydrochlorothiazide,Diuretic,Teva
+D049,Amiodarone,Cardiac,Sanofi
+D050,Digoxin,Cardiac,GlaxoSmithKline
